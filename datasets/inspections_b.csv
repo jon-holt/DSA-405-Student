@@ -1,0 +1,1453 @@
+restaurant_id,restaurant_name,city,cuisine_category,seats,year_opened,permit_status
+R0001,Hillsborough House,Fuquay-Varina,BBQ,56,1976,Active
+R0001,Hillsborough House,Fuquay-Varina,Vegetarian Options,56,1976,Active
+R0001,Hillsborough House,Fuquay-Varina,Mexican,56,1976,Active
+R0001,Hillsborough House,Fuquay-Varina,Food Truck,56,1976,Active
+R0001,Hillsborough House,Fuquay-Varina,Catering,56,1976,Active
+R0002,Lenoir Creamery,Holly Springs,Breakfast,70,2009,Active
+R0002,Lenoir Creamery,Holly Springs,Vegan,70,2009,Active
+R0003,Trinity Diner,Morrisville,Buffet,150,2004,Active
+R0003,Trinity Diner,Morrisville,Delivery,150,2004,Active
+R0003,Trinity Diner,Morrisville,Mexican,150,2004,Active
+R0003,Trinity Diner,Morrisville,Vegan,150,2004,Active
+R0003,Trinity Diner,Morrisville,Halal,150,2004,Active
+R0003,Trinity Diner,Morrisville,Seafood,150,2004,Active
+R0003,Trinity Diner,Morrisville,Breakfast,150,2004,Active
+R0003,Trinity Diner,Morrisville,Vegetarian Options,150,2004,Active
+R0004,Davie Trattoria,Apex,Delivery,64,1972,Active
+R0004,Davie Trattoria,Apex,Seafood,64,1972,Active
+R0004,Davie Trattoria,Apex,Mexican,64,1972,Active
+R0004,Davie Trattoria,Apex,Vegetarian Options,64,1972,Active
+R0005,Harrington Chophouse,Cary,Pizza,67,1987,Active
+R0005,Harrington Chophouse,Cary,Buffet,67,1987,Active
+R0005,Harrington Chophouse,Cary,Southern,67,1987,Active
+R0005,Harrington Chophouse,Cary,Sports Bar,67,1987,Active
+R0005,Harrington Chophouse,Cary,Vietnamese,67,1987,Active
+R0005,Harrington Chophouse,Cary,Catering,67,1987,Active
+R0005,Harrington Chophouse,Cary,Thai,67,1987,Active
+R0005,Harrington Chophouse,Cary,Mexican,67,1987,Active
+R0006,Edenton Public House,Cary,Food Truck,27,1973,Lapsed
+R0006,Edenton Public House,Cary,Halal,27,1973,Lapsed
+R0006,Edenton Public House,Cary,Vegetarian Options,27,1973,Lapsed
+R0006,Edenton Public House,Cary,Thai,27,1973,Lapsed
+R0006,Edenton Public House,Cary,Breakfast,27,1973,Lapsed
+R0006,Edenton Public House,Cary,Mexican,27,1973,Lapsed
+R0006,Edenton Public House,Cary,Pizza,27,1973,Lapsed
+R0007,Pullen Tavern,Holly Springs,Mexican,187,1993,Active
+R0007,Pullen Tavern,Holly Springs,Seafood,187,1993,Active
+R0007,Pullen Tavern,Holly Springs,Buffet,187,1993,Active
+R0007,Pullen Tavern,Holly Springs,Vegan,187,1993,Active
+R0007,Pullen Tavern,Holly Springs,Late Night,187,1993,Active
+R0007,Pullen Tavern,Holly Springs,Sports Bar,187,1993,Active
+R0008,Umstead Chophouse,Holly Springs,Vegan,39,2013,Active
+R0008,Umstead Chophouse,Holly Springs,Breakfast,39,2013,Active
+R0008,Umstead Chophouse,Holly Springs,Coffee,39,2013,Active
+R0008,Umstead Chophouse,Holly Springs,Catering,39,2013,Active
+R0008,Umstead Chophouse,Holly Springs,Seafood,39,2013,Active
+R0008,Umstead Chophouse,Holly Springs,Delivery,39,2013,Active
+R0009,Boylan Counter,Durham,Italian,87,2012,Lapsed
+R0009,Boylan Counter,Durham,Vegetarian Options,87,2012,Lapsed
+R0009,Boylan Counter,Durham,Halal,87,2012,Lapsed
+R0009,Boylan Counter,Durham,Delivery,87,2012,Lapsed
+R0009,Boylan Counter,Durham,Pizza,87,2012,Lapsed
+R0009,Boylan Counter,Durham,Breakfast,87,2012,Lapsed
+R0009,Boylan Counter,Durham,Food Truck,87,2012,Lapsed
+R0009,Boylan Counter,Durham,Southern,87,2012,Lapsed
+R0010,Person Room,Holly Springs,Catering,44,2022,Active
+R0010,Person Room,Holly Springs,Vegetarian Options,44,2022,Active
+R0010,Person Room,Holly Springs,Mexican,44,2022,Active
+R0010,Person Room,Holly Springs,Bakery,44,2022,Active
+R0011,Person Taqueria,Raleigh,Seafood,102,2022,Active
+R0011,Person Taqueria,Raleigh,Delivery,102,2022,Active
+R0012,Martin Kitchen,Durham,Halal,47,1995,Pending
+R0012,Martin Kitchen,Durham,Vegan,47,1995,Pending
+R0012,Martin Kitchen,Durham,Thai,47,1995,Pending
+R0012,Martin Kitchen,Durham,Vegetarian Options,47,1995,Pending
+R0012,Martin Kitchen,Durham,Delivery,47,1995,Pending
+R0013,Umstead Deli,Wake Forest,Halal,97,1993,Active
+R0013,Umstead Deli,Wake Forest,Seafood,97,1993,Active
+R0013,Umstead Deli,Wake Forest,Breakfast,97,1993,Active
+R0013,Umstead Deli,Wake Forest,Vietnamese,97,1993,Active
+R0013,Umstead Deli,Wake Forest,Catering,97,1993,Active
+R0013,Umstead Deli,Wake Forest,Pizza,97,1993,Active
+R0013,Umstead Deli,Wake Forest,Bakery,97,1993,Active
+R0014,Trinity Public House,Wake Forest,Breakfast,123,2022,Active
+R0014,Trinity Public House,Wake Forest,Late Night,123,2022,Active
+R0014,Trinity Public House,Wake Forest,Italian,123,2022,Active
+R0014,Trinity Public House,Wake Forest,Halal,123,2022,Active
+R0014,Trinity Public House,Wake Forest,Pizza,123,2022,Active
+R0014,Trinity Public House,Wake Forest,Coffee,123,2022,Active
+R0014,Trinity Public House,Wake Forest,Vegan,123,2022,Active
+R0014,Trinity Public House,Wake Forest,Vegetarian Options,123,2022,Active
+R0015,Peace Smokehouse,Holly Springs,Catering,71,2010,Lapsed
+R0016,Boylan House,Raleigh,Southern,58,2020,Active
+R0017,Blount Trattoria,Knightdale,Halal,60,1981,Active
+R0017,Blount Trattoria,Knightdale,Delivery,60,1981,Active
+R0017,Blount Trattoria,Knightdale,Vegan,60,1981,Active
+R0017,Blount Trattoria,Knightdale,Vietnamese,60,1981,Active
+R0018,Harrington Taqueria,Cary,Sports Bar,131,2001,Active
+R0018,Harrington Taqueria,Cary,Vegetarian Options,131,2001,Active
+R0018,Harrington Taqueria,Cary,Pizza,131,2001,Active
+R0018,Harrington Taqueria,Cary,Vegan,131,2001,Active
+R0018,Harrington Taqueria,Cary,Thai,131,2001,Active
+R0018,Harrington Taqueria,Cary,Seafood,131,2001,Active
+R0019,Oak Public House,Garner,Seafood,68,1988,Active
+R0019,Oak Public House,Garner,Italian,68,1988,Active
+R0019,Oak Public House,Garner,Coffee,68,1988,Active
+R0019,Oak Public House,Garner,Sports Bar,68,1988,Active
+R0019,Oak Public House,Garner,Late Night,68,1988,Active
+R0019,Oak Public House,Garner,Southern,68,1988,Active
+R0019,Oak Public House,Garner,Breakfast,68,1988,Active
+R0019,Oak Public House,Garner,Vietnamese,68,1988,Active
+R0020,Blount Grill,Fuquay-Varina,Vietnamese,152,1995,Active
+R0020,Blount Grill,Fuquay-Varina,Halal,152,1995,Active
+R0020,Blount Grill,Fuquay-Varina,Food Truck,152,1995,Active
+R0020,Blount Grill,Fuquay-Varina,Vegan,152,1995,Active
+R0020,Blount Grill,Fuquay-Varina,Thai,152,1995,Active
+R0020,Blount Grill,Fuquay-Varina,Breakfast,152,1995,Active
+R0020,Blount Grill,Fuquay-Varina,Southern,152,1995,Active
+R0020,Blount Grill,Fuquay-Varina,Delivery,152,1995,Active
+R0021,Crabtree Bakery,Garner,Breakfast,53,2005,Active
+R0021,Crabtree Bakery,Garner,Seafood,53,2005,Active
+R0021,Crabtree Bakery,Garner,Halal,53,2005,Active
+R0021,Crabtree Bakery,Garner,Thai,53,2005,Active
+R0021,Crabtree Bakery,Garner,Late Night,53,2005,Active
+R0022,Bloodworth Tavern,Apex,Vegan,91,1973,Active
+R0022,Bloodworth Tavern,Apex,Vegetarian Options,91,1973,Active
+R0022,Bloodworth Tavern,Apex,Bakery,91,1973,Active
+R0022,Bloodworth Tavern,Apex,Seafood,91,1973,Active
+R0023,Glenwood Trattoria,Wake Forest,Bakery,43,2014,Active
+R0024,Martin Roasters,Morrisville,Food Truck,45,1992,Active
+R0024,Martin Roasters,Morrisville,Halal,45,1992,Active
+R0024,Martin Roasters,Morrisville,Vegetarian Options,45,1992,Active
+R0024,Martin Roasters,Morrisville,Thai,45,1992,Active
+R0025,Cameron Tavern,Holly Springs,Delivery,47,1988,Active
+R0025,Cameron Tavern,Holly Springs,Thai,47,1988,Active
+R0025,Cameron Tavern,Holly Springs,Bakery,47,1988,Active
+R0026,Hargett Chophouse,Apex,Italian,64,2023,Active
+R0026,Hargett Chophouse,Apex,Vietnamese,64,2023,Active
+R0027,Blount Supper Club,Fuquay-Varina,Southern,63,1976,Active
+R0028,Salisbury Counter,Fuquay-Varina,Vegetarian Options,103,2006,Pending
+R0028,Salisbury Counter,Fuquay-Varina,Catering,103,2006,Pending
+R0028,Salisbury Counter,Fuquay-Varina,Sports Bar,103,2006,Pending
+R0028,Salisbury Counter,Fuquay-Varina,Seafood,103,2006,Pending
+R0028,Salisbury Counter,Fuquay-Varina,Mexican,103,2006,Pending
+R0029,Umstead Bistro,Knightdale,Italian,61,1976,Active
+R0030,Edenton Provisions,Durham,Southern,29,2008,Active
+R0030,Edenton Provisions,Durham,Sports Bar,29,2008,Active
+R0030,Edenton Provisions,Durham,Catering,29,2008,Active
+R0030,Edenton Provisions,Durham,Coffee,29,2008,Active
+R0031,Fayetteville Cafe,Apex,Pizza,89,2022,Active
+R0031,Fayetteville Cafe,Apex,Late Night,89,2022,Active
+R0031,Fayetteville Cafe,Apex,Vegan,89,2022,Active
+R0031,Fayetteville Cafe,Apex,Halal,89,2022,Active
+R0031,Fayetteville Cafe,Apex,Mexican,89,2022,Active
+R0032,Glenwood Chophouse,Morrisville,Bakery,87,2008,Active
+R0032,Glenwood Chophouse,Morrisville,Seafood,87,2008,Active
+R0032,Glenwood Chophouse,Morrisville,Coffee,87,2008,Active
+R0032,Glenwood Chophouse,Morrisville,Breakfast,87,2008,Active
+R0033,Wilmington House,Wake Forest,Italian,14,2021,Active
+R0033,Wilmington House,Wake Forest,Southern,14,2021,Active
+R0033,Wilmington House,Wake Forest,Breakfast,14,2021,Active
+R0033,Wilmington House,Wake Forest,BBQ,14,2021,Active
+R0033,Wilmington House,Wake Forest,Bakery,14,2021,Active
+R0033,Wilmington House,Wake Forest,Sports Bar,14,2021,Active
+R0034,Boylan Noodle Bar,Holly Springs,Late Night,50,2002,Active
+R0034,Boylan Noodle Bar,Holly Springs,Catering,50,2002,Active
+R0034,Boylan Noodle Bar,Holly Springs,Seafood,50,2002,Active
+R0034,Boylan Noodle Bar,Holly Springs,Halal,50,2002,Active
+R0034,Boylan Noodle Bar,Holly Springs,Buffet,50,2002,Active
+R0034,Boylan Noodle Bar,Holly Springs,Pizza,50,2002,Active
+R0035,Hillsborough Canteen,Raleigh,Southern,157,1993,Active
+R0035,Hillsborough Canteen,Raleigh,Seafood,157,1993,Active
+R0035,Hillsborough Canteen,Raleigh,Mexican,157,1993,Active
+R0035,Hillsborough Canteen,Raleigh,Breakfast,157,1993,Active
+R0035,Hillsborough Canteen,Raleigh,Vegetarian Options,157,1993,Active
+R0035,Hillsborough Canteen,Raleigh,Bakery,157,1993,Active
+R0036,Bloodworth Room,Fuquay-Varina,Halal,73,2018,Active
+R0036,Bloodworth Room,Fuquay-Varina,Buffet,73,2018,Active
+R0036,Bloodworth Room,Fuquay-Varina,Southern,73,2018,Active
+R0036,Bloodworth Room,Fuquay-Varina,Pizza,73,2018,Active
+R0036,Bloodworth Room,Fuquay-Varina,Sports Bar,73,2018,Active
+R0036,Bloodworth Room,Fuquay-Varina,Food Truck,73,2018,Active
+R0036,Bloodworth Room,Fuquay-Varina,Mexican,73,2018,Active
+R0036,Bloodworth Room,Fuquay-Varina,Breakfast,73,2018,Active
+R0037,Hargett Bakery,Durham,Pizza,50,1994,Active
+R0037,Hargett Bakery,Durham,Seafood,50,1994,Active
+R0038,Blount Chophouse,Holly Springs,Food Truck,33,2021,Active
+R0038,Blount Chophouse,Holly Springs,Vegetarian Options,33,2021,Active
+R0038,Blount Chophouse,Holly Springs,Mexican,33,2021,Active
+R0038,Blount Chophouse,Holly Springs,Halal,33,2021,Active
+R0038,Blount Chophouse,Holly Springs,Sports Bar,33,2021,Active
+R0038,Blount Chophouse,Holly Springs,Vietnamese,33,2021,Active
+R0039,Salisbury Public House,Knightdale,Southern,119,2005,Active
+R0039,Salisbury Public House,Knightdale,Food Truck,119,2005,Active
+R0040,Oak Roasters,Raleigh,Bakery,51,2020,Active
+R0040,Oak Roasters,Raleigh,Catering,51,2020,Active
+R0040,Oak Roasters,Raleigh,Southern,51,2020,Active
+R0040,Oak Roasters,Raleigh,Food Truck,51,2020,Active
+R0040,Oak Roasters,Raleigh,Breakfast,51,2020,Active
+R0041,Jones Kitchen,Holly Springs,Italian,51,1995,Active
+R0041,Jones Kitchen,Holly Springs,Seafood,51,1995,Active
+R0041,Jones Kitchen,Holly Springs,Thai,51,1995,Active
+R0041,Jones Kitchen,Holly Springs,Delivery,51,1995,Active
+R0041,Jones Kitchen,Holly Springs,Sports Bar,51,1995,Active
+R0042,Brier Grill,Holly Springs,Halal,52,1986,Active
+R0042,Brier Grill,Holly Springs,Italian,52,1986,Active
+R0042,Brier Grill,Holly Springs,Catering,52,1986,Active
+R0042,Brier Grill,Holly Springs,Vegan,52,1986,Active
+R0042,Brier Grill,Holly Springs,Seafood,52,1986,Active
+R0042,Brier Grill,Holly Springs,Food Truck,52,1986,Active
+R0042,Brier Grill,Holly Springs,Pizza,52,1986,Active
+R0042,Brier Grill,Holly Springs,Southern,52,1986,Active
+R0043,Person Diner,Knightdale,Food Truck,30,1984,Pending
+R0043,Person Diner,Knightdale,Vegan,30,1984,Pending
+R0043,Person Diner,Knightdale,Pizza,30,1984,Pending
+R0043,Person Diner,Knightdale,Late Night,30,1984,Pending
+R0043,Person Diner,Knightdale,Delivery,30,1984,Pending
+R0044,Harrington Cafe,Garner,Food Truck,41,1984,Active
+R0044,Harrington Cafe,Garner,Vegan,41,1984,Active
+R0044,Harrington Cafe,Garner,Catering,41,1984,Active
+R0045,Wilmington Creamery,Wake Forest,Pizza,34,1976,Active
+R0045,Wilmington Creamery,Wake Forest,Catering,34,1976,Active
+R0045,Wilmington Creamery,Wake Forest,Italian,34,1976,Active
+R0045,Wilmington Creamery,Wake Forest,Breakfast,34,1976,Active
+R0045,Wilmington Creamery,Wake Forest,Coffee,34,1976,Active
+R0045,Wilmington Creamery,Wake Forest,Vegetarian Options,34,1976,Active
+R0046,Fayetteville Roasters,Apex,Coffee,26,1984,Active
+R0046,Fayetteville Roasters,Apex,Food Truck,26,1984,Active
+R0046,Fayetteville Roasters,Apex,Halal,26,1984,Active
+R0046,Fayetteville Roasters,Apex,Catering,26,1984,Active
+R0046,Fayetteville Roasters,Apex,Breakfast,26,1984,Active
+R0046,Fayetteville Roasters,Apex,Thai,26,1984,Active
+R0047,Pullen Table,Cary,Coffee,47,1979,Active
+R0047,Pullen Table,Cary,Seafood,47,1979,Active
+R0047,Pullen Table,Cary,Buffet,47,1979,Active
+R0047,Pullen Table,Cary,Thai,47,1979,Active
+R0047,Pullen Table,Cary,Vietnamese,47,1979,Active
+R0047,Pullen Table,Cary,Sports Bar,47,1979,Active
+R0048,Falls House,Fuquay-Varina,Thai,22,1989,Active
+R0048,Falls House,Fuquay-Varina,Seafood,22,1989,Active
+R0048,Falls House,Fuquay-Varina,Catering,22,1989,Active
+R0048,Falls House,Fuquay-Varina,Buffet,22,1989,Active
+R0048,Falls House,Fuquay-Varina,Coffee,22,1989,Active
+R0048,Falls House,Fuquay-Varina,Italian,22,1989,Active
+R0049,Hargett Deli,Raleigh,Italian,67,1991,Active
+R0049,Hargett Deli,Raleigh,Southern,67,1991,Active
+R0049,Hargett Deli,Raleigh,Breakfast,67,1991,Active
+R0049,Hargett Deli,Raleigh,Seafood,67,1991,Active
+R0049,Hargett Deli,Raleigh,Pizza,67,1991,Active
+R0049,Hargett Deli,Raleigh,Vegetarian Options,67,1991,Active
+R0049,Hargett Deli,Raleigh,Delivery,67,1991,Active
+R0050,Tucker Kitchen,Holly Springs,Coffee,61,1975,Active
+R0050,Tucker Kitchen,Holly Springs,Pizza,61,1975,Active
+R0050,Tucker Kitchen,Holly Springs,Vietnamese,61,1975,Active
+R0051,Pullen Room,Knightdale,Buffet,41,1976,Active
+R0051,Pullen Room,Knightdale,Italian,41,1976,Active
+R0052,Neuse Grill,Knightdale,Thai,19,1997,Active
+R0052,Neuse Grill,Knightdale,Southern,19,1997,Active
+R0052,Neuse Grill,Knightdale,Breakfast,19,1997,Active
+R0053,Blount Fish Camp,Wake Forest,Bakery,26,1977,Active
+R0053,Blount Fish Camp,Wake Forest,Catering,26,1977,Active
+R0053,Blount Fish Camp,Wake Forest,Thai,26,1977,Active
+R0053,Blount Fish Camp,Wake Forest,Mexican,26,1977,Active
+R0053,Blount Fish Camp,Wake Forest,Halal,26,1977,Active
+R0053,Blount Fish Camp,Wake Forest,Food Truck,26,1977,Active
+R0053,Blount Fish Camp,Wake Forest,Delivery,26,1977,Active
+R0053,Blount Fish Camp,Wake Forest,Buffet,26,1977,Active
+R0054,Harrington Provisions,Raleigh,Breakfast,19,2022,Active
+R0054,Harrington Provisions,Raleigh,Food Truck,19,2022,Active
+R0055,Fayetteville Public House,Morrisville,Mexican,57,1976,Active
+R0055,Fayetteville Public House,Morrisville,Catering,57,1976,Active
+R0055,Fayetteville Public House,Morrisville,Vegan,57,1976,Active
+R0056,Salisbury Creamery,Durham,Coffee,18,1986,Active
+R0056,Salisbury Creamery,Durham,Buffet,18,1986,Active
+R0056,Salisbury Creamery,Durham,Vietnamese,18,1986,Active
+R0056,Salisbury Creamery,Durham,Thai,18,1986,Active
+R0057,Neuse Trattoria,Holly Springs,Breakfast,126,1982,Active
+R0057,Neuse Trattoria,Holly Springs,Coffee,126,1982,Active
+R0057,Neuse Trattoria,Holly Springs,Pizza,126,1982,Active
+R0057,Neuse Trattoria,Holly Springs,Seafood,126,1982,Active
+R0058,Harrington Grill,Garner,Coffee,65,1994,Active
+R0058,Harrington Grill,Garner,Catering,65,1994,Active
+R0058,Harrington Grill,Garner,BBQ,65,1994,Active
+R0058,Harrington Grill,Garner,Sports Bar,65,1994,Active
+R0058,Harrington Grill,Garner,Halal,65,1994,Active
+R0058,Harrington Grill,Garner,Southern,65,1994,Active
+R0058,Harrington Grill,Garner,Breakfast,65,1994,Active
+R0058,Harrington Grill,Garner,Pizza,65,1994,Active
+R0059,Edenton Trattoria,Cary,Late Night,20,1994,Active
+R0060,Cameron Taqueria,Holly Springs,Southern,76,1996,Active
+R0060,Cameron Taqueria,Holly Springs,Sports Bar,76,1996,Active
+R0060,Cameron Taqueria,Holly Springs,Thai,76,1996,Active
+R0060,Cameron Taqueria,Holly Springs,Vegetarian Options,76,1996,Active
+R0061,Boylan Room,Knightdale,BBQ,57,1995,Active
+R0061,Boylan Room,Knightdale,Late Night,57,1995,Active
+R0061,Boylan Room,Knightdale,Buffet,57,1995,Active
+R0061,Boylan Room,Knightdale,Halal,57,1995,Active
+R0061,Boylan Room,Knightdale,Vietnamese,57,1995,Active
+R0062,Umstead Provisions,Garner,Italian,120,2016,Active
+R0063,Crabtree Table,Knightdale,BBQ,123,2005,Active
+R0063,Crabtree Table,Knightdale,Catering,123,2005,Active
+R0063,Crabtree Table,Knightdale,Sports Bar,123,2005,Active
+R0064,Glenwood Deli,Fuquay-Varina,Pizza,32,2016,Active
+R0064,Glenwood Deli,Fuquay-Varina,Delivery,32,2016,Active
+R0064,Glenwood Deli,Fuquay-Varina,Vegetarian Options,32,2016,Active
+R0064,Glenwood Deli,Fuquay-Varina,Breakfast,32,2016,Active
+R0065,Edenton Chophouse,Garner,Vegetarian Options,51,2008,Active
+R0065,Edenton Chophouse,Garner,Catering,51,2008,Active
+R0065,Edenton Chophouse,Garner,Seafood,51,2008,Active
+R0065,Edenton Chophouse,Garner,Halal,51,2008,Active
+R0065,Edenton Chophouse,Garner,Breakfast,51,2008,Active
+R0065,Edenton Chophouse,Garner,Vietnamese,51,2008,Active
+R0065,Edenton Chophouse,Garner,Food Truck,51,2008,Active
+R0066,Cabarrus Room,Durham,Halal,23,2016,Active
+R0066,Cabarrus Room,Durham,Food Truck,23,2016,Active
+R0066,Cabarrus Room,Durham,Breakfast,23,2016,Active
+R0066,Cabarrus Room,Durham,Southern,23,2016,Active
+R0067,Bloodworth House,Apex,Italian,27,1993,Active
+R0067,Bloodworth House,Apex,Sports Bar,27,1993,Active
+R0067,Bloodworth House,Apex,Vegan,27,1993,Active
+R0067,Bloodworth House,Apex,Pizza,27,1993,Active
+R0068,Hargett Grill,Knightdale,Bakery,32,2008,Active
+R0068,Hargett Grill,Knightdale,Italian,32,2008,Active
+R0068,Hargett Grill,Knightdale,Late Night,32,2008,Active
+R0068,Hargett Grill,Knightdale,Delivery,32,2008,Active
+R0068,Hargett Grill,Knightdale,Seafood,32,2008,Active
+R0069,Salisbury Provisions,Morrisville,Delivery,44,1995,Active
+R0069,Salisbury Provisions,Morrisville,Vegetarian Options,44,1995,Active
+R0069,Salisbury Provisions,Morrisville,Vietnamese,44,1995,Active
+R0070,Cabarrus Kitchen,Fuquay-Varina,Bakery,71,1997,Active
+R0070,Cabarrus Kitchen,Fuquay-Varina,Sports Bar,71,1997,Active
+R0070,Cabarrus Kitchen,Fuquay-Varina,Buffet,71,1997,Active
+R0070,Cabarrus Kitchen,Fuquay-Varina,BBQ,71,1997,Active
+R0070,Cabarrus Kitchen,Fuquay-Varina,Late Night,71,1997,Active
+R0071,Harrington Kitchen,Fuquay-Varina,Vegetarian Options,50,2000,Active
+R0071,Harrington Kitchen,Fuquay-Varina,Vegan,50,2000,Active
+R0071,Harrington Kitchen,Fuquay-Varina,Halal,50,2000,Active
+R0071,Harrington Kitchen,Fuquay-Varina,Catering,50,2000,Active
+R0071,Harrington Kitchen,Fuquay-Varina,Breakfast,50,2000,Active
+R0071,Harrington Kitchen,Fuquay-Varina,Bakery,50,2000,Active
+R0071,Harrington Kitchen,Fuquay-Varina,Buffet,50,2000,Active
+R0072,Cabarrus Smokehouse,Holly Springs,Seafood,30,2013,Active
+R0072,Cabarrus Smokehouse,Holly Springs,Pizza,30,2013,Active
+R0072,Cabarrus Smokehouse,Holly Springs,Bakery,30,2013,Active
+R0072,Cabarrus Smokehouse,Holly Springs,Sports Bar,30,2013,Active
+R0073,Falls Taqueria,Wake Forest,Catering,26,2019,Active
+R0074,Bloodworth Table,Wake Forest,Southern,84,2002,Active
+R0074,Bloodworth Table,Wake Forest,Vegan,84,2002,Active
+R0074,Bloodworth Table,Wake Forest,Coffee,84,2002,Active
+R0074,Bloodworth Table,Wake Forest,Delivery,84,2002,Active
+R0074,Bloodworth Table,Wake Forest,Pizza,84,2002,Active
+R0074,Bloodworth Table,Wake Forest,Breakfast,84,2002,Active
+R0075,Brier Table,Wake Forest,Bakery,67,1987,Active
+R0075,Brier Table,Wake Forest,Sports Bar,67,1987,Active
+R0075,Brier Table,Wake Forest,Coffee,67,1987,Active
+R0076,Umstead Tavern,Cary,Seafood,56,2008,Active
+R0076,Umstead Tavern,Cary,Vegan,56,2008,Active
+R0076,Umstead Tavern,Cary,Catering,56,2008,Active
+R0076,Umstead Tavern,Cary,Italian,56,2008,Active
+R0076,Umstead Tavern,Cary,Southern,56,2008,Active
+R0077,Peace Roasters,Raleigh,Buffet,125,2003,Active
+R0077,Peace Roasters,Raleigh,Italian,125,2003,Active
+R0077,Peace Roasters,Raleigh,Seafood,125,2003,Active
+R0077,Peace Roasters,Raleigh,BBQ,125,2003,Active
+R0077,Peace Roasters,Raleigh,Late Night,125,2003,Active
+R0078,Glenwood Cafe,Fuquay-Varina,Halal,53,1975,Active
+R0078,Glenwood Cafe,Fuquay-Varina,Vietnamese,53,1975,Active
+R0078,Glenwood Cafe,Fuquay-Varina,Bakery,53,1975,Active
+R0078,Glenwood Cafe,Fuquay-Varina,Coffee,53,1975,Active
+R0078,Glenwood Cafe,Fuquay-Varina,BBQ,53,1975,Active
+R0078,Glenwood Cafe,Fuquay-Varina,Sports Bar,53,1975,Active
+R0079,Hargett Kitchen,Garner,Halal,43,2022,Active
+R0079,Hargett Kitchen,Garner,Pizza,43,2022,Active
+R0079,Hargett Kitchen,Garner,Thai,43,2022,Active
+R0079,Hargett Kitchen,Garner,Italian,43,2022,Active
+R0079,Hargett Kitchen,Garner,Delivery,43,2022,Active
+R0079,Hargett Kitchen,Garner,Mexican,43,2022,Active
+R0079,Hargett Kitchen,Garner,Vegan,43,2022,Active
+R0079,Hargett Kitchen,Garner,BBQ,43,2022,Active
+R0080,Morgan Roasters,Raleigh,Halal,133,1999,Active
+R0081,Capital Cafe,Cary,Pizza,77,1981,Active
+R0081,Capital Cafe,Cary,Sports Bar,77,1981,Active
+R0081,Capital Cafe,Cary,Delivery,77,1981,Active
+R0081,Capital Cafe,Cary,Seafood,77,1981,Active
+R0082,Falls Bakery,Cary,Vietnamese,70,1993,Active
+R0082,Falls Bakery,Cary,Food Truck,70,1993,Active
+R0082,Falls Bakery,Cary,Thai,70,1993,Active
+R0082,Falls Bakery,Cary,BBQ,70,1993,Active
+R0082,Falls Bakery,Cary,Seafood,70,1993,Active
+R0082,Falls Bakery,Cary,Coffee,70,1993,Active
+R0083,Lenoir Canteen,Raleigh,Southern,214,1996,Active
+R0083,Lenoir Canteen,Raleigh,Italian,214,1996,Active
+R0083,Lenoir Canteen,Raleigh,Buffet,214,1996,Active
+R0083,Lenoir Canteen,Raleigh,Delivery,214,1996,Active
+R0083,Lenoir Canteen,Raleigh,Late Night,214,1996,Active
+R0084,Hillsborough Bakery,Raleigh,Coffee,102,2002,Active
+R0084,Hillsborough Bakery,Raleigh,Halal,102,2002,Active
+R0084,Hillsborough Bakery,Raleigh,Italian,102,2002,Active
+R0084,Hillsborough Bakery,Raleigh,Buffet,102,2002,Active
+R0084,Hillsborough Bakery,Raleigh,Delivery,102,2002,Active
+R0084,Hillsborough Bakery,Raleigh,Vegetarian Options,102,2002,Active
+R0084,Hillsborough Bakery,Raleigh,Pizza,102,2002,Active
+R0085,Umstead Diner,Morrisville,Coffee,48,1983,Active
+R0085,Umstead Diner,Morrisville,Thai,48,1983,Active
+R0085,Umstead Diner,Morrisville,Sports Bar,48,1983,Active
+R0085,Umstead Diner,Morrisville,Vegan,48,1983,Active
+R0085,Umstead Diner,Morrisville,Mexican,48,1983,Active
+R0086,Peace Canteen,Wake Forest,Mexican,109,2017,Active
+R0086,Peace Canteen,Wake Forest,Late Night,109,2017,Active
+R0086,Peace Canteen,Wake Forest,Coffee,109,2017,Active
+R0086,Peace Canteen,Wake Forest,Italian,109,2017,Active
+R0086,Peace Canteen,Wake Forest,Bakery,109,2017,Active
+R0086,Peace Canteen,Wake Forest,Seafood,109,2017,Active
+R0087,Tucker Creamery,Morrisville,BBQ,25,1996,Active
+R0087,Tucker Creamery,Morrisville,Catering,25,1996,Active
+R0087,Tucker Creamery,Morrisville,Coffee,25,1996,Active
+R0088,Capital Tavern,Apex,Halal,33,1998,Active
+R0088,Capital Tavern,Apex,Food Truck,33,1998,Active
+R0089,Edenton Canteen,Raleigh,Bakery,66,2013,Active
+R0089,Edenton Canteen,Raleigh,BBQ,66,2013,Active
+R0089,Edenton Canteen,Raleigh,Catering,66,2013,Active
+R0089,Edenton Canteen,Raleigh,Halal,66,2013,Active
+R0089,Edenton Canteen,Raleigh,Sports Bar,66,2013,Active
+R0090,Hillsborough Bistro,Garner,Southern,44,1983,Active
+R0090,Hillsborough Bistro,Garner,Pizza,44,1983,Active
+R0090,Hillsborough Bistro,Garner,Buffet,44,1983,Active
+R0090,Hillsborough Bistro,Garner,Vegetarian Options,44,1983,Active
+R0090,Hillsborough Bistro,Garner,Catering,44,1983,Active
+R0090,Hillsborough Bistro,Garner,Breakfast,44,1983,Active
+R0091,Edenton House,Durham,Pizza,139,2019,Active
+R0091,Edenton House,Durham,Bakery,139,2019,Active
+R0091,Edenton House,Durham,Breakfast,139,2019,Active
+R0091,Edenton House,Durham,Halal,139,2019,Active
+R0092,Bloodworth Deli,Wake Forest,Vietnamese,66,1973,Active
+R0093,Neuse Creamery,Raleigh,Seafood,129,2007,Active
+R0093,Neuse Creamery,Raleigh,Coffee,129,2007,Active
+R0093,Neuse Creamery,Raleigh,Pizza,129,2007,Active
+R0093,Neuse Creamery,Raleigh,Catering,129,2007,Active
+R0093,Neuse Creamery,Raleigh,BBQ,129,2007,Active
+R0093,Neuse Creamery,Raleigh,Delivery,129,2007,Active
+R0093,Neuse Creamery,Raleigh,Thai,129,2007,Active
+R0093,Neuse Creamery,Raleigh,Breakfast,129,2007,Active
+R0094,Tucker Supper Club,Durham,Delivery,91,1997,Active
+R0094,Tucker Supper Club,Durham,Pizza,91,1997,Active
+R0094,Tucker Supper Club,Durham,Vegan,91,1997,Active
+R0094,Tucker Supper Club,Durham,Italian,91,1997,Active
+R0095,Morgan Taqueria,Durham,Vegan,96,2016,Active
+R0095,Morgan Taqueria,Durham,Sports Bar,96,2016,Active
+R0095,Morgan Taqueria,Durham,Seafood,96,2016,Active
+R0095,Morgan Taqueria,Durham,Food Truck,96,2016,Active
+R0095,Morgan Taqueria,Durham,Halal,96,2016,Active
+R0096,Pullen Creamery,Fuquay-Varina,Breakfast,117,1993,Active
+R0096,Pullen Creamery,Fuquay-Varina,Bakery,117,1993,Active
+R0096,Pullen Creamery,Fuquay-Varina,Vegetarian Options,117,1993,Active
+R0096,Pullen Creamery,Fuquay-Varina,Coffee,117,1993,Active
+R0096,Pullen Creamery,Fuquay-Varina,Mexican,117,1993,Active
+R0097,Crabtree Roasters,Raleigh,Bakery,49,2016,Active
+R0097,Crabtree Roasters,Raleigh,Halal,49,2016,Active
+R0097,Crabtree Roasters,Raleigh,Late Night,49,2016,Active
+R0097,Crabtree Roasters,Raleigh,Vegetarian Options,49,2016,Active
+R0097,Crabtree Roasters,Raleigh,Pizza,49,2016,Active
+R0097,Crabtree Roasters,Raleigh,Catering,49,2016,Active
+R0097,Crabtree Roasters,Raleigh,Coffee,49,2016,Active
+R0097,Crabtree Roasters,Raleigh,Vegan,49,2016,Active
+R0098,Davie Roasters,Fuquay-Varina,Halal,116,2016,Active
+R0098,Davie Roasters,Fuquay-Varina,Food Truck,116,2016,Active
+R0099,Fayetteville Bistro,Garner,Vegan,76,2020,Active
+R0099,Fayetteville Bistro,Garner,Late Night,76,2020,Active
+R0099,Fayetteville Bistro,Garner,Catering,76,2020,Active
+R0099,Fayetteville Bistro,Garner,Mexican,76,2020,Active
+R0099,Fayetteville Bistro,Garner,Vegetarian Options,76,2020,Active
+R0099,Fayetteville Bistro,Garner,Delivery,76,2020,Active
+R0100,Peace Counter,Wake Forest,Southern,34,1998,Active
+R0100,Peace Counter,Wake Forest,BBQ,34,1998,Active
+R0100,Peace Counter,Wake Forest,Delivery,34,1998,Active
+R0100,Peace Counter,Wake Forest,Bakery,34,1998,Active
+R0101,Wilmington Deli,Holly Springs,BBQ,91,2023,Active
+R0101,Wilmington Deli,Holly Springs,Vietnamese,91,2023,Active
+R0101,Wilmington Deli,Holly Springs,Seafood,91,2023,Active
+R0101,Wilmington Deli,Holly Springs,Buffet,91,2023,Active
+R0101,Wilmington Deli,Holly Springs,Sports Bar,91,2023,Active
+R0102,Harrington Public House,Apex,Vietnamese,32,1994,Active
+R0102,Harrington Public House,Apex,Pizza,32,1994,Active
+R0102,Harrington Public House,Apex,Food Truck,32,1994,Active
+R0102,Harrington Public House,Apex,Vegetarian Options,32,1994,Active
+R0102,Harrington Public House,Apex,Catering,32,1994,Active
+R0102,Harrington Public House,Apex,Vegan,32,1994,Active
+R0103,Tucker Roasters,Fuquay-Varina,Food Truck,34,1991,Active
+R0103,Tucker Roasters,Fuquay-Varina,Vegetarian Options,34,1991,Active
+R0103,Tucker Roasters,Fuquay-Varina,Vietnamese,34,1991,Active
+R0104,Falls Provisions,Fuquay-Varina,Breakfast,23,1992,Active
+R0105,Person Table,Knightdale,Pizza,162,1980,Active
+R0105,Person Table,Knightdale,BBQ,162,1980,Active
+R0105,Person Table,Knightdale,Vietnamese,162,1980,Active
+R0106,Hillsborough Roasters,Fuquay-Varina,Pizza,80,1989,Active
+R0106,Hillsborough Roasters,Fuquay-Varina,Seafood,80,1989,Active
+R0107,Cabarrus Counter,Apex,Buffet,47,1996,Active
+R0107,Cabarrus Counter,Apex,Italian,47,1996,Active
+R0107,Cabarrus Counter,Apex,Southern,47,1996,Active
+R0107,Cabarrus Counter,Apex,Food Truck,47,1996,Active
+R0107,Cabarrus Counter,Apex,Sports Bar,47,1996,Active
+R0107,Cabarrus Counter,Apex,Coffee,47,1996,Active
+R0108,Neuse Bistro,Apex,BBQ,189,1976,Active
+R0108,Neuse Bistro,Apex,Vegan,189,1976,Active
+R0109,Hillsborough Table,Holly Springs,Mexican,86,1983,Active
+R0109,Hillsborough Table,Holly Springs,Southern,86,1983,Active
+R0109,Hillsborough Table,Holly Springs,Food Truck,86,1983,Active
+R0109,Hillsborough Table,Holly Springs,Seafood,86,1983,Active
+R0109,Hillsborough Table,Holly Springs,Halal,86,1983,Active
+R0109,Hillsborough Table,Holly Springs,Delivery,86,1983,Active
+R0109,Hillsborough Table,Holly Springs,BBQ,86,1983,Active
+R0110,Trinity Tavern,Holly Springs,Seafood,43,1987,Active
+R0110,Trinity Tavern,Holly Springs,Vietnamese,43,1987,Active
+R0110,Trinity Tavern,Holly Springs,Thai,43,1987,Active
+R0110,Trinity Tavern,Holly Springs,Mexican,43,1987,Active
+R0110,Trinity Tavern,Holly Springs,Pizza,43,1987,Active
+R0110,Trinity Tavern,Holly Springs,Southern,43,1987,Active
+R0111,Fayetteville Room,Garner,Southern,34,1978,Lapsed
+R0112,Hargett Room,Durham,Seafood,51,1989,Active
+R0112,Hargett Room,Durham,Mexican,51,1989,Active
+R0112,Hargett Room,Durham,Buffet,51,1989,Active
+R0112,Hargett Room,Durham,Bakery,51,1989,Active
+R0112,Hargett Room,Durham,Southern,51,1989,Active
+R0112,Hargett Room,Durham,Vegetarian Options,51,1989,Active
+R0113,Peace Deli,Cary,Pizza,66,1997,Active
+R0113,Peace Deli,Cary,Halal,66,1997,Active
+R0113,Peace Deli,Cary,Late Night,66,1997,Active
+R0113,Peace Deli,Cary,Mexican,66,1997,Active
+R0113,Peace Deli,Cary,Breakfast,66,1997,Active
+R0114,Brier Fish Camp,Raleigh,Pizza,67,2010,Active
+R0114,Brier Fish Camp,Raleigh,Vegan,67,2010,Active
+R0114,Brier Fish Camp,Raleigh,Italian,67,2010,Active
+R0114,Brier Fish Camp,Raleigh,Vietnamese,67,2010,Active
+R0115,Davie Kitchen,Durham,Breakfast,53,1979,Active
+R0116,Cabarrus Bakery,Raleigh,Vietnamese,101,2023,Active
+R0116,Cabarrus Bakery,Raleigh,Halal,101,2023,Active
+R0116,Cabarrus Bakery,Raleigh,Mexican,101,2023,Active
+R0116,Cabarrus Bakery,Raleigh,BBQ,101,2023,Active
+R0116,Cabarrus Bakery,Raleigh,Thai,101,2023,Active
+R0116,Cabarrus Bakery,Raleigh,Southern,101,2023,Active
+R0117,Pullen Diner,Morrisville,Food Truck,44,2005,Active
+R0117,Pullen Diner,Morrisville,Breakfast,44,2005,Active
+R0117,Pullen Diner,Morrisville,Sports Bar,44,2005,Active
+R0117,Pullen Diner,Morrisville,Pizza,44,2005,Active
+R0117,Pullen Diner,Morrisville,Delivery,44,2005,Active
+R0117,Pullen Diner,Morrisville,BBQ,44,2005,Active
+R0117,Pullen Diner,Morrisville,Southern,44,2005,Active
+R0118,Capital Diner,Cary,Vegetarian Options,68,2016,Active
+R0118,Capital Diner,Cary,Bakery,68,2016,Active
+R0119,Trinity Deli,Apex,Seafood,218,2019,Active
+R0119,Trinity Deli,Apex,Mexican,218,2019,Active
+R0119,Trinity Deli,Apex,Late Night,218,2019,Active
+R0120,Davie Room,Fuquay-Varina,Italian,55,1975,Active
+R0121,Tucker Table,Wake Forest,Delivery,84,2023,Active
+R0121,Tucker Table,Wake Forest,Catering,84,2023,Active
+R0121,Tucker Table,Wake Forest,Pizza,84,2023,Active
+R0121,Tucker Table,Wake Forest,Vegetarian Options,84,2023,Active
+R0122,Person Supper Club,Apex,Buffet,119,2021,Active
+R0122,Person Supper Club,Apex,Catering,119,2021,Active
+R0123,Falls Fish Camp,Knightdale,Vietnamese,32,1975,Active
+R0123,Falls Fish Camp,Knightdale,Bakery,32,1975,Active
+R0123,Falls Fish Camp,Knightdale,BBQ,32,1975,Active
+R0124,Davie Table,Fuquay-Varina,Halal,32,2023,Active
+R0124,Davie Table,Fuquay-Varina,Catering,32,2023,Active
+R0124,Davie Table,Fuquay-Varina,Vegetarian Options,32,2023,Active
+R0124,Davie Table,Fuquay-Varina,Mexican,32,2023,Active
+R0124,Davie Table,Fuquay-Varina,Delivery,32,2023,Active
+R0124,Davie Table,Fuquay-Varina,Southern,32,2023,Active
+R0125,Bloodworth Canteen,Wake Forest,Food Truck,106,2002,Active
+R0125,Bloodworth Canteen,Wake Forest,Vegan,106,2002,Active
+R0125,Bloodworth Canteen,Wake Forest,Vegetarian Options,106,2002,Active
+R0125,Bloodworth Canteen,Wake Forest,Buffet,106,2002,Active
+R0125,Bloodworth Canteen,Wake Forest,Bakery,106,2002,Active
+R0125,Bloodworth Canteen,Wake Forest,Sports Bar,106,2002,Active
+R0126,Peace Public House,Fuquay-Varina,Pizza,45,1976,Active
+R0126,Peace Public House,Fuquay-Varina,Mexican,45,1976,Active
+R0126,Peace Public House,Fuquay-Varina,Italian,45,1976,Active
+R0126,Peace Public House,Fuquay-Varina,Late Night,45,1976,Active
+R0127,Morgan Fish Camp,Cary,BBQ,23,2018,Active
+R0127,Morgan Fish Camp,Cary,Sports Bar,23,2018,Active
+R0127,Morgan Fish Camp,Cary,Seafood,23,2018,Active
+R0127,Morgan Fish Camp,Cary,Vegan,23,2018,Active
+R0127,Morgan Fish Camp,Cary,Delivery,23,2018,Active
+R0127,Morgan Fish Camp,Cary,Vegetarian Options,23,2018,Active
+R0127,Morgan Fish Camp,Cary,Buffet,23,2018,Active
+R0127,Morgan Fish Camp,Cary,Late Night,23,2018,Active
+R0128,Person Bistro,Holly Springs,Coffee,48,1972,Active
+R0128,Person Bistro,Holly Springs,Breakfast,48,1972,Active
+R0128,Person Bistro,Holly Springs,Buffet,48,1972,Active
+R0129,Umstead Public House,Morrisville,Vegan,141,1990,Active
+R0129,Umstead Public House,Morrisville,Thai,141,1990,Active
+R0129,Umstead Public House,Morrisville,Delivery,141,1990,Active
+R0129,Umstead Public House,Morrisville,Halal,141,1990,Active
+R0129,Umstead Public House,Morrisville,Southern,141,1990,Active
+R0129,Umstead Public House,Morrisville,BBQ,141,1990,Active
+R0129,Umstead Public House,Morrisville,Late Night,141,1990,Active
+R0130,Martin Creamery,Fuquay-Varina,Late Night,97,1981,Active
+R0131,Edenton Cafe,Fuquay-Varina,Coffee,40,1999,Active
+R0131,Edenton Cafe,Fuquay-Varina,Vegan,40,1999,Active
+R0131,Edenton Cafe,Fuquay-Varina,BBQ,40,1999,Active
+R0131,Edenton Cafe,Fuquay-Varina,Vietnamese,40,1999,Active
+R0131,Edenton Cafe,Fuquay-Varina,Late Night,40,1999,Active
+R0131,Edenton Cafe,Fuquay-Varina,Italian,40,1999,Active
+R0132,Hargett Fish Camp,Fuquay-Varina,Coffee,66,1991,Active
+R0132,Hargett Fish Camp,Fuquay-Varina,Catering,66,1991,Active
+R0133,Blount Diner,Knightdale,Seafood,73,1977,Active
+R0133,Blount Diner,Knightdale,Vegan,73,1977,Active
+R0133,Blount Diner,Knightdale,Bakery,73,1977,Active
+R0133,Blount Diner,Knightdale,Coffee,73,1977,Active
+R0134,Jones Public House,Raleigh,Italian,25,2008,Active
+R0134,Jones Public House,Raleigh,Buffet,25,2008,Active
+R0134,Jones Public House,Raleigh,Vegetarian Options,25,2008,Active
+R0134,Jones Public House,Raleigh,Food Truck,25,2008,Active
+R0134,Jones Public House,Raleigh,Delivery,25,2008,Active
+R0135,Cabarrus House,Durham,Italian,112,2009,Active
+R0135,Cabarrus House,Durham,Vegan,112,2009,Active
+R0135,Cabarrus House,Durham,Delivery,112,2009,Active
+R0135,Cabarrus House,Durham,Thai,112,2009,Active
+R0135,Cabarrus House,Durham,Breakfast,112,2009,Active
+R0135,Cabarrus House,Durham,Southern,112,2009,Active
+R0135,Cabarrus House,Durham,BBQ,112,2009,Active
+R0135,Cabarrus House,Durham,Mexican,112,2009,Active
+R0136,Edenton Taqueria,Knightdale,Catering,118,2014,Active
+R0136,Edenton Taqueria,Knightdale,Food Truck,118,2014,Active
+R0136,Edenton Taqueria,Knightdale,Delivery,118,2014,Active
+R0136,Edenton Taqueria,Knightdale,Late Night,118,2014,Active
+R0136,Edenton Taqueria,Knightdale,Vietnamese,118,2014,Active
+R0136,Edenton Taqueria,Knightdale,Mexican,118,2014,Active
+R0136,Edenton Taqueria,Knightdale,Buffet,118,2014,Active
+R0136,Edenton Taqueria,Knightdale,Breakfast,118,2014,Active
+R0137,Bloodworth Noodle Bar,Holly Springs,Pizza,38,1978,Active
+R0137,Bloodworth Noodle Bar,Holly Springs,Delivery,38,1978,Active
+R0137,Bloodworth Noodle Bar,Holly Springs,Buffet,38,1978,Active
+R0138,Person Counter,Morrisville,Bakery,116,1986,Lapsed
+R0138,Person Counter,Morrisville,Vegetarian Options,116,1986,Lapsed
+R0138,Person Counter,Morrisville,Late Night,116,1986,Lapsed
+R0138,Person Counter,Morrisville,Italian,116,1986,Lapsed
+R0138,Person Counter,Morrisville,Catering,116,1986,Lapsed
+R0138,Person Counter,Morrisville,Southern,116,1986,Lapsed
+R0138,Person Counter,Morrisville,Vietnamese,116,1986,Lapsed
+R0138,Person Counter,Morrisville,Breakfast,116,1986,Lapsed
+R0139,Jones Table,Morrisville,Seafood,84,1999,Active
+R0139,Jones Table,Morrisville,Thai,84,1999,Active
+R0139,Jones Table,Morrisville,Buffet,84,1999,Active
+R0140,Bloodworth Creamery,Knightdale,Seafood,18,1983,Active
+R0141,Lenoir Tavern,Holly Springs,Late Night,74,1996,Active
+R0141,Lenoir Tavern,Holly Springs,Italian,74,1996,Active
+R0141,Lenoir Tavern,Holly Springs,Buffet,74,1996,Active
+R0141,Lenoir Tavern,Holly Springs,Seafood,74,1996,Active
+R0141,Lenoir Tavern,Holly Springs,Southern,74,1996,Active
+R0141,Lenoir Tavern,Holly Springs,BBQ,74,1996,Active
+R0142,Salisbury Tavern,Wake Forest,BBQ,40,1976,Active
+R0142,Salisbury Tavern,Wake Forest,Southern,40,1976,Active
+R0142,Salisbury Tavern,Wake Forest,Vegetarian Options,40,1976,Active
+R0142,Salisbury Tavern,Wake Forest,Coffee,40,1976,Active
+R0143,Wilmington Table,Raleigh,Delivery,15,2010,Active
+R0143,Wilmington Table,Raleigh,Seafood,15,2010,Active
+R0143,Wilmington Table,Raleigh,Food Truck,15,2010,Active
+R0143,Wilmington Table,Raleigh,Pizza,15,2010,Active
+R0143,Wilmington Table,Raleigh,Mexican,15,2010,Active
+R0143,Wilmington Table,Raleigh,Vegan,15,2010,Active
+R0143,Wilmington Table,Raleigh,Late Night,15,2010,Active
+R0143,Wilmington Table,Raleigh,Sports Bar,15,2010,Active
+R0144,Trinity Counter,Apex,Sports Bar,54,1980,Active
+R0144,Trinity Counter,Apex,Buffet,54,1980,Active
+R0144,Trinity Counter,Apex,Vegan,54,1980,Active
+R0144,Trinity Counter,Apex,Vietnamese,54,1980,Active
+R0144,Trinity Counter,Apex,Breakfast,54,1980,Active
+R0144,Trinity Counter,Apex,Vegetarian Options,54,1980,Active
+R0144,Trinity Counter,Apex,Late Night,54,1980,Active
+R0145,Jones Canteen,Cary,Catering,51,1977,Active
+R0145,Jones Canteen,Cary,BBQ,51,1977,Active
+R0145,Jones Canteen,Cary,Coffee,51,1977,Active
+R0145,Jones Canteen,Cary,Halal,51,1977,Active
+R0146,Lenoir Counter,Raleigh,Late Night,14,1979,Active
+R0146,Lenoir Counter,Raleigh,Vegan,14,1979,Active
+R0146,Lenoir Counter,Raleigh,Food Truck,14,1979,Active
+R0146,Lenoir Counter,Raleigh,Sports Bar,14,1979,Active
+R0146,Lenoir Counter,Raleigh,Italian,14,1979,Active
+R0147,Tucker Cafe,Holly Springs,Bakery,35,1977,Active
+R0147,Tucker Cafe,Holly Springs,Southern,35,1977,Active
+R0147,Tucker Cafe,Holly Springs,Coffee,35,1977,Active
+R0147,Tucker Cafe,Holly Springs,Breakfast,35,1977,Active
+R0147,Tucker Cafe,Holly Springs,Vietnamese,35,1977,Active
+R0147,Tucker Cafe,Holly Springs,Late Night,35,1977,Active
+R0148,Salisbury Chophouse,Morrisville,Late Night,49,2018,Active
+R0148,Salisbury Chophouse,Morrisville,Vietnamese,49,2018,Active
+R0148,Salisbury Chophouse,Morrisville,Breakfast,49,2018,Active
+R0148,Salisbury Chophouse,Morrisville,Italian,49,2018,Active
+R0148,Salisbury Chophouse,Morrisville,Coffee,49,2018,Active
+R0148,Salisbury Chophouse,Morrisville,Thai,49,2018,Active
+R0148,Salisbury Chophouse,Morrisville,Delivery,49,2018,Active
+R0148,Salisbury Chophouse,Morrisville,Pizza,49,2018,Active
+R0149,Umstead Bakery,Durham,Southern,57,2019,Active
+R0150,Neuse Public House,Apex,Catering,70,1989,Active
+R0150,Neuse Public House,Apex,BBQ,70,1989,Active
+R0150,Neuse Public House,Apex,Italian,70,1989,Active
+R0150,Neuse Public House,Apex,Coffee,70,1989,Active
+R0150,Neuse Public House,Apex,Buffet,70,1989,Active
+R0150,Neuse Public House,Apex,Bakery,70,1989,Active
+R0150,Neuse Public House,Apex,Late Night,70,1989,Active
+R0151,Crabtree Chophouse,Fuquay-Varina,Food Truck,50,2001,Active
+R0151,Crabtree Chophouse,Fuquay-Varina,Halal,50,2001,Active
+R0151,Crabtree Chophouse,Fuquay-Varina,Breakfast,50,2001,Active
+R0151,Crabtree Chophouse,Fuquay-Varina,Italian,50,2001,Active
+R0151,Crabtree Chophouse,Fuquay-Varina,Mexican,50,2001,Active
+R0151,Crabtree Chophouse,Fuquay-Varina,Sports Bar,50,2001,Active
+R0151,Crabtree Chophouse,Fuquay-Varina,Coffee,50,2001,Active
+R0151,Crabtree Chophouse,Fuquay-Varina,Thai,50,2001,Active
+R0152,Glenwood Grill,Raleigh,Italian,23,2006,Active
+R0152,Glenwood Grill,Raleigh,Seafood,23,2006,Active
+R0152,Glenwood Grill,Raleigh,Catering,23,2006,Active
+R0152,Glenwood Grill,Raleigh,Food Truck,23,2006,Active
+R0152,Glenwood Grill,Raleigh,Bakery,23,2006,Active
+R0153,Neuse Canteen,Apex,Late Night,75,1983,Active
+R0153,Neuse Canteen,Apex,Sports Bar,75,1983,Active
+R0153,Neuse Canteen,Apex,Vegan,75,1983,Active
+R0153,Neuse Canteen,Apex,Catering,75,1983,Active
+R0153,Neuse Canteen,Apex,Southern,75,1983,Active
+R0153,Neuse Canteen,Apex,Vietnamese,75,1983,Active
+R0153,Neuse Canteen,Apex,Coffee,75,1983,Active
+R0154,Davie Fish Camp,Morrisville,BBQ,107,1990,Active
+R0154,Davie Fish Camp,Morrisville,Thai,107,1990,Active
+R0154,Davie Fish Camp,Morrisville,Bakery,107,1990,Active
+R0154,Davie Fish Camp,Morrisville,Breakfast,107,1990,Active
+R0154,Davie Fish Camp,Morrisville,Southern,107,1990,Active
+R0154,Davie Fish Camp,Morrisville,Mexican,107,1990,Active
+R0154,Davie Fish Camp,Morrisville,Sports Bar,107,1990,Active
+R0154,Davie Fish Camp,Morrisville,Pizza,107,1990,Active
+R0155,Davie Supper Club,Holly Springs,Thai,77,1980,Active
+R0155,Davie Supper Club,Holly Springs,Buffet,77,1980,Active
+R0155,Davie Supper Club,Holly Springs,Bakery,77,1980,Active
+R0155,Davie Supper Club,Holly Springs,Sports Bar,77,1980,Active
+R0155,Davie Supper Club,Holly Springs,Halal,77,1980,Active
+R0155,Davie Supper Club,Holly Springs,BBQ,77,1980,Active
+R0155,Davie Supper Club,Holly Springs,Breakfast,77,1980,Active
+R0155,Davie Supper Club,Holly Springs,Late Night,77,1980,Active
+R0156,Neuse Bakery,Knightdale,Breakfast,46,1977,Lapsed
+R0156,Neuse Bakery,Knightdale,BBQ,46,1977,Lapsed
+R0156,Neuse Bakery,Knightdale,Delivery,46,1977,Lapsed
+R0157,Wilmington Noodle Bar,Apex,Catering,17,2014,Active
+R0157,Wilmington Noodle Bar,Apex,Coffee,17,2014,Active
+R0157,Wilmington Noodle Bar,Apex,Vegan,17,2014,Active
+R0157,Wilmington Noodle Bar,Apex,Late Night,17,2014,Active
+R0158,Cabarrus Bistro,Knightdale,Halal,23,1980,Active
+R0158,Cabarrus Bistro,Knightdale,Sports Bar,23,1980,Active
+R0158,Cabarrus Bistro,Knightdale,Mexican,23,1980,Active
+R0158,Cabarrus Bistro,Knightdale,Seafood,23,1980,Active
+R0158,Cabarrus Bistro,Knightdale,Buffet,23,1980,Active
+R0158,Cabarrus Bistro,Knightdale,Catering,23,1980,Active
+R0158,Cabarrus Bistro,Knightdale,Vegan,23,1980,Active
+R0158,Cabarrus Bistro,Knightdale,Italian,23,1980,Active
+R0159,Trinity Noodle Bar,Durham,Coffee,63,1991,Active
+R0159,Trinity Noodle Bar,Durham,Southern,63,1991,Active
+R0159,Trinity Noodle Bar,Durham,Breakfast,63,1991,Active
+R0159,Trinity Noodle Bar,Durham,Vietnamese,63,1991,Active
+R0160,Wilmington Bistro,Apex,Breakfast,41,2020,Active
+R0160,Wilmington Bistro,Apex,Mexican,41,2020,Active
+R0160,Wilmington Bistro,Apex,Late Night,41,2020,Active
+R0160,Wilmington Bistro,Apex,Coffee,41,2020,Active
+R0161,Davie Public House,Fuquay-Varina,Catering,34,2022,Active
+R0161,Davie Public House,Fuquay-Varina,BBQ,34,2022,Active
+R0162,Morgan Smokehouse,Cary,Italian,86,2004,Active
+R0162,Morgan Smokehouse,Cary,Vegetarian Options,86,2004,Active
+R0162,Morgan Smokehouse,Cary,Catering,86,2004,Active
+R0162,Morgan Smokehouse,Cary,Breakfast,86,2004,Active
+R0162,Morgan Smokehouse,Cary,Vegan,86,2004,Active
+R0162,Morgan Smokehouse,Cary,Seafood,86,2004,Active
+R0162,Morgan Smokehouse,Cary,BBQ,86,2004,Active
+R0162,Morgan Smokehouse,Cary,Sports Bar,86,2004,Active
+R0163,Harrington Tavern,Durham,Delivery,44,2022,Active
+R0163,Harrington Tavern,Durham,Seafood,44,2022,Active
+R0163,Harrington Tavern,Durham,Thai,44,2022,Active
+R0163,Harrington Tavern,Durham,Breakfast,44,2022,Active
+R0163,Harrington Tavern,Durham,Italian,44,2022,Active
+R0163,Harrington Tavern,Durham,Southern,44,2022,Active
+R0163,Harrington Tavern,Durham,Vietnamese,44,2022,Active
+R0164,Brier Kitchen,Wake Forest,Sports Bar,23,2011,Active
+R0164,Brier Kitchen,Wake Forest,Halal,23,2011,Active
+R0164,Brier Kitchen,Wake Forest,Southern,23,2011,Active
+R0165,Crabtree Supper Club,Raleigh,Food Truck,39,2002,Active
+R0165,Crabtree Supper Club,Raleigh,Southern,39,2002,Active
+R0165,Crabtree Supper Club,Raleigh,Italian,39,2002,Active
+R0165,Crabtree Supper Club,Raleigh,Bakery,39,2002,Active
+R0165,Crabtree Supper Club,Raleigh,Breakfast,39,2002,Active
+R0165,Crabtree Supper Club,Raleigh,Late Night,39,2002,Active
+R0166,Neuse Supper Club,Morrisville,Late Night,31,1992,Active
+R0166,Neuse Supper Club,Morrisville,Halal,31,1992,Active
+R0166,Neuse Supper Club,Morrisville,Southern,31,1992,Active
+R0166,Neuse Supper Club,Morrisville,Bakery,31,1992,Active
+R0166,Neuse Supper Club,Morrisville,Mexican,31,1992,Active
+R0166,Neuse Supper Club,Morrisville,Vegan,31,1992,Active
+R0166,Neuse Supper Club,Morrisville,Vegetarian Options,31,1992,Active
+R0167,Peace Fish Camp,Apex,Coffee,69,1987,Active
+R0167,Peace Fish Camp,Apex,Sports Bar,69,1987,Active
+R0167,Peace Fish Camp,Apex,Vietnamese,69,1987,Active
+R0167,Peace Fish Camp,Apex,Food Truck,69,1987,Active
+R0167,Peace Fish Camp,Apex,Late Night,69,1987,Active
+R0167,Peace Fish Camp,Apex,Vegetarian Options,69,1987,Active
+R0168,Cabarrus Deli,Raleigh,Vegetarian Options,28,2016,Active
+R0168,Cabarrus Deli,Raleigh,Delivery,28,2016,Active
+R0168,Cabarrus Deli,Raleigh,Food Truck,28,2016,Active
+R0169,Neuse Tavern,Garner,Catering,110,1972,Active
+R0169,Neuse Tavern,Garner,Halal,110,1972,Active
+R0170,Cameron Table,Apex,Vegetarian Options,27,1978,Active
+R0170,Cameron Table,Apex,Breakfast,27,1978,Active
+R0170,Cameron Table,Apex,Bakery,27,1978,Active
+R0170,Cameron Table,Apex,Halal,27,1978,Active
+R0171,Peace Chophouse,Cary,Food Truck,80,2013,Active
+R0171,Peace Chophouse,Cary,Italian,80,2013,Active
+R0171,Peace Chophouse,Cary,BBQ,80,2013,Active
+R0171,Peace Chophouse,Cary,Catering,80,2013,Active
+R0172,Harrington Canteen,Raleigh,Catering,144,1989,Active
+R0172,Harrington Canteen,Raleigh,Bakery,144,1989,Active
+R0172,Harrington Canteen,Raleigh,Late Night,144,1989,Active
+R0172,Harrington Canteen,Raleigh,Southern,144,1989,Active
+R0172,Harrington Canteen,Raleigh,Vegan,144,1989,Active
+R0172,Harrington Canteen,Raleigh,Coffee,144,1989,Active
+R0172,Harrington Canteen,Raleigh,Buffet,144,1989,Active
+R0172,Harrington Canteen,Raleigh,Seafood,144,1989,Active
+R0173,Trinity Creamery,Holly Springs,Buffet,52,1972,Active
+R0174,Jones House,Fuquay-Varina,Catering,20,2018,Active
+R0175,Hillsborough Public House,Knightdale,Catering,45,2019,Pending
+R0175,Hillsborough Public House,Knightdale,Vietnamese,45,2019,Pending
+R0175,Hillsborough Public House,Knightdale,Halal,45,2019,Pending
+R0175,Hillsborough Public House,Knightdale,Thai,45,2019,Pending
+R0175,Hillsborough Public House,Knightdale,Italian,45,2019,Pending
+R0176,Boylan Creamery,Raleigh,BBQ,145,1976,Active
+R0176,Boylan Creamery,Raleigh,Sports Bar,145,1976,Active
+R0176,Boylan Creamery,Raleigh,Thai,145,1976,Active
+R0176,Boylan Creamery,Raleigh,Late Night,145,1976,Active
+R0176,Boylan Creamery,Raleigh,Buffet,145,1976,Active
+R0177,Harrington Table,Knightdale,Southern,83,1989,Active
+R0177,Harrington Table,Knightdale,Breakfast,83,1989,Active
+R0177,Harrington Table,Knightdale,Sports Bar,83,1989,Active
+R0178,Salisbury Diner,Durham,Sports Bar,28,1998,Active
+R0178,Salisbury Diner,Durham,Mexican,28,1998,Active
+R0178,Salisbury Diner,Durham,Halal,28,1998,Active
+R0178,Salisbury Diner,Durham,Delivery,28,1998,Active
+R0178,Salisbury Diner,Durham,Italian,28,1998,Active
+R0178,Salisbury Diner,Durham,Thai,28,1998,Active
+R0178,Salisbury Diner,Durham,Seafood,28,1998,Active
+R0179,Crabtree Grill,Holly Springs,Delivery,15,1986,Active
+R0179,Crabtree Grill,Holly Springs,Coffee,15,1986,Active
+R0179,Crabtree Grill,Holly Springs,Bakery,15,1986,Active
+R0179,Crabtree Grill,Holly Springs,Catering,15,1986,Active
+R0179,Crabtree Grill,Holly Springs,Halal,15,1986,Active
+R0179,Crabtree Grill,Holly Springs,Sports Bar,15,1986,Active
+R0179,Crabtree Grill,Holly Springs,Seafood,15,1986,Active
+R0179,Crabtree Grill,Holly Springs,Vegetarian Options,15,1986,Active
+R0180,Blount Bistro,Morrisville,BBQ,93,1994,Active
+R0180,Blount Bistro,Morrisville,Pizza,93,1994,Active
+R0180,Blount Bistro,Morrisville,Sports Bar,93,1994,Active
+R0180,Blount Bistro,Morrisville,Mexican,93,1994,Active
+R0180,Blount Bistro,Morrisville,Breakfast,93,1994,Active
+R0180,Blount Bistro,Morrisville,Southern,93,1994,Active
+R0180,Blount Bistro,Morrisville,Buffet,93,1994,Active
+R0181,Umstead Creamery,Fuquay-Varina,Vietnamese,171,1993,Active
+R0181,Umstead Creamery,Fuquay-Varina,Sports Bar,171,1993,Active
+R0181,Umstead Creamery,Fuquay-Varina,Vegan,171,1993,Active
+R0181,Umstead Creamery,Fuquay-Varina,Delivery,171,1993,Active
+R0181,Umstead Creamery,Fuquay-Varina,Thai,171,1993,Active
+R0181,Umstead Creamery,Fuquay-Varina,Halal,171,1993,Active
+R0182,Davie Cafe,Morrisville,Vegan,139,1999,Active
+R0182,Davie Cafe,Morrisville,Thai,139,1999,Active
+R0182,Davie Cafe,Morrisville,Delivery,139,1999,Active
+R0182,Davie Cafe,Morrisville,Late Night,139,1999,Active
+R0182,Davie Cafe,Morrisville,Vegetarian Options,139,1999,Active
+R0182,Davie Cafe,Morrisville,Italian,139,1999,Active
+R0182,Davie Cafe,Morrisville,Seafood,139,1999,Active
+R0183,Brier Bistro,Durham,Catering,30,2011,Active
+R0183,Brier Bistro,Durham,Food Truck,30,2011,Active
+R0183,Brier Bistro,Durham,Breakfast,30,2011,Active
+R0183,Brier Bistro,Durham,Coffee,30,2011,Active
+R0184,Harrington Bakery,Knightdale,Late Night,113,1983,Active
+R0184,Harrington Bakery,Knightdale,Vegan,113,1983,Active
+R0184,Harrington Bakery,Knightdale,Sports Bar,113,1983,Active
+R0184,Harrington Bakery,Knightdale,Food Truck,113,1983,Active
+R0184,Harrington Bakery,Knightdale,Buffet,113,1983,Active
+R0184,Harrington Bakery,Knightdale,Mexican,113,1983,Active
+R0184,Harrington Bakery,Knightdale,Delivery,113,1983,Active
+R0184,Harrington Bakery,Knightdale,Vietnamese,113,1983,Active
+R0185,Cabarrus Provisions,Knightdale,Thai,90,2006,Active
+R0185,Cabarrus Provisions,Knightdale,Halal,90,2006,Active
+R0185,Cabarrus Provisions,Knightdale,Vietnamese,90,2006,Active
+R0185,Cabarrus Provisions,Knightdale,Vegetarian Options,90,2006,Active
+R0186,Lenoir Trattoria,Durham,Catering,98,2013,Active
+R0186,Lenoir Trattoria,Durham,Sports Bar,98,2013,Active
+R0186,Lenoir Trattoria,Durham,Pizza,98,2013,Active
+R0186,Lenoir Trattoria,Durham,Late Night,98,2013,Active
+R0187,Morgan Cafe,Wake Forest,Vegetarian Options,98,2010,Active
+R0187,Morgan Cafe,Wake Forest,Breakfast,98,2010,Active
+R0187,Morgan Cafe,Wake Forest,Mexican,98,2010,Active
+R0187,Morgan Cafe,Wake Forest,Coffee,98,2010,Active
+R0187,Morgan Cafe,Wake Forest,Delivery,98,2010,Active
+R0187,Morgan Cafe,Wake Forest,Food Truck,98,2010,Active
+R0188,Fayetteville Tavern,Garner,Halal,108,2010,Active
+R0188,Fayetteville Tavern,Garner,Food Truck,108,2010,Active
+R0188,Fayetteville Tavern,Garner,Buffet,108,2010,Active
+R0188,Fayetteville Tavern,Garner,Southern,108,2010,Active
+R0189,Falls Creamery,Garner,Late Night,56,2016,Active
+R0189,Falls Creamery,Garner,Bakery,56,2016,Active
+R0189,Falls Creamery,Garner,Vietnamese,56,2016,Active
+R0189,Falls Creamery,Garner,Buffet,56,2016,Active
+R0190,Wilmington Chophouse,Morrisville,Sports Bar,48,1979,Active
+R0190,Wilmington Chophouse,Morrisville,Seafood,48,1979,Active
+R0190,Wilmington Chophouse,Morrisville,Coffee,48,1979,Active
+R0190,Wilmington Chophouse,Morrisville,Catering,48,1979,Active
+R0190,Wilmington Chophouse,Morrisville,Bakery,48,1979,Active
+R0190,Wilmington Chophouse,Morrisville,Southern,48,1979,Active
+R0191,Davie House,Garner,BBQ,29,1976,Active
+R0191,Davie House,Garner,Food Truck,29,1976,Active
+R0191,Davie House,Garner,Thai,29,1976,Active
+R0191,Davie House,Garner,Halal,29,1976,Active
+R0191,Davie House,Garner,Late Night,29,1976,Active
+R0191,Davie House,Garner,Pizza,29,1976,Active
+R0192,Crabtree Cafe,Fuquay-Varina,Breakfast,24,1997,Active
+R0192,Crabtree Cafe,Fuquay-Varina,Vegetarian Options,24,1997,Active
+R0192,Crabtree Cafe,Fuquay-Varina,Coffee,24,1997,Active
+R0193,Morgan Kitchen,Knightdale,Pizza,43,2005,Active
+R0193,Morgan Kitchen,Knightdale,Italian,43,2005,Active
+R0193,Morgan Kitchen,Knightdale,Seafood,43,2005,Active
+R0193,Morgan Kitchen,Knightdale,Vegetarian Options,43,2005,Active
+R0194,Cameron House,Morrisville,Coffee,31,1991,Active
+R0194,Cameron House,Morrisville,Delivery,31,1991,Active
+R0195,Cabarrus Taqueria,Wake Forest,Vegetarian Options,36,2019,Active
+R0195,Cabarrus Taqueria,Wake Forest,Thai,36,2019,Active
+R0195,Cabarrus Taqueria,Wake Forest,Catering,36,2019,Active
+R0195,Cabarrus Taqueria,Wake Forest,Halal,36,2019,Active
+R0196,Martin Chophouse,Morrisville,BBQ,52,1980,Active
+R0196,Martin Chophouse,Morrisville,Food Truck,52,1980,Active
+R0196,Martin Chophouse,Morrisville,Catering,52,1980,Active
+R0196,Martin Chophouse,Morrisville,Sports Bar,52,1980,Active
+R0196,Martin Chophouse,Morrisville,Italian,52,1980,Active
+R0196,Martin Chophouse,Morrisville,Vegetarian Options,52,1980,Active
+R0196,Martin Chophouse,Morrisville,Bakery,52,1980,Active
+R0197,Jones Fish Camp,Garner,Breakfast,155,2013,Active
+R0197,Jones Fish Camp,Garner,Buffet,155,2013,Active
+R0198,Martin Table,Knightdale,Buffet,180,2007,Active
+R0198,Martin Table,Knightdale,Food Truck,180,2007,Active
+R0198,Martin Table,Knightdale,Pizza,180,2007,Active
+R0198,Martin Table,Knightdale,Catering,180,2007,Active
+R0198,Martin Table,Knightdale,Breakfast,180,2007,Active
+R0198,Martin Table,Knightdale,Bakery,180,2007,Active
+R0198,Martin Table,Knightdale,Seafood,180,2007,Active
+R0199,Capital Room,Garner,Pizza,216,1989,Active
+R0199,Capital Room,Garner,Buffet,216,1989,Active
+R0199,Capital Room,Garner,Bakery,216,1989,Active
+R0199,Capital Room,Garner,Delivery,216,1989,Active
+R0199,Capital Room,Garner,Catering,216,1989,Active
+R0199,Capital Room,Garner,Coffee,216,1989,Active
+R0199,Capital Room,Garner,Southern,216,1989,Active
+R0199,Capital Room,Garner,Italian,216,1989,Active
+R0200,Capital Creamery,Raleigh,Coffee,55,1995,Active
+R0200,Capital Creamery,Raleigh,Bakery,55,1995,Active
+R0200,Capital Creamery,Raleigh,Halal,55,1995,Active
+R0200,Capital Creamery,Raleigh,Italian,55,1995,Active
+R0200,Capital Creamery,Raleigh,Buffet,55,1995,Active
+R0200,Capital Creamery,Raleigh,Catering,55,1995,Active
+R0201,Oak House,Apex,Pizza,51,1993,Active
+R0201,Oak House,Apex,Vegan,51,1993,Active
+R0201,Oak House,Apex,Coffee,51,1993,Active
+R0201,Oak House,Apex,Late Night,51,1993,Active
+R0201,Oak House,Apex,Delivery,51,1993,Active
+R0202,Cabarrus Table,Cary,Southern,104,2010,Active
+R0203,Harrington Fish Camp,Holly Springs,Vegetarian Options,123,1992,Active
+R0203,Harrington Fish Camp,Holly Springs,Seafood,123,1992,Active
+R0203,Harrington Fish Camp,Holly Springs,Vietnamese,123,1992,Active
+R0203,Harrington Fish Camp,Holly Springs,Breakfast,123,1992,Active
+R0203,Harrington Fish Camp,Holly Springs,Vegan,123,1992,Active
+R0203,Harrington Fish Camp,Holly Springs,Bakery,123,1992,Active
+R0203,Harrington Fish Camp,Holly Springs,BBQ,123,1992,Active
+R0203,Harrington Fish Camp,Holly Springs,Delivery,123,1992,Active
+R0204,Martin Fish Camp,Morrisville,Italian,28,2022,Active
+R0204,Martin Fish Camp,Morrisville,Thai,28,2022,Active
+R0204,Martin Fish Camp,Morrisville,Vegetarian Options,28,2022,Active
+R0205,Crabtree Counter,Wake Forest,Seafood,56,2003,Active
+R0205,Crabtree Counter,Wake Forest,Southern,56,2003,Active
+R0206,Boylan Fish Camp,Wake Forest,Mexican,106,2016,Active
+R0206,Boylan Fish Camp,Wake Forest,Food Truck,106,2016,Active
+R0207,Lenoir Fish Camp,Wake Forest,Vegan,112,1989,Active
+R0207,Lenoir Fish Camp,Wake Forest,Mexican,112,1989,Active
+R0208,Crabtree Public House,Garner,Italian,59,2003,Active
+R0208,Crabtree Public House,Garner,Pizza,59,2003,Active
+R0208,Crabtree Public House,Garner,Halal,59,2003,Active
+R0208,Crabtree Public House,Garner,Vegan,59,2003,Active
+R0208,Crabtree Public House,Garner,Food Truck,59,2003,Active
+R0208,Crabtree Public House,Garner,Catering,59,2003,Active
+R0209,Brier Cafe,Morrisville,Vegetarian Options,33,1982,Active
+R0209,Brier Cafe,Morrisville,Pizza,33,1982,Active
+R0209,Brier Cafe,Morrisville,Sports Bar,33,1982,Active
+R0209,Brier Cafe,Morrisville,Bakery,33,1982,Active
+R0209,Brier Cafe,Morrisville,Thai,33,1982,Active
+R0209,Brier Cafe,Morrisville,Halal,33,1982,Active
+R0210,Blount Canteen,Apex,Italian,90,1987,Active
+R0210,Blount Canteen,Apex,Vegan,90,1987,Active
+R0210,Blount Canteen,Apex,Vietnamese,90,1987,Active
+R0210,Blount Canteen,Apex,Sports Bar,90,1987,Active
+R0211,Tucker Trattoria,Holly Springs,Late Night,69,1994,Active
+R0211,Tucker Trattoria,Holly Springs,Sports Bar,69,1994,Active
+R0211,Tucker Trattoria,Holly Springs,Vegetarian Options,69,1994,Active
+R0211,Tucker Trattoria,Holly Springs,BBQ,69,1994,Active
+R0211,Tucker Trattoria,Holly Springs,Italian,69,1994,Active
+R0211,Tucker Trattoria,Holly Springs,Delivery,69,1994,Active
+R0211,Tucker Trattoria,Holly Springs,Vegan,69,1994,Active
+R0212,Boylan Public House,Fuquay-Varina,Buffet,109,1990,Active
+R0212,Boylan Public House,Fuquay-Varina,Halal,109,1990,Active
+R0212,Boylan Public House,Fuquay-Varina,Food Truck,109,1990,Active
+R0212,Boylan Public House,Fuquay-Varina,Vegetarian Options,109,1990,Active
+R0212,Boylan Public House,Fuquay-Varina,Breakfast,109,1990,Active
+R0212,Boylan Public House,Fuquay-Varina,Delivery,109,1990,Active
+R0212,Boylan Public House,Fuquay-Varina,Italian,109,1990,Active
+R0212,Boylan Public House,Fuquay-Varina,Sports Bar,109,1990,Active
+R0213,Hargett Counter,Holly Springs,Halal,93,1977,Active
+R0213,Hargett Counter,Holly Springs,Buffet,93,1977,Active
+R0213,Hargett Counter,Holly Springs,Vietnamese,93,1977,Active
+R0213,Hargett Counter,Holly Springs,Sports Bar,93,1977,Active
+R0213,Hargett Counter,Holly Springs,Delivery,93,1977,Active
+R0214,Wilmington Grill,Holly Springs,Mexican,43,1991,Active
+R0214,Wilmington Grill,Holly Springs,Delivery,43,1991,Active
+R0214,Wilmington Grill,Holly Springs,Coffee,43,1991,Active
+R0214,Wilmington Grill,Holly Springs,BBQ,43,1991,Active
+R0214,Wilmington Grill,Holly Springs,Italian,43,1991,Active
+R0214,Wilmington Grill,Holly Springs,Pizza,43,1991,Active
+R0214,Wilmington Grill,Holly Springs,Bakery,43,1991,Active
+R0215,Morgan Table,Wake Forest,Pizza,21,2022,Active
+R0215,Morgan Table,Wake Forest,Catering,21,2022,Active
+R0215,Morgan Table,Wake Forest,Delivery,21,2022,Active
+R0215,Morgan Table,Wake Forest,Breakfast,21,2022,Active
+R0215,Morgan Table,Wake Forest,Vegan,21,2022,Active
+R0215,Morgan Table,Wake Forest,Halal,21,2022,Active
+R0215,Morgan Table,Wake Forest,Vietnamese,21,2022,Active
+R0215,Morgan Table,Wake Forest,Sports Bar,21,2022,Active
+R0216,Hillsborough Room,Morrisville,Food Truck,39,2016,Active
+R0216,Hillsborough Room,Morrisville,Thai,39,2016,Active
+R0216,Hillsborough Room,Morrisville,Pizza,39,2016,Active
+R0216,Hillsborough Room,Morrisville,Bakery,39,2016,Active
+R0216,Hillsborough Room,Morrisville,Halal,39,2016,Active
+R0216,Hillsborough Room,Morrisville,Southern,39,2016,Active
+R0216,Hillsborough Room,Morrisville,Mexican,39,2016,Active
+R0217,Tucker Canteen,Fuquay-Varina,BBQ,45,2011,Active
+R0217,Tucker Canteen,Fuquay-Varina,Vietnamese,45,2011,Active
+R0217,Tucker Canteen,Fuquay-Varina,Pizza,45,2011,Active
+R0217,Tucker Canteen,Fuquay-Varina,Late Night,45,2011,Active
+R0217,Tucker Canteen,Fuquay-Varina,Mexican,45,2011,Active
+R0218,Glenwood Provisions,Fuquay-Varina,Late Night,22,1996,Active
+R0218,Glenwood Provisions,Fuquay-Varina,Delivery,22,1996,Active
+R0218,Glenwood Provisions,Fuquay-Varina,Southern,22,1996,Active
+R0218,Glenwood Provisions,Fuquay-Varina,Vietnamese,22,1996,Active
+R0219,Edenton Kitchen,Apex,Italian,107,2018,Lapsed
+R0219,Edenton Kitchen,Apex,Bakery,107,2018,Lapsed
+R0219,Edenton Kitchen,Apex,Buffet,107,2018,Lapsed
+R0219,Edenton Kitchen,Apex,Halal,107,2018,Lapsed
+R0219,Edenton Kitchen,Apex,Vietnamese,107,2018,Lapsed
+R0219,Edenton Kitchen,Apex,Breakfast,107,2018,Lapsed
+R0220,Cabarrus Fish Camp,Fuquay-Varina,Buffet,42,2014,Active
+R0220,Cabarrus Fish Camp,Fuquay-Varina,Bakery,42,2014,Active
+R0220,Cabarrus Fish Camp,Fuquay-Varina,Catering,42,2014,Active
+R0220,Cabarrus Fish Camp,Fuquay-Varina,Halal,42,2014,Active
+R0220,Cabarrus Fish Camp,Fuquay-Varina,BBQ,42,2014,Active
+R0221,Glenwood Supper Club,Durham,Late Night,70,1987,Active
+R0221,Glenwood Supper Club,Durham,Mexican,70,1987,Active
+R0222,Brier Room,Apex,Vietnamese,52,1976,Active
+R0222,Brier Room,Apex,Pizza,52,1976,Active
+R0223,Lenoir Room,Knightdale,Southern,30,2005,Active
+R0223,Lenoir Room,Knightdale,Bakery,30,2005,Active
+R0223,Lenoir Room,Knightdale,Halal,30,2005,Active
+R0223,Lenoir Room,Knightdale,Mexican,30,2005,Active
+R0223,Lenoir Room,Knightdale,Vietnamese,30,2005,Active
+R0223,Lenoir Room,Knightdale,BBQ,30,2005,Active
+R0223,Lenoir Room,Knightdale,Delivery,30,2005,Active
+R0224,Lenoir Bakery,Fuquay-Varina,Sports Bar,136,1977,Active
+R0224,Lenoir Bakery,Fuquay-Varina,Delivery,136,1977,Active
+R0225,Edenton Diner,Apex,Italian,53,1985,Pending
+R0225,Edenton Diner,Apex,BBQ,53,1985,Pending
+R0225,Edenton Diner,Apex,Pizza,53,1985,Pending
+R0225,Edenton Diner,Apex,Delivery,53,1985,Pending
+R0225,Edenton Diner,Apex,Vegan,53,1985,Pending
+R0225,Edenton Diner,Apex,Halal,53,1985,Pending
+R0226,Capital Provisions,Cary,Sports Bar,37,1993,Lapsed
+R0226,Capital Provisions,Cary,Buffet,37,1993,Lapsed
+R0226,Capital Provisions,Cary,Vegetarian Options,37,1993,Lapsed
+R0226,Capital Provisions,Cary,Late Night,37,1993,Lapsed
+R0226,Capital Provisions,Cary,Breakfast,37,1993,Lapsed
+R0227,Oak Bakery,Knightdale,Sports Bar,23,1974,Active
+R0227,Oak Bakery,Knightdale,Catering,23,1974,Active
+R0227,Oak Bakery,Knightdale,Mexican,23,1974,Active
+R0227,Oak Bakery,Knightdale,Vegan,23,1974,Active
+R0228,Martin Noodle Bar,Garner,Seafood,27,1973,Pending
+R0228,Martin Noodle Bar,Garner,Thai,27,1973,Pending
+R0228,Martin Noodle Bar,Garner,Vegan,27,1973,Pending
+R0228,Martin Noodle Bar,Garner,Pizza,27,1973,Pending
+R0229,Pullen Kitchen,Garner,Food Truck,37,1992,Active
+R0230,Harrington Bistro,Holly Springs,Halal,35,1982,Active
+R0230,Harrington Bistro,Holly Springs,Breakfast,35,1982,Active
+R0230,Harrington Bistro,Holly Springs,Coffee,35,1982,Active
+R0230,Harrington Bistro,Holly Springs,Food Truck,35,1982,Active
+R0230,Harrington Bistro,Holly Springs,Thai,35,1982,Active
+R0230,Harrington Bistro,Holly Springs,Buffet,35,1982,Active
+R0231,Brier Smokehouse,Garner,Vegetarian Options,59,1987,Active
+R0231,Brier Smokehouse,Garner,Pizza,59,1987,Active
+R0231,Brier Smokehouse,Garner,Halal,59,1987,Active
+R0231,Brier Smokehouse,Garner,Seafood,59,1987,Active
+R0231,Brier Smokehouse,Garner,Bakery,59,1987,Active
+R0231,Brier Smokehouse,Garner,Mexican,59,1987,Active
+R0231,Brier Smokehouse,Garner,Italian,59,1987,Active
+R0232,Trinity Trattoria,Wake Forest,Delivery,20,1975,Active
+R0233,Salisbury Trattoria,Raleigh,Southern,43,2017,Active
+R0233,Salisbury Trattoria,Raleigh,Halal,43,2017,Active
+R0233,Salisbury Trattoria,Raleigh,Delivery,43,2017,Active
+R0233,Salisbury Trattoria,Raleigh,Bakery,43,2017,Active
+R0233,Salisbury Trattoria,Raleigh,Seafood,43,2017,Active
+R0234,Glenwood Roasters,Wake Forest,Halal,106,2007,Active
+R0234,Glenwood Roasters,Wake Forest,Mexican,106,2007,Active
+R0234,Glenwood Roasters,Wake Forest,Buffet,106,2007,Active
+R0234,Glenwood Roasters,Wake Forest,Delivery,106,2007,Active
+R0234,Glenwood Roasters,Wake Forest,BBQ,106,2007,Active
+R0235,Blount Creamery,Raleigh,Vegan,73,2018,Active
+R0235,Blount Creamery,Raleigh,Italian,73,2018,Active
+R0235,Blount Creamery,Raleigh,Halal,73,2018,Active
+R0235,Blount Creamery,Raleigh,Buffet,73,2018,Active
+R0235,Blount Creamery,Raleigh,BBQ,73,2018,Active
+R0236,Davie Smokehouse,Fuquay-Varina,Buffet,224,1996,Active
+R0236,Davie Smokehouse,Fuquay-Varina,Late Night,224,1996,Active
+R0236,Davie Smokehouse,Fuquay-Varina,Coffee,224,1996,Active
+R0236,Davie Smokehouse,Fuquay-Varina,Vegetarian Options,224,1996,Active
+R0236,Davie Smokehouse,Fuquay-Varina,Bakery,224,1996,Active
+R0236,Davie Smokehouse,Fuquay-Varina,Vietnamese,224,1996,Active
+R0237,Hargett Bistro,Raleigh,Late Night,14,1984,Active
+R0237,Hargett Bistro,Raleigh,Thai,14,1984,Active
+R0237,Hargett Bistro,Raleigh,Sports Bar,14,1984,Active
+R0237,Hargett Bistro,Raleigh,Delivery,14,1984,Active
+R0237,Hargett Bistro,Raleigh,Vegetarian Options,14,1984,Active
+R0238,Falls Cafe,Raleigh,Pizza,73,2012,Active
+R0238,Falls Cafe,Raleigh,Italian,73,2012,Active
+R0238,Falls Cafe,Raleigh,Late Night,73,2012,Active
+R0238,Falls Cafe,Raleigh,Buffet,73,2012,Active
+R0238,Falls Cafe,Raleigh,Delivery,73,2012,Active
+R0238,Falls Cafe,Raleigh,Vegan,73,2012,Active
+R0238,Falls Cafe,Raleigh,Southern,73,2012,Active
+R0238,Falls Cafe,Raleigh,Sports Bar,73,2012,Active
+R0239,Martin Cafe,Cary,Vegetarian Options,157,1979,Lapsed
+R0239,Martin Cafe,Cary,Sports Bar,157,1979,Lapsed
+R0239,Martin Cafe,Cary,Seafood,157,1979,Lapsed
+R0239,Martin Cafe,Cary,Thai,157,1979,Lapsed
+R0240,Cameron Deli,Durham,Delivery,109,1982,Active
+R0240,Cameron Deli,Durham,Italian,109,1982,Active
+R0240,Cameron Deli,Durham,Vegetarian Options,109,1982,Active
+R0240,Cameron Deli,Durham,Mexican,109,1982,Active
+R0240,Cameron Deli,Durham,Thai,109,1982,Active
+R0241,Davie Bistro,Holly Springs,Vegetarian Options,48,2002,Active
+R0241,Davie Bistro,Holly Springs,Pizza,48,2002,Active
+R0241,Davie Bistro,Holly Springs,Vegan,48,2002,Active
+R0242,Tucker Chophouse,Garner,Thai,81,2011,Active
+R0242,Tucker Chophouse,Garner,Pizza,81,2011,Active
+R0242,Tucker Chophouse,Garner,Seafood,81,2011,Active
+R0242,Tucker Chophouse,Garner,Vegan,81,2011,Active
+R0242,Tucker Chophouse,Garner,Delivery,81,2011,Active
+R0242,Tucker Chophouse,Garner,Vegetarian Options,81,2011,Active
+R0242,Tucker Chophouse,Garner,BBQ,81,2011,Active
+R0242,Tucker Chophouse,Garner,Mexican,81,2011,Active
+R0243,Falls Smokehouse,Knightdale,Late Night,29,2015,Active
+R0243,Falls Smokehouse,Knightdale,Breakfast,29,2015,Active
+R0243,Falls Smokehouse,Knightdale,Food Truck,29,2015,Active
+R0243,Falls Smokehouse,Knightdale,Buffet,29,2015,Active
+R0244,Hargett Public House,Durham,Buffet,141,1985,Active
+R0244,Hargett Public House,Durham,Italian,141,1985,Active
+R0244,Hargett Public House,Durham,Pizza,141,1985,Active
+R0244,Hargett Public House,Durham,Vegetarian Options,141,1985,Active
+R0244,Hargett Public House,Durham,Catering,141,1985,Active
+R0244,Hargett Public House,Durham,Sports Bar,141,1985,Active
+R0244,Hargett Public House,Durham,BBQ,141,1985,Active
+R0244,Hargett Public House,Durham,Late Night,141,1985,Active
+R0245,Salisbury Fish Camp,Apex,Southern,55,2022,Active
+R0245,Salisbury Fish Camp,Apex,Late Night,55,2022,Active
+R0245,Salisbury Fish Camp,Apex,Seafood,55,2022,Active
+R0245,Salisbury Fish Camp,Apex,Italian,55,2022,Active
+R0245,Salisbury Fish Camp,Apex,Catering,55,2022,Active
+R0245,Salisbury Fish Camp,Apex,Food Truck,55,2022,Active
+R0246,Salisbury Bistro,Wake Forest,Italian,93,2019,Active
+R0246,Salisbury Bistro,Wake Forest,Bakery,93,2019,Active
+R0246,Salisbury Bistro,Wake Forest,Pizza,93,2019,Active
+R0246,Salisbury Bistro,Wake Forest,Breakfast,93,2019,Active
+R0246,Salisbury Bistro,Wake Forest,Thai,93,2019,Active
+R0246,Salisbury Bistro,Wake Forest,Sports Bar,93,2019,Active
+R0246,Salisbury Bistro,Wake Forest,BBQ,93,2019,Active
+R0247,Brier House,Garner,Pizza,94,1999,Active
+R0247,Brier House,Garner,Thai,94,1999,Active
+R0247,Brier House,Garner,Bakery,94,1999,Active
+R0247,Brier House,Garner,Catering,94,1999,Active
+R0248,Hargett Creamery,Garner,Vegan,43,2022,Active
+R0248,Hargett Creamery,Garner,Halal,43,2022,Active
+R0249,Jones Trattoria,Durham,Delivery,45,2002,Active
+R0249,Jones Trattoria,Durham,Vegetarian Options,45,2002,Active
+R0249,Jones Trattoria,Durham,BBQ,45,2002,Active
+R0249,Jones Trattoria,Durham,Late Night,45,2002,Active
+R0249,Jones Trattoria,Durham,Coffee,45,2002,Active
+R0249,Jones Trattoria,Durham,Bakery,45,2002,Active
+R0249,Jones Trattoria,Durham,Vegan,45,2002,Active
+R0249,Jones Trattoria,Durham,Buffet,45,2002,Active
+R0250,Trinity Canteen,Cary,Coffee,39,2019,Active
+R0250,Trinity Canteen,Cary,Halal,39,2019,Active
+R0251,Neuse Provisions,Cary,Mexican,130,2022,Active
+R0251,Neuse Provisions,Cary,Buffet,130,2022,Active
+R0251,Neuse Provisions,Cary,Breakfast,130,2022,Active
+R0251,Neuse Provisions,Cary,Italian,130,2022,Active
+R0251,Neuse Provisions,Cary,BBQ,130,2022,Active
+R0251,Neuse Provisions,Cary,Late Night,130,2022,Active
+R0252,Oak Kitchen,Wake Forest,Vegan,64,2000,Active
+R0252,Oak Kitchen,Wake Forest,Southern,64,2000,Active
+R0252,Oak Kitchen,Wake Forest,Seafood,64,2000,Active
+R0253,Person Kitchen,Wake Forest,Buffet,51,1974,Active
+R0253,Person Kitchen,Wake Forest,Vegetarian Options,51,1974,Active
+R0253,Person Kitchen,Wake Forest,Seafood,51,1974,Active
+R0253,Person Kitchen,Wake Forest,Vietnamese,51,1974,Active
+R0253,Person Kitchen,Wake Forest,Sports Bar,51,1974,Active
+R0254,Hargett Taqueria,Raleigh,Buffet,127,2005,Active
+R0254,Hargett Taqueria,Raleigh,Food Truck,127,2005,Active
+R0254,Hargett Taqueria,Raleigh,Vegetarian Options,127,2005,Active
+R0254,Hargett Taqueria,Raleigh,Delivery,127,2005,Active
+R0255,Blount Bakery,Knightdale,Vegetarian Options,77,1989,Active
+R0255,Blount Bakery,Knightdale,Sports Bar,77,1989,Active
+R0255,Blount Bakery,Knightdale,Southern,77,1989,Active
+R0255,Blount Bakery,Knightdale,Breakfast,77,1989,Active
+R0255,Blount Bakery,Knightdale,Vietnamese,77,1989,Active
+R0255,Blount Bakery,Knightdale,Mexican,77,1989,Active
+R0255,Blount Bakery,Knightdale,Thai,77,1989,Active
+R0256,Cameron Counter,Holly Springs,Vietnamese,97,2016,Active
+R0256,Cameron Counter,Holly Springs,Seafood,97,2016,Active
+R0256,Cameron Counter,Holly Springs,Catering,97,2016,Active
+R0256,Cameron Counter,Holly Springs,Bakery,97,2016,Active
+R0256,Cameron Counter,Holly Springs,Coffee,97,2016,Active
+R0257,Umstead Smokehouse,Raleigh,Catering,22,2010,Active
+R0257,Umstead Smokehouse,Raleigh,Sports Bar,22,2010,Active
+R0258,Martin Counter,Raleigh,Italian,27,1979,Active
+R0259,Jones Taqueria,Knightdale,Southern,119,1986,Active
+R0260,Jones Cafe,Knightdale,Bakery,48,2006,Active
+R0260,Jones Cafe,Knightdale,Catering,48,2006,Active
+R0260,Jones Cafe,Knightdale,BBQ,48,2006,Active
+R0260,Jones Cafe,Knightdale,Breakfast,48,2006,Active
+R0260,Jones Cafe,Knightdale,Halal,48,2006,Active
+R0261,Morgan Grill,Wake Forest,Sports Bar,26,1988,Active
+R0261,Morgan Grill,Wake Forest,Vegetarian Options,26,1988,Active
+R0261,Morgan Grill,Wake Forest,Halal,26,1988,Active
+R0261,Morgan Grill,Wake Forest,Bakery,26,1988,Active
+R0262,Capital Chophouse,Durham,Coffee,72,2000,Active
+R0262,Capital Chophouse,Durham,Seafood,72,2000,Active
+R0262,Capital Chophouse,Durham,Delivery,72,2000,Active
+R0262,Capital Chophouse,Durham,Sports Bar,72,2000,Active
+R0262,Capital Chophouse,Durham,Italian,72,2000,Active
+R0262,Capital Chophouse,Durham,Thai,72,2000,Active
+R0262,Capital Chophouse,Durham,Vegetarian Options,72,2000,Active
+R0262,Capital Chophouse,Durham,Vietnamese,72,2000,Active
+R0263,Umstead House,Cary,BBQ,97,2021,Active
+R0263,Umstead House,Cary,Late Night,97,2021,Active
+R0263,Umstead House,Cary,Bakery,97,2021,Active
+R0263,Umstead House,Cary,Coffee,97,2021,Active
+R0263,Umstead House,Cary,Halal,97,2021,Active
+R0263,Umstead House,Cary,Thai,97,2021,Active
+R0263,Umstead House,Cary,Mexican,97,2021,Active
+R0263,Umstead House,Cary,Sports Bar,97,2021,Active
+R0264,Person Roasters,Wake Forest,Coffee,38,1976,Active
+R0264,Person Roasters,Wake Forest,Southern,38,1976,Active
+R0264,Person Roasters,Wake Forest,Vegan,38,1976,Active
+R0264,Person Roasters,Wake Forest,Catering,38,1976,Active
+R0264,Person Roasters,Wake Forest,BBQ,38,1976,Active
+R0264,Person Roasters,Wake Forest,Delivery,38,1976,Active
+R0264,Person Roasters,Wake Forest,Bakery,38,1976,Active
+R0264,Person Roasters,Wake Forest,Late Night,38,1976,Active
+R0265,Blount Counter,Cary,Food Truck,73,1994,Active
+R0265,Blount Counter,Cary,Southern,73,1994,Active
+R0265,Blount Counter,Cary,Buffet,73,1994,Active
+R0265,Blount Counter,Cary,BBQ,73,1994,Active
+R0265,Blount Counter,Cary,Seafood,73,1994,Active
+R0265,Blount Counter,Cary,Vegetarian Options,73,1994,Active
+R0265,Blount Counter,Cary,Vegan,73,1994,Active
+R0266,Falls Tavern,Holly Springs,Coffee,53,2022,Active
+R0266,Falls Tavern,Holly Springs,Food Truck,53,2022,Active
+R0266,Falls Tavern,Holly Springs,Delivery,53,2022,Active
+R0266,Falls Tavern,Holly Springs,Late Night,53,2022,Active
+R0266,Falls Tavern,Holly Springs,Vegan,53,2022,Active
+R0266,Falls Tavern,Holly Springs,Catering,53,2022,Active
+R0267,Boylan Grill,Knightdale,Southern,73,2012,Active
+R0267,Boylan Grill,Knightdale,Late Night,73,2012,Active
+R0267,Boylan Grill,Knightdale,Vegan,73,2012,Active
+R0267,Boylan Grill,Knightdale,Italian,73,2012,Active
+R0267,Boylan Grill,Knightdale,Food Truck,73,2012,Active
+R0267,Boylan Grill,Knightdale,Mexican,73,2012,Active
+R0268,Morgan Creamery,Holly Springs,Bakery,27,1985,Active
+R0268,Morgan Creamery,Holly Springs,Pizza,27,1985,Active
+R0268,Morgan Creamery,Holly Springs,Thai,27,1985,Active
+R0269,Oak Diner,Garner,Italian,58,2022,Active
+R0270,Peace Taqueria,Apex,BBQ,119,1989,Active
+R0270,Peace Taqueria,Apex,Halal,119,1989,Active
+R0270,Peace Taqueria,Apex,Delivery,119,1989,Active
+R0271,Salisbury Deli,Holly Springs,Vegetarian Options,75,2013,Active
+R0271,Salisbury Deli,Holly Springs,Coffee,75,2013,Active
+R0271,Salisbury Deli,Holly Springs,Buffet,75,2013,Active
+R0271,Salisbury Deli,Holly Springs,Seafood,75,2013,Active
+R0271,Salisbury Deli,Holly Springs,Southern,75,2013,Active
+R0271,Salisbury Deli,Holly Springs,Breakfast,75,2013,Active
+R0271,Salisbury Deli,Holly Springs,Catering,75,2013,Active
+R0272,Pullen Smokehouse,Wake Forest,Breakfast,177,2001,Active
+R0272,Pullen Smokehouse,Wake Forest,Thai,177,2001,Active
+R0272,Pullen Smokehouse,Wake Forest,Southern,177,2001,Active
+R0272,Pullen Smokehouse,Wake Forest,Coffee,177,2001,Active
+R0272,Pullen Smokehouse,Wake Forest,Food Truck,177,2001,Active
+R0272,Pullen Smokehouse,Wake Forest,Vegan,177,2001,Active
+R0272,Pullen Smokehouse,Wake Forest,BBQ,177,2001,Active
+R0272,Pullen Smokehouse,Wake Forest,Catering,177,2001,Active
+R0273,Jones Counter,Knightdale,Delivery,87,2003,Active
+R0273,Jones Counter,Knightdale,Halal,87,2003,Active
+R0273,Jones Counter,Knightdale,Thai,87,2003,Active
+R0273,Jones Counter,Knightdale,Mexican,87,2003,Active
+R0273,Jones Counter,Knightdale,Southern,87,2003,Active
+R0273,Jones Counter,Knightdale,Late Night,87,2003,Active
+R0273,Jones Counter,Knightdale,Vegan,87,2003,Active
+R0273,Jones Counter,Knightdale,Bakery,87,2003,Active
+R0274,Umstead Noodle Bar,Raleigh,Pizza,105,2022,Active
+R0275,Davie Creamery,Apex,Catering,27,2013,Active
+R0275,Davie Creamery,Apex,Vegan,27,2013,Active
+R0275,Davie Creamery,Apex,Halal,27,2013,Active
+R0276,Salisbury Room,Holly Springs,Southern,47,1989,Active
+R0276,Salisbury Room,Holly Springs,Food Truck,47,1989,Active
+R0276,Salisbury Room,Holly Springs,Halal,47,1989,Active
+R0276,Salisbury Room,Holly Springs,Late Night,47,1989,Active
+R0276,Salisbury Room,Holly Springs,Vegetarian Options,47,1989,Active
+R0276,Salisbury Room,Holly Springs,Italian,47,1989,Active
+R0276,Salisbury Room,Holly Springs,Breakfast,47,1989,Active
+R0276,Salisbury Room,Holly Springs,BBQ,47,1989,Active
+R0277,Hargett Trattoria,Wake Forest,Buffet,34,2022,Active
+R0277,Hargett Trattoria,Wake Forest,Italian,34,2022,Active
+R0277,Hargett Trattoria,Wake Forest,Vegan,34,2022,Active
+R0277,Hargett Trattoria,Wake Forest,Southern,34,2022,Active
+R0277,Hargett Trattoria,Wake Forest,Seafood,34,2022,Active
+R0277,Hargett Trattoria,Wake Forest,Bakery,34,2022,Active
+R0278,Neuse Taqueria,Wake Forest,Sports Bar,87,1977,Active
+R0278,Neuse Taqueria,Wake Forest,Halal,87,1977,Active
+R0278,Neuse Taqueria,Wake Forest,Pizza,87,1977,Active
+R0278,Neuse Taqueria,Wake Forest,Italian,87,1977,Active
+R0278,Neuse Taqueria,Wake Forest,Vietnamese,87,1977,Active
+R0278,Neuse Taqueria,Wake Forest,Late Night,87,1977,Active
+R0278,Neuse Taqueria,Wake Forest,Coffee,87,1977,Active
+R0278,Neuse Taqueria,Wake Forest,Southern,87,1977,Active
+R0279,Tucker Fish Camp,Fuquay-Varina,Coffee,41,1995,Active
+R0279,Tucker Fish Camp,Fuquay-Varina,BBQ,41,1995,Active
+R0279,Tucker Fish Camp,Fuquay-Varina,Italian,41,1995,Active
+R0279,Tucker Fish Camp,Fuquay-Varina,Bakery,41,1995,Active
+R0279,Tucker Fish Camp,Fuquay-Varina,Pizza,41,1995,Active
+R0280,Boylan Table,Cary,Pizza,67,2008,Active
+R0280,Boylan Table,Cary,Coffee,67,2008,Active
+R0280,Boylan Table,Cary,Mexican,67,2008,Active
+R0280,Boylan Table,Cary,Sports Bar,67,2008,Active
+R0281,Boylan Taqueria,Holly Springs,Food Truck,60,1981,Active
+R0281,Boylan Taqueria,Holly Springs,Buffet,60,1981,Active
+R0281,Boylan Taqueria,Holly Springs,Coffee,60,1981,Active
+R0281,Boylan Taqueria,Holly Springs,Vegetarian Options,60,1981,Active
+R0281,Boylan Taqueria,Holly Springs,Late Night,60,1981,Active
+R0281,Boylan Taqueria,Holly Springs,Mexican,60,1981,Active
+R0282,Trinity Provisions,Durham,Bakery,56,1993,Active
+R0282,Trinity Provisions,Durham,Italian,56,1993,Active
+R0282,Trinity Provisions,Durham,Vegetarian Options,56,1993,Active
+R0282,Trinity Provisions,Durham,Pizza,56,1993,Active
+R0282,Trinity Provisions,Durham,Catering,56,1993,Active
+R0282,Trinity Provisions,Durham,Sports Bar,56,1993,Active
+R0283,Wilmington Provisions,Apex,Vegetarian Options,118,1976,Active
+R0283,Wilmington Provisions,Apex,Sports Bar,118,1976,Active
+R0283,Wilmington Provisions,Apex,BBQ,118,1976,Active
+R0283,Wilmington Provisions,Apex,Food Truck,118,1976,Active
+R0283,Wilmington Provisions,Apex,Southern,118,1976,Active
+R0283,Wilmington Provisions,Apex,Bakery,118,1976,Active
+R0283,Wilmington Provisions,Apex,Halal,118,1976,Active
+R0283,Wilmington Provisions,Apex,Pizza,118,1976,Active
+R0284,Cabarrus Diner,Garner,BBQ,39,2022,Active
+R0284,Cabarrus Diner,Garner,Southern,39,2022,Active
+R0284,Cabarrus Diner,Garner,Breakfast,39,2022,Active
+R0285,Falls Trattoria,Morrisville,Seafood,156,1977,Active
+R0285,Falls Trattoria,Morrisville,Food Truck,156,1977,Active
+R0285,Falls Trattoria,Morrisville,Mexican,156,1977,Active
+R0285,Falls Trattoria,Morrisville,Late Night,156,1977,Active
+R0285,Falls Trattoria,Morrisville,Coffee,156,1977,Active
+R0285,Falls Trattoria,Morrisville,Halal,156,1977,Active
+R0286,Salisbury Noodle Bar,Raleigh,Coffee,64,1974,Active
+R0286,Salisbury Noodle Bar,Raleigh,Breakfast,64,1974,Active
+R0286,Salisbury Noodle Bar,Raleigh,Catering,64,1974,Active
+R0286,Salisbury Noodle Bar,Raleigh,Seafood,64,1974,Active
+R0286,Salisbury Noodle Bar,Raleigh,Bakery,64,1974,Active
+R0286,Salisbury Noodle Bar,Raleigh,Delivery,64,1974,Active
+R0286,Salisbury Noodle Bar,Raleigh,Vegetarian Options,64,1974,Active
+R0287,Peace Trattoria,Raleigh,Southern,54,2022,Active
+R0287,Peace Trattoria,Raleigh,Vegan,54,2022,Active
+R0287,Peace Trattoria,Raleigh,Italian,54,2022,Active
+R0287,Peace Trattoria,Raleigh,Mexican,54,2022,Active
+R0288,Person Deli,Holly Springs,Italian,25,1984,Active
+R0288,Person Deli,Holly Springs,Breakfast,25,1984,Active
+R0288,Person Deli,Holly Springs,Mexican,25,1984,Active
+R0288,Person Deli,Holly Springs,Delivery,25,1984,Active
+R0288,Person Deli,Holly Springs,Vegetarian Options,25,1984,Active
+R0289,Falls Chophouse,Garner,Coffee,60,2016,Active
+R0289,Falls Chophouse,Garner,Vegetarian Options,60,2016,Active
+R0289,Falls Chophouse,Garner,Breakfast,60,2016,Active
+R0289,Falls Chophouse,Garner,Sports Bar,60,2016,Active
+R0289,Falls Chophouse,Garner,Thai,60,2016,Active
+R0290,Bloodworth Fish Camp,Durham,Delivery,85,2007,Active
+R0290,Bloodworth Fish Camp,Durham,Pizza,85,2007,Active
+R0290,Bloodworth Fish Camp,Durham,Vietnamese,85,2007,Active
+R0290,Bloodworth Fish Camp,Durham,Mexican,85,2007,Active
+R0290,Bloodworth Fish Camp,Durham,Food Truck,85,2007,Active
+R0290,Bloodworth Fish Camp,Durham,Vegan,85,2007,Active
+R0290,Bloodworth Fish Camp,Durham,Late Night,85,2007,Active
+R0290,Bloodworth Fish Camp,Durham,Halal,85,2007,Active
+R0291,Edenton Bakery,Raleigh,Food Truck,119,1999,Active
+R0291,Edenton Bakery,Raleigh,Seafood,119,1999,Active
+R0291,Edenton Bakery,Raleigh,Vietnamese,119,1999,Active
+R0291,Edenton Bakery,Raleigh,Breakfast,119,1999,Active
+R0291,Edenton Bakery,Raleigh,Pizza,119,1999,Active
+R0291,Edenton Bakery,Raleigh,Italian,119,1999,Active
+R0292,Bloodworth Taqueria,Morrisville,Buffet,113,1997,Active
+R0292,Bloodworth Taqueria,Morrisville,Mexican,113,1997,Active
+R0292,Bloodworth Taqueria,Morrisville,Seafood,113,1997,Active
+R0292,Bloodworth Taqueria,Morrisville,Southern,113,1997,Active
+R0292,Bloodworth Taqueria,Morrisville,Breakfast,113,1997,Active
+R0292,Bloodworth Taqueria,Morrisville,Coffee,113,1997,Active
+R0292,Bloodworth Taqueria,Morrisville,Vietnamese,113,1997,Active
+R0293,Capital Roasters,Wake Forest,Late Night,33,2005,Active
+R0293,Capital Roasters,Wake Forest,Delivery,33,2005,Active
+R0293,Capital Roasters,Wake Forest,Sports Bar,33,2005,Active
+R0293,Capital Roasters,Wake Forest,Mexican,33,2005,Active
+R0294,Lenoir Diner,Wake Forest,Coffee,22,2011,Active
+R0294,Lenoir Diner,Wake Forest,Bakery,22,2011,Active
+R0294,Lenoir Diner,Wake Forest,Pizza,22,2011,Active
+R0294,Lenoir Diner,Wake Forest,Halal,22,2011,Active
+R0295,Edenton Smokehouse,Knightdale,Halal,25,1996,Active
+R0295,Edenton Smokehouse,Knightdale,Pizza,25,1996,Active
+R0295,Edenton Smokehouse,Knightdale,Late Night,25,1996,Active
+R0295,Edenton Smokehouse,Knightdale,Seafood,25,1996,Active
+R0295,Edenton Smokehouse,Knightdale,Food Truck,25,1996,Active
+R0295,Edenton Smokehouse,Knightdale,Southern,25,1996,Active
+R0295,Edenton Smokehouse,Knightdale,Sports Bar,25,1996,Active
+R0295,Edenton Smokehouse,Knightdale,Italian,25,1996,Active
+R0296,Capital Supper Club,Garner,Vietnamese,68,2002,Active
+R0296,Capital Supper Club,Garner,BBQ,68,2002,Active
+R0296,Capital Supper Club,Garner,Buffet,68,2002,Active
+R0296,Capital Supper Club,Garner,Pizza,68,2002,Active
+R0296,Capital Supper Club,Garner,Thai,68,2002,Active
+R0296,Capital Supper Club,Garner,Halal,68,2002,Active
+R0297,Cameron Cafe,Cary,Southern,133,2008,Active
+R0297,Cameron Cafe,Cary,Breakfast,133,2008,Active
+R0298,Neuse Counter,Cary,Vietnamese,45,1996,Pending
+R0298,Neuse Counter,Cary,Late Night,45,1996,Pending
+R0298,Neuse Counter,Cary,Seafood,45,1996,Pending
+R0298,Neuse Counter,Cary,Breakfast,45,1996,Pending
+R0299,Falls Room,Holly Springs,Bakery,44,2023,Active
+R0299,Falls Room,Holly Springs,Mexican,44,2023,Active
+R0299,Falls Room,Holly Springs,Italian,44,2023,Active
+R0299,Falls Room,Holly Springs,Pizza,44,2023,Active
+R0299,Falls Room,Holly Springs,Halal,44,2023,Active
+R0300,Boylan Cafe,Garner,Buffet,37,1992,Active
+R0300,Boylan Cafe,Garner,Breakfast,37,1992,Active
+R0300,Boylan Cafe,Garner,Late Night,37,1992,Active
+R0300,Boylan Cafe,Garner,Coffee,37,1992,Active
+R0300,Boylan Cafe,Garner,Southern,37,1992,Active
+R0300,Boylan Cafe,Garner,Vietnamese,37,1992,Active

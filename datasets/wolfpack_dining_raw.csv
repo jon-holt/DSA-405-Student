@@ -1,0 +1,367 @@
+unit_code,location_name,category,campus_zone,inspection_date,score,seats,avg_ticket,open_now,manager_notes
+4950,Withers Grill, Coffee,Centennial,03/20/2025,100.0,28,$24.87,TRUE,
+1515,Dabney Salad Bar,Coffee Shop,Off-Campus,10/2/24,90.1,30,$4.97,0,Reinspection scheduled
+6390,Cox Deli Counter,Coffee Shop,Centennial,"January 4, 2025",  ,28,$22.88,FALSE,CafÃ© side entrance blocked
+0029,Riddick Grill,Dining Hall,North,2024-07-18,93.1,530,$24.62,FALSE,
+8312, WEAVER PIZZA WINDOW,food truck,Centennial,2024-02-22 16:15:00,86.8,unknown,$16.80,1,No issues noted
+2781,Daniels Food Court ,Coffee,North,2025-05-23,92.4,NA,$11.40,TRUE,
+8761,Leazar Snack Shop,Food truck,Centennial,2024-06-10,92.0,6,$16.62,TRUE,Owner requested re-score â€” pending
+0981, Mann Pizza Window,FastCasual,Central,2024-07-14 18:30:00,91.6,34,$8.33,yes,Owner requested re-score â€” pending
+5070, PULLEN NOODLE STATION,food truck,Off-Campus,1/28/25,89.3,4,$23.40,FALSE,CafÃ© side entrance blocked
+6611,  Scott Snack Shop ,DINING HALL,Central,20-Dec-2024,96.4,485,$8.55,Y,Owner requested re-score â€” pending
+4268,CrÃ¨me Scott Pizza Window,Dining hall,Vet School,11/21/2024,93.1,464,$9.99,TRUE,Reinspection scheduled
+3886, DANIELS CAFE,foodtruck,Off-Campus,4/8/25,81.7,6,NA,1,CafÃ© side entrance blocked
+6478, BÃ¡nh Fountain Market,FastCasual,Vet School,"November 17, 2024",unknown,54,$17.82,FALSE,
+8761, LEAZAR SNACK SHOP,food truck,Centennial,2024-06-10,92.0,6,$16.62,TRUE,Owner requested re-score â€” pending
+6285,   PULLEN MARKET ,food truck,Central,1/6/25,92.9,7,$19.97,yes,Walk-in temp logged at 41Â°F
+8761,Leazar Snack Shop,Food truck,Centennial,2024-06-10,92.0,6,$16.62,TRUE,Owner requested re-score â€” pending
+6285,  Pullen Market ,Food Truck,Central,1/6/25,92.9,7,$19.97,yes,Walk-in temp logged at 41Â°F
+6319,BÃ¡nh Polk Snack Shop,DINING HALL,Off-Campus,"January 2, 2025",89.8,197,$25.75,no,No issues noted
+8547,Talley Dining Hall,Cafe,Central,11/08/2025,90.7,85,$6.87,FALSE,
+1486,Harrelson Grill,food truck,North,2024-03-27,90.5,6,$21.10,Y,Walk-in temp logged at 41Â°F
+1734,Nelson Coffee Bar,Food Truck,North,"July 25, 2024",85.8,3,$16.61,N,Owner requested re-score â€” pending
+4440, Poe Cafe,Fast Casual,Centennial,2025-01-04,86.4,91,$4.53,FALSE,CafÃ© side entrance blocked
+9224,Brickyard Dining Hall,Café,Central,19-Oct-2025, 98.1 ,81,$5.53,1,Follow up re: hood cleaning
+1486,Harrelson Grill,food truck,North,2024-03-27,90.5,6,$21.10,Y,Walk-in temp logged at 41Â°F
+8312,Weaver Pizza Window,food truck,Centennial,2024-02-22 16:15:00,86.8,unknown,$16.80,1,No issues noted
+6898,Talley Food Court,FoodTruck,Centennial,6-Mar-2024,91.3,8,$19.73,FALSE,CafÃ© side entrance blocked
+3010,Leazar Food Court,FoodTruck,Central,"November 3, 2024",91.1,7,$5.12,N,Walk-in temp logged at 41Â°F
+9979,Hunt Library Coffee Bar,DINING HALL,Centennial,12/7/24,97.4,313,$5.83,FALSE,CafÃ© side entrance blocked
+7154,Tompkins Grill,Fast Casual,Off-Campus,"May 18, 2024",87.7,77,$19.37,N,
+1712, Nelson Deli Counter,Dining Hall,North,07/11/2025,92.2,420,$17.78,no,Follow up re: hood cleaning
+7383,JalapeÃ±o Withers Juice Bar ,Food Truck,Central,8-Nov-2025,87.8*,1,$10.60,0,Owner requested re-score â€” pending
+1563,Pullen Food Court,Food Truck,Vet School,14-Feb-2024,92.4,7,$27.55,1,Reinspection scheduled
+2103,CafÃ© Polk Food Court,FoodTruck,Vet School,05/15/2025,89.8,1,$15.80,yes,
+9244,Cox Pizza Window,Convenience,North,2025-01-28 19:30:00,93.8,11,$13.83,FALSE,CafÃ© side entrance blocked
+3644,Dabney Food Court,coffee,North,03/06/2025,93.8,39,$14.91,0,CafÃ© side entrance blocked
+3989,Leazar Coffee Bar,cafe,Central,23-Sep-2025,91.6,31,$6.25,0,Follow up re: hood cleaning
+7139,Broughton Hall Noodle Station ,CAFE,Off-Campus,07/24/2024,90.0,41,$12.75,Y,
+6898,Talley Food Court,FoodTruck,Centennial,6-Mar-2024,91.3,8,$19.73,FALSE,CafÃ© side entrance blocked
+7884,Nelson Noodle Station,FastCasual,Centennial,2024-08-29 08:00:00,91.7,102,$8.82,FALSE,Walk-in temp logged at 41Â°F
+0415,BÃ¡nh Daniels Snack Shop,Cafe,Centennial,7/7/25,90.8,72,$6.71,TRUE,Owner requested re-score â€” pending
+3834,Talley Salad Bar,CAFE,Off-Campus,"June 30, 2025",91.0,57,$11.47,FALSE,
+3512,Harrelson Kitchen,DINING HALL,Off-Campus,"January 26, 2024",97.1,209,$12.35,TRUE,CafÃ© side entrance blocked
+0456,  Jordan Dining Hall ,Coffee Shop,North,24-Apr-2025,89.4,17,$25.14,Y,No issues noted
+6173,Dabney Deli Counter,Convenience Store,Off-Campus,3/4/24,97.7,1,$13.67,N,CafÃ© side entrance blocked
+1339,Jordan Juice Bar,Coffee Shop,North,5-Jun-2025,94.6,26,$22.76,yes,Walk-in temp logged at 41Â°F
+7796,Centennial Dining Hall,Food Truck,Centennial,2025-12-30 17:00:00,94.6,0,$23.62,TRUE,No issues noted
+2155,Cox Coffee Bar,Fast Casual,North,2025-11-05 14:15:00,87.1,85,$13.13,yes,CafÃ© side entrance blocked
+1002,Withers Food Court,Dining hall,North,"June 8, 2024",99.7,-999,$4.80,Y,Follow up re: hood cleaning
+4816,Centennial Noodle Station,CAFE,Centennial,6/28/25,N/A,49,$11.81,FALSE,
+8013,Mann Market,COFFEE,Centennial,2025-07-30,87.8,35,$6.98,yes,No issues noted
+7658,Mann Coffee Bar,Food truck,Off-Campus,03/08/2025,93.9,2,$7.92,FALSE,Walk-in temp logged at 41Â°F
+8882,CafÃ© Leazar Kitchen,Convenience,Vet School,2025-07-30,87.7,1,$22.01,TRUE,Reinspection scheduled
+8829,Nelson Pizza Window,Convenience Store,Vet School,8/1/25,92.0,11,$22.70,N,Follow up re: hood cleaning
+3696,  Caldwell Grill ,convenience,Centennial,"November 23, 2024",0,8,$22.06,yes,Walk-in temp logged at 41Â°F
+1060,CafÃ© Centennial Food Court,dining hall,Off-Campus,09/19/2025,94.5,253,$18.50,yes,No issues noted
+1874,CrÃ¨me Withers Dining Hall,Dining Hall,Vet School,"October 23, 2024",N/A,660,$14.45,no,Walk-in temp logged at 41Â°F
+7990,Jordan Bakery Counter,Dining Hall,Off-Campus,3/26/24,98.5,-999,$25.30,Y,CafÃ© side entrance blocked
+7973, Fountain Pizza Window,COFFEE,North,17-Oct-2025,89.7,39,$8.49,0,Walk-in temp logged at 41Â°F
+8437,CrÃ¨me Jordan Grill,COFFEE,Vet School,1/6/24,87.8,26,$27.03,FALSE,Follow up re: hood cleaning
+5617,Cox Food Court,FoodTruck,Centennial,11/30/2024,86.4,5,$8.29,N,Reinspection scheduled
+5003,Pullen Cafe,COFFEE,North,11/17/25,90.6,15,$7.56,TRUE,
+8319,Withers Snack Shop,CAFE,Vet School,2025-02-25 16:00:00,85.7,-999,$21.46,N,Follow up re: hood cleaning
+3983,Winston Juice Bar,coffee,North,1/17/24,97.5,12,null,no,Reinspection scheduled
+5959,Nelson Salad Bar,COFFEE,North,"November 8, 2024",87.5,7,$8.33,FALSE,
+7383,JalapeÃ±o Withers Juice Bar ,Food Truck,Central,8-Nov-2025,87.8*,1,$10.60,0,Owner requested re-score â€” pending
+6898, TALLEY FOOD COURT,foodtruck,Centennial,6-Mar-2024,91.3,8,$19.73,FALSE,CafÃ© side entrance blocked
+2679,Fountain Deli Counter,cafe,Off-Campus,4/11/24,92.1,49,$25.45,FALSE,CafÃ© side entrance blocked
+6882,CrÃ¨me Brickyard Snack Shop,Fast-Casual,Vet School,2025-06-08,93.6*,-999,$6.03,Y,CafÃ© side entrance blocked
+0711,SÃ¶der Scott Coffee Bar,COFFEE,Vet School,06/18/2024,81.5,16,$18.11,Y,
+3304,Dabney Bakery Counter,dining hall,Vet School,4/22/24,96.2,216,$12.63,FALSE,No issues noted
+1848,Talley Market,Dining Hall,North,"September 19, 2025",92.6,551,$15.31,N,Walk-in temp logged at 41Â°F
+7675,Poe Juice Bar,Café,Off-Campus,"June 12, 2024",91.6,27,$16.63,TRUE,No issues noted
+0758,Caldwell Cafe,food truck,North,03/11/2024,89.8,6,$27.84,TRUE,Walk-in temp logged at 41Â°F
+5577,Fountain Cafe,Café,Vet School,08/23/2024,98.8,-999,$26.27,N,Follow up re: hood cleaning
+2649,Pullen Coffee Bar,Cafe,Off-Campus,20-Jan-2024,92.1,57,$15.45,1,CafÃ© side entrance blocked
+7191,CrÃ¨me Leazar Grill ,Convenience,Vet School,08/02/2025,97.8,3,$26.95,Y,Reinspection scheduled
+0684,Riddick Juice Bar,coffee,North,2024-02-29,91.8,22,$22.64,1,Walk-in temp logged at 41Â°F
+2399,Primrose Bakery Counter,Fast-Casual,Off-Campus,2024-03-06 13:30:00,unknown,115,,TRUE,
+7662,JalapeÃ±o Caldwell Coffee Bar,Food Truck,Vet School,2024-03-20,94.7*,6,$24.78,yes,Owner requested re-score â€” pending
+3206,Brickyard Grill,Fast-Casual,Centennial,2024-02-12,93.4,53,$14.00,no,No issues noted
+3383,Caldwell Noodle Station,cafe,North,30-Dec-2024,100.0,76,$11.01,N,Follow up re: hood cleaning
+2070,Talley Bakery Counter,coffee,Centennial,2024-03-21 18:30:00,95.4,16,$14.11,no,
+9245,Hunt Library Salad Bar,Coffee,North,01/18/2024,89.2,28,$27.42,TRUE,CafÃ© side entrance blocked
+3122,Bostian Bakery Counter,FastCasual,Central,"December 13, 2025",96.9,40,null,N,Walk-in temp logged at 41Â°F
+9969,  Winston Food Court ,Fast-Casual,Off-Campus,"September 9, 2025",88.6,86,$26.70,TRUE,Follow up re: hood cleaning
+5505,Caldwell Dining Hall, Coffee,Central,2025-01-03,  ,31,$12.04,yes,CafÃ© side entrance blocked
+5540,Poe Snack Shop ,Dining Hall,Off-Campus,24-Mar-2025,93.2,522,$7.94,1,Reinspection scheduled
+4278,Talley Kitchen,Food Truck,Off-Campus,2/11/24,87.3,0,$25.57,yes,Follow up re: hood cleaning
+0819,Harrelson Dining Hall,fast casual,North,"October 28, 2025",94.8,64,$22.56,no,CafÃ© side entrance blocked
+7223,Cox Bakery Counter,Convenience Store,Central,31-Oct-2024,95.5,3,$23.74,TRUE,CafÃ© side entrance blocked
+1739,Caldwell Kitchen,cafe,Centennial,13-Aug-2024,unknown,87,$13.84,N,Reinspection scheduled
+5060,Case Noodle Station,FoodTruck,Central,2/11/24,91.5*,0,$20.67,1,Follow up re: hood cleaning
+6369,  Brickyard Noodle Station ,Dining Hall,North,10/10/2025,92.0,253,$12.02,0,Owner requested re-score â€” pending
+8010,Bostian Kitchen,Coffee ,North,2025-06-16, 95.6 ,18,unknown,no,Follow up re: hood cleaning
+2466,Primrose Dining Hall,dining hall,Off-Campus,"November 16, 2025",97.0,199,$11.92,FALSE,Reinspection scheduled
+6437,PiÃ±ata Fountain Grill,COFFEE,Vet School,02/07/2025,93.4,36,$8.72,N,
+1945,Riddick Salad Bar,Café,Off-Campus,2025-09-14 12:45:00,100.0,87,$15.24,1,
+8638,Harrelson Noodle Station,C-Store,Centennial,"July 7, 2025",96.0,7,$19.86,FALSE,Follow up re: hood cleaning
+8111,Nelson Market,Dining hall,Central,"April 16, 2024",96.9,184,$10.22,FALSE,
+2807,Daniels Deli Counter,FastCasual,Central,2024-07-30,99.8,107,$19.87,N,
+5070,Pullen Noodle Station,Food truck,Off-Campus,1/28/25,89.3,4,$23.40,FALSE,CafÃ© side entrance blocked
+0482,Primrose Kitchen,Dining Hall,Off-Campus,02/14/2025,89.5,unknown,$25.29,0,Walk-in temp logged at 41Â°F
+8813,Weaver Snack Shop,Dining Hall,North,2025-01-08 13:45:00,94.1,606,$20.27,FALSE,
+6632, JalapeÃ±o Winston Salad Bar,DINING HALL,Vet School,2024-07-15 11:30:00,93.3,550,$20.10,Y,No issues noted
+5596,Page Dining Hall,Coffee Shop,North,6/25/25,100.0,24,$20.91,N,Owner requested re-score â€” pending
+1144,Caldwell Salad Bar,Cafe,Central,2/23/25,93.0,46,$7.41,0,Walk-in temp logged at 41Â°F
+9386,  Cox Salad Bar ,cafe,Vet School,"October 8, 2025",95.5,45,$19.80,FALSE,Owner requested re-score â€” pending
+2350, Case Pizza Window,cafe,Central,2024-06-15,93.6,90,$15.07,0,Reinspection scheduled
+6234,JalapeÃ±o Gardner Pizza Window,convenience,Vet School,03/29/2025,90.9,11,$8.46,1,Reinspection scheduled
+3420,Case Coffee Bar,coffee,Off-Campus,4/8/24,91.3,33,$18.83,no,CafÃ© side entrance blocked
+5047,   BOSTIAN JUICE BAR ,foodtruck,Centennial,"October 22, 2024", 86.0 ,2,$13.09,FALSE,Owner requested re-score â€” pending
+9683, Primrose Cafe,COFFEE,Centennial,19-Sep-2025,89.8,32,$10.71,FALSE,Follow up re: hood cleaning
+7383,JalapeÃ±o Withers Juice Bar ,Food Truck,Central,8-Nov-2025,87.8*,1,$10.60,0,Owner requested re-score â€” pending
+5703,Primrose Salad Bar,Dining Hall,Off-Campus,22-Apr-2024,87.9,245,$26.01,FALSE,Walk-in temp logged at 41Â°F
+1476,PiÃ±ata Scott Noodle Station,fast casual,Vet School,9/15/24,84.6,101,unknown,N,
+7446,Mann Kitchen,dining hall,Central,10/23/24,100.0,619,$13.72,yes,No issues noted
+0559,Fountain Noodle Station,food truck,Off-Campus,"February 19, 2024",96.3,2,$23.55,1,Follow up re: hood cleaning
+4961,Clark Pizza Window,C-Store,Vet School,"January 25, 2024",0,0,$23.48,yes,No issues noted
+1466,Dabney Noodle Station,Food Truck,Centennial,4/26/25,88.2,0,$17.55,TRUE,Reinspection scheduled
+9833,Brickyard Cafe,fast casual,Centennial,"November 9, 2025",90.4,45,unknown,yes,CafÃ© side entrance blocked
+8423,PiÃ±ata Dabney Market,Convenience Store,Vet School,2025-04-03,98.9,8,$7.03,FALSE,Reinspection scheduled
+4855,Hunt Library Kitchen,Fast-Casual,Central,2024-04-27,92.2,107,$18.28,N,No issues noted
+2808,Winston Coffee Bar,C-Store,North,2025-01-11 17:00:00,90.5,11,$11.11,1,
+9346,Gardner Juice Bar, Coffee,Central,10/9/25,97.3,25,$12.26,yes,Reinspection scheduled
+8527, Withers Deli Counter,Fast Casual,Centennial,10-Jun-2025,89.6,108,$9.19,1,No issues noted
+7785,Pullen Snack Shop ,Convenience Store,Central,04/15/2024,0,2,$15.89,FALSE,Follow up re: hood cleaning
+7383,JalapeÃ±o Withers Juice Bar ,Food Truck,Central,8-Nov-2025,87.8*,1,$10.60,0,Owner requested re-score â€” pending
+3412,JalapeÃ±o Mann Grill ,C-Store,Vet School,22-Feb-2024,96.8,7,null,TRUE,Reinspection scheduled
+8773, Cox Noodle Station,Coffee Shop,Central,2025-04-11 20:45:00,97.4,36,$26.60,no,Reinspection scheduled
+1734,Nelson Coffee Bar,Food Truck,North,"July 25, 2024",85.8,3,$16.61,N,Owner requested re-score â€” pending
+9664,Cox Dining Hall,COFFEE,North,09/08/2024,96.0,36,$16.24,N,
+0559,Fountain Noodle Station,food truck,Off-Campus,"February 19, 2024",96.3,2,$23.55,1,Follow up re: hood cleaning
+8486,Harrelson Juice Bar ,Convenience Store,North,2024-10-28 13:00:00,100.0,11,$24.90,yes,Walk-in temp logged at 41Â°F
+4956,Winston Snack Shop,FoodTruck,North,"September 15, 2024",88.0,4,$24.59,yes,Reinspection scheduled
+3838, DABNEY DINING HALL,foodtruck,Off-Campus,11/22/2025,89.4,2,$13.01,FALSE,Owner requested re-score â€” pending
+1466,Dabney Noodle Station,Food Truck,Centennial,4/26/25,88.2,0,$17.55,TRUE,Reinspection scheduled
+9965,Jordan Noodle Station,dining hall,Central,6/30/24,100.0,715,$21.58,0,
+7508,Case Salad Bar,Food Truck,Vet School,4/4/24,88.5,8,$23.52,TRUE,Owner requested re-score â€” pending
+1563,Pullen Food Court,Food Truck,Vet School,14-Feb-2024,92.4,7,$27.55,1,Reinspection scheduled
+6716,CrÃ¨me Mann Noodle Station,convenience,Vet School,07/16/2024,91.2,8,$17.05,0,Reinspection scheduled
+1674,Gardner Dining Hall,fast casual,Vet School,2024-09-26 20:30:00,94.8,119,$21.11,Y,No issues noted
+8262,Nelson Kitchen,convenience,Centennial,2/3/25,95.5,8,$24.76,FALSE,
+8726,JalapeÃ±o Dabney Grill,Dining hall,Vet School,4/10/25,90.8,555,$21.97,TRUE,
+3301,CrÃ¨me Mann Food Court,Dining Hall,Vet School,2025-08-12,100.0,N/A,$18.57,0,
+5978,Fountain Coffee Bar,dining hall,Off-Campus,02/24/2025,88.4,641,$14.04,TRUE,Owner requested re-score â€” pending
+6032,Polk Market,coffee,Centennial,2025-11-01 15:00:00, 96.6 ,24,$20.65,TRUE,Reinspection scheduled
+4779,Withers Noodle Station ,Dining hall,Central,2024-12-01 19:45:00,94.7,582,$11.45,no,Reinspection scheduled
+6986,Winston Cafe,Fast-Casual,North,"September 21, 2025",91.5,118,$25.06,FALSE,No issues noted
+5044,Riddick Dining Hall,FastCasual,North,"May 17, 2025",96.3,93,$11.84,1,Reinspection scheduled
+8523,Talley Cafe,coffee,Vet School,12/10/25,89.7,37,$18.68,TRUE,Follow up re: hood cleaning
+2913,Broughton Hall Grill,CAFE,Off-Campus,12/4/25,96.9*,36,$22.91,no,
+6170,BÃ¡nh Harrelson Pizza Window,fast casual,Vet School,2024-06-20,90.3,41,unknown,no,Walk-in temp logged at 41Â°F
+8555,Clark Bakery Counter,FoodTruck,Vet School,03/22/2025,89.5,6,$21.65,FALSE,
+6177,Polk Salad Bar,Coffee ,Off-Campus,2025-05-07,96.4,37,$27.03,1,Follow up re: hood cleaning
+5428,  Case Snack Shop ,Food truck,Central,2024-07-13,87.2,2,$15.29,Y,Reinspection scheduled
+7904,CrÃ¨me Cox Kitchen,Coffee ,Vet School,"September 4, 2024",96.3,18,$19.82,TRUE,Reinspection scheduled
+2230,BÃ¡nh Riddick Coffee Bar,COFFEE,Vet School,6/26/24,94.3,12,$23.11,TRUE,Walk-in temp logged at 41Â°F
+1963,CafÃ© Cox Juice Bar,COFFEE,Vet School,12/05/2024,89.1,16,$25.21,0,Owner requested re-score â€” pending
+7508,Case Salad Bar,Food Truck,Vet School,4/4/24,88.5,8,$23.52,TRUE,Owner requested re-score â€” pending
+9297, Scott Market,dining hall,North,2024-09-14 09:00:00,null,266,$22.76,N,Walk-in temp logged at 41Â°F
+1734, NELSON COFFEE BAR,food truck,North,"July 25, 2024",85.8,3,$16.61,N,Owner requested re-score â€” pending
+3737,Weaver Noodle Station,Fast-Casual,Central,4/15/25,91.2,118,$9.24,0,No issues noted
+6160,Mann Dining Hall,Convenience,North,"November 11, 2024",91.9,11,$20.93,N,Walk-in temp logged at 41Â°F
+2070, Caldwell Bakery Counter,COFFEE,North,29-May-2024,97.2,14,$6.53,N,
+3838,Dabney Dining Hall,FoodTruck,Off-Campus,11/22/2025,89.4,2,$13.01,FALSE,Owner requested re-score â€” pending
+5060,Case Noodle Station,FoodTruck,Central,2/11/24,91.5*,0,$20.67,1,Follow up re: hood cleaning
+4956,Winston Snack Shop,FoodTruck,North,"September 15, 2024",88.0,4,$24.59,yes,Reinspection scheduled
+6706,  SÃ¶der Bostian Noodle Station ,convenience,Vet School,2024-04-02 08:00:00,94.3,-999,$23.74,0,Reinspection scheduled
+2966,JalapeÃ±o Clark Salad Bar,dining hall,Vet School,2024-07-30,94.4,545,$24.75,1,Walk-in temp logged at 41Â°F
+1376,Harrelson Coffee Bar,Dining Hall,Centennial,"September 10, 2025",95.0,null,$12.52,N,Reinspection scheduled
+7508,Case Salad Bar,Food Truck,Vet School,4/4/24,88.5,8,$23.52,TRUE,Owner requested re-score â€” pending
+8940,Cox Grill,CAFE,Central,"June 28, 2024",93.0,81,$13.88,FALSE,Follow up re: hood cleaning
+5377,Brickyard Food Court ,CAFE,Central,2024-07-29,98.1,72,$20.85,no,Walk-in temp logged at 41Â°F
+5394,JalapeÃ±o Talley Grill,COFFEE,Vet School,29-Sep-2025,89.8,16,$14.01,no,No issues noted
+2887,Page Coffee Bar,Coffee Shop,Off-Campus,23-Oct-2025,88.6,14,$15.68,yes,Owner requested re-score â€” pending
+9810,Withers Pizza Window,Café,Off-Campus,17-Oct-2024,95.4,32,$23.17,0,Walk-in temp logged at 41Â°F
+5065,Tompkins Snack Shop,CAFE,Central,28-Jan-2025,93.1,51,$11.87,1,
+0741, Polk Bakery Counter,DINING HALL,Centennial,11-Jun-2025,95.1,390,$14.73,Y,Reinspection scheduled
+4956,Winston Snack Shop,FoodTruck,North,"September 15, 2024",88.0,4,$24.59,yes,Reinspection scheduled
+5560,Scott Cafe,C-Store,Central,2024-08-04 10:00:00,91.5,11,$20.18,no,Walk-in temp logged at 41Â°F
+7100,Hunt Library Juice Bar,Dining hall,Centennial,"June 21, 2025",95.8,655,$11.18,yes,No issues noted
+9322,Caldwell Deli Counter,C-Store,Vet School,07/15/2024,99.9,11,$18.50,N,
+2296,Centennial Bakery Counter,Fast-Casual,Off-Campus,"October 13, 2025",unknown,79,$13.36,no,Follow up re: hood cleaning
+7646,Primrose Pizza Window,fast casual,Central,20-Aug-2025,92.0,110,$24.92,0,Follow up re: hood cleaning
+3963,Harrelson Salad Bar,CAFE,Central,2025-12-23,100.0,28,$15.10,no,CafÃ© side entrance blocked
+7792,JalapeÃ±o Pullen Kitchen,Coffee,Vet School,2025-08-24 11:45:00,90.8,21,$17.81,N,Owner requested re-score â€” pending
+4848,CafÃ© Fountain Juice Bar,Convenience,Centennial,02/05/2025,91.0,0,$5.04,no,
+9571,Primrose Grill,dining hall,Central,2024-03-08,92.6,245,$26.35,FALSE,Follow up re: hood cleaning
+1926,  Riddick Pizza Window ,Coffee ,North,"March 20, 2024",98.4,16,$11.35,N,
+1737,Case Bakery Counter,C-Store,Off-Campus,04/10/2025,93.3,6,$17.55,FALSE,Walk-in temp logged at 41Â°F
+8632,Scott Dining Hall,Convenience Store,Off-Campus,08/04/2025,95.2,8,$18.82,no,Owner requested re-score â€” pending
+4785,Page Cafe,DINING HALL,Vet School,"November 26, 2025",96.4,334,$6.34,1,Walk-in temp logged at 41Â°F
+2284,Pullen Juice Bar,cafe,Centennial,2024-11-10,88.7,-999,$25.79,no,
+3591,SÃ¶der Hunt Library Pizza Window,Dining Hall,Vet School,09/12/2024,97.5,-999,$6.31,N,Owner requested re-score â€” pending
+3838,Dabney Dining Hall,FoodTruck,Off-Campus,11/22/2025,89.4,2,$13.01,FALSE,Owner requested re-score â€” pending
+8571,Primrose Juice Bar, Coffee,Central,29-Mar-2024,91.0,-999,$7.73,0,Reinspection scheduled
+1094,  Clark Coffee Bar ,Fast Casual,Off-Campus,09/26/2024,91.0,93,$23.87,1,Walk-in temp logged at 41Â°F
+1563,Pullen Food Court,Food Truck,Vet School,14-Feb-2024,92.4,7,$27.55,1,Reinspection scheduled
+1466, DABNEY NOODLE STATION,food truck,Centennial,4/26/25,88.2,0,$17.55,TRUE,Reinspection scheduled
+7658,Mann Coffee Bar,Food truck,Off-Campus,03/08/2025,93.9,2,$7.92,FALSE,Walk-in temp logged at 41Â°F
+8088,Bostian Salad Bar,Coffee,Off-Campus,"June 5, 2025",  ,32,$15.38,1,Follow up re: hood cleaning
+3010,Leazar Food Court,FoodTruck,Central,"November 3, 2024",91.1,7,$5.12,N,Walk-in temp logged at 41Â°F
+5204,Jordan Coffee Bar,FastCasual,Off-Campus,1-Apr-2025,90.4,78,$22.22,no,Follow up re: hood cleaning
+3992,Primrose Noodle Station,food truck,Off-Campus,5/11/25,88.8,8,$9.03,N,Walk-in temp logged at 41Â°F
+0253,Polk Kitchen,Cafe,North,"September 17, 2024",94.5,65,$19.22,FALSE,No issues noted
+2832,Brickyard Market,C-Store,Off-Campus,2024-10-10,94.7,6,$20.89,yes,Owner requested re-score â€” pending
+3903,JalapeÃ±o Scott Deli Counter,food truck,Vet School,04/18/2025,86.7,5,$10.92,1,Walk-in temp logged at 41Â°F
+8251, Centennial Coffee Bar, Coffee,Centennial,2024-12-31 13:15:00,96.4,7,$5.98,TRUE,Owner requested re-score â€” pending
+4318,Nelson Cafe,Fast Casual,Off-Campus,10/29/25,91.1,120,$21.67,N,No issues noted
+0948,CafÃ© Polk Grill,Café,Vet School,8/26/25,93.6,89,$13.57,N,Walk-in temp logged at 41Â°F
+8850,Daniels Bakery Counter,Fast-Casual,Centennial,2025-07-24,89.2,57,$24.31,1,Reinspection scheduled
+7494,Broughton Hall Deli Counter,cafe,Central,05/24/2025,98.5,89,$11.49,FALSE,
+5070,Pullen Noodle Station,Food truck,Off-Campus,1/28/25,89.3,4,$23.40,FALSE,CafÃ© side entrance blocked
+7662,JalapeÃ±o Caldwell Coffee Bar,Food Truck,Vet School,2024-03-20,94.7*,6,$24.78,yes,Owner requested re-score â€” pending
+5145,Leazar Cafe,Convenience Store,Centennial,"February 12, 2025",93.4,11,$20.75,yes,CafÃ© side entrance blocked
+6980,Dabney Coffee Bar,Convenience,Central,2024-05-10 15:30:00,0,4,$21.37,TRUE,
+9232,Riddick Food Court,Café,Vet School,6/25/25,92.0,-999,$22.10,TRUE,CafÃ© side entrance blocked
+7865,  Weaver Market ,fast casual,North,1-Mar-2024,94.1,111,unknown,FALSE,Follow up re: hood cleaning
+5274,Page Bakery Counter,Coffee,Central,1/29/24,92.2,  ,$6.80,FALSE,No issues noted
+1161,Weaver Juice Bar,convenience,Off-Campus,2025-05-16 18:30:00,100.0,4,$9.39,Y,Walk-in temp logged at 41Â°F
+8876,BÃ¡nh Tompkins Coffee Bar,fast casual,Vet School,"May 30, 2025",100.0*,68,$21.90,1,Owner requested re-score â€” pending
+5205,Fountain Food Court,Convenience,Vet School,8-Jan-2024,91.8,8,$21.75,1,Follow up re: hood cleaning
+8455,JalapeÃ±o Harrelson Cafe,convenience,Vet School,2025-08-04,87.6,0,$6.55,Y,Walk-in temp logged at 41Â°F
+9994,Brickyard Pizza Window,fast casual,Off-Campus,2025-02-09 16:15:00,87.3,62,$13.26,0,Walk-in temp logged at 41Â°F
+3886,Daniels Cafe,FoodTruck,Off-Campus,4/8/25,81.7,6,NA,1,CafÃ© side entrance blocked
+4931,  CrÃ¨me Pullen Grill ,dining hall,Vet School,8/3/25,91.5,267,$8.00,FALSE,
+8377,Cox Cafe,convenience,Off-Campus,11/25/2024,0,7,$15.69,yes,Owner requested re-score â€” pending
+0758,Caldwell Cafe,food truck,North,03/11/2024,89.8,6,$27.84,TRUE,Walk-in temp logged at 41Â°F
+6716, Withers Salad Bar,cafe,Centennial,"October 28, 2024",91.5,49,$20.34,0,Reinspection scheduled
+2103,CafÃ© Polk Food Court,FoodTruck,Vet School,05/15/2025,89.8,1,$15.80,yes,
+3058,Cox Snack Shop,DINING HALL,Off-Campus,"April 16, 2024", 95.4 ,192,$17.25,Y,Owner requested re-score â€” pending
+2819,Daniels Market, Coffee,Off-Campus,2025-11-24,90.7,20,null,yes,Walk-in temp logged at 41Â°F
+8410,Withers Bakery Counter,DINING HALL,Centennial,8/27/24,92.4,541,$25.66,FALSE,Reinspection scheduled
+4051,Brickyard Bakery Counter,food truck,Centennial,2024-04-26 20:00:00,87.0,1,$10.19,0,No issues noted
+4620,Scott Bakery Counter,CAFE,Vet School,24-Jul-2025,93.2,34,$16.77,yes,CafÃ© side entrance blocked
+4703,Poe Grill,FoodTruck,Central,3-Jan-2025,93.7,2,$20.86,1,CafÃ© side entrance blocked
+2755,Broughton Hall Cafe,CAFE,Off-Campus,8/9/24,93.7,75,$7.72,FALSE,
+0453, CAFÃ© TOMPKINS CAFE,food truck,Vet School,21-Jul-2025,94.7,7,,FALSE,Follow up re: hood cleaning
+5428,   CASE SNACK SHOP ,food truck,Central,2024-07-13,87.2,2,$15.29,Y,Reinspection scheduled
+4947,Brickyard Kitchen,dining hall,Vet School,4/16/24,86.9,672,$12.75,Y,CafÃ© side entrance blocked
+7658,Mann Coffee Bar,Food truck,Off-Campus,03/08/2025,93.9,2,$7.92,FALSE,Walk-in temp logged at 41Â°F
+0559, FOUNTAIN NOODLE STATION,food truck,Off-Campus,"February 19, 2024",96.3,2,$23.55,1,Follow up re: hood cleaning
+5428,  Case Snack Shop ,Food truck,Central,2024-07-13,87.2,2,$15.29,Y,Reinspection scheduled
+8312,Weaver Pizza Window,food truck,Centennial,2024-02-22 16:15:00,86.8,unknown,$16.80,1,No issues noted
+8630,Weaver Cafe,CAFE,Central,1/4/25,N/A,27,$15.97,0,Follow up re: hood cleaning
+1588,Fountain Salad Bar,Food truck,Off-Campus,2024-06-30,90.4,2,$11.37,FALSE,Walk-in temp logged at 41Â°F
+5861,Bostian Coffee Bar,coffee,North,5/2/24,91.8,9,,Y,Walk-in temp logged at 41Â°F
+4051, BRICKYARD BAKERY COUNTER,food truck,Centennial,2024-04-26 20:00:00,87.0,1,$10.19,0,No issues noted
+8389,CafÃ© Weaver Grill,Coffee,North,2024-04-23,98.1,-999,$17.73,1,No issues noted
+0586, Daniels Grill,convenience,North,7/19/25,95.1,11,$12.99,no,
+9176, Withers Cafe,COFFEE,Off-Campus,7-Sep-2024,94.8,37,null,N,
+9200,Pullen Salad Bar,Café,Central,2024-08-25,94.1,59,$16.95,FALSE,CafÃ© side entrance blocked
+5742,Jordan Salad Bar,CAFE,Off-Campus,3/15/25,90.5,86,$22.27,FALSE,Follow up re: hood cleaning
+6857,Riddick Kitchen,food truck,Off-Campus,08/23/2025,98.0*,8,$26.64,0,CafÃ© side entrance blocked
+4658,JalapeÃ±o Winston Grill,Cafe,Vet School,24-Aug-2024,87.2,38,$20.77,TRUE,Reinspection scheduled
+2370,Case Kitchen,Fast Casual,Off-Campus,2025-09-21,97.0,68,$12.59,no,
+0633,Page Juice Bar,fast casual,Centennial,4-Jul-2024,97.3,71,$19.35,Y,No issues noted
+7473,JalapeÃ±o Clark Deli Counter,C-Store,Vet School,2025-07-07,91.2,8,$19.89,Y,No issues noted
+0859,CafÃ© Tompkins Deli Counter,C-Store,Vet School,03/03/2024,86.0,0,$19.34,0,No issues noted
+8761,Leazar Snack Shop,Food truck,Centennial,2024-06-10,92.0,6,$16.62,TRUE,Owner requested re-score â€” pending
+6430,Centennial Grill,food truck,North,9-Jan-2025,98.1,6,$14.61,0,
+6780, Caldwell Snack Shop,Dining hall,Off-Campus,2025-10-04,93.3,464,$15.46,N,Walk-in temp logged at 41Â°F
+7383,JalapeÃ±o Withers Juice Bar ,Food Truck,Central,8-Nov-2025,87.8*,1,$10.60,0,Owner requested re-score â€” pending
+8901,Primrose Snack Shop,Dining Hall,Centennial,4/1/24,97.9,638,$9.22,0,Reinspection scheduled
+1372,CrÃ¨me Broughton Hall Bakery Counter,FoodTruck,Vet School,04/09/2024,88.2,6,$14.79,N,Owner requested re-score â€” pending
+5047,  Bostian Juice Bar ,FoodTruck,Centennial,"October 22, 2024", 86.0 ,2,$13.09,FALSE,Owner requested re-score â€” pending
+2103,CafÃ© Polk Food Court,FoodTruck,Vet School,05/15/2025,89.8,1,$15.80,yes,
+0104,Jordan Deli Counter,Convenience Store,Central,2025-08-28,92.6,5,$17.66,0,Owner requested re-score â€” pending
+2312,Tompkins Market,CAFE,Off-Campus,"February 17, 2025",94.5,65,$26.77,0,No issues noted
+7283,Tompkins Dining Hall,FastCasual,North,31-Mar-2025,90.4,111,$11.26,Y,Follow up re: hood cleaning
+5342,Riddick Deli Counter,Coffee Shop,North,1/28/24,  ,21,$6.36,Y,
+2303,  Mann Cafe ,FastCasual,Central,27-Apr-2024,95.7,107,$18.25,yes,Reinspection scheduled
+5902,Scott Kitchen,food truck,North,25-Dec-2025,93.0,-999,$9.68,Y,Reinspection scheduled
+0553,Gardner Snack Shop,Dining hall,Off-Campus,2024-12-21,90.6,524,$26.93,N,Follow up re: hood cleaning
+3992,Primrose Noodle Station,food truck,Off-Campus,5/11/25,88.8,8,$9.03,N,Walk-in temp logged at 41Â°F
+0758,Caldwell Cafe,food truck,North,03/11/2024,89.8,6,$27.84,TRUE,Walk-in temp logged at 41Â°F
+4595,Centennial Market,Convenience,Vet School,2024-11-08,88.0,7,$27.73,yes,No issues noted
+0903,Caldwell Food Court,Fast Casual,Vet School,"September 3, 2025",92.3,35,$11.37,yes,Owner requested re-score â€” pending
+3204,Hunt Library Snack Shop,fast casual,Central,08/28/2024,,78,$7.50,TRUE,No issues noted
+1805,Riddick Bakery Counter,CAFE,Centennial,2024-10-01 13:30:00,99.3,21,$18.52,yes,Follow up re: hood cleaning
+2322,Dabney Kitchen,Fast Casual,Centennial,2024-03-07 10:30:00,93.5,58,$16.55,TRUE,CafÃ© side entrance blocked
+1145,Weaver Salad Bar ,FastCasual,Centennial,27-Sep-2024,89.0,92,$20.34,Y,No issues noted
+4791,  Leazar Pizza Window ,Convenience,North,29-Apr-2025,100.0,10,$15.10,TRUE,Follow up re: hood cleaning
+4527, Leazar Deli Counter,Fast-Casual,Off-Campus,2025-02-07,89.1,54,$17.79,Y,Reinspection scheduled
+8340, Bostian Dining Hall,Fast-Casual,Off-Campus,11-Nov-2025,90.8,90,$26.46,N,No issues noted
+6857, RIDDICK KITCHEN,food truck,Off-Campus,08/23/2025,98.0*,8,$26.64,0,CafÃ© side entrance blocked
+6430,Centennial Grill,food truck,North,9-Jan-2025,98.1,6,$14.61,0,
+3908,Brickyard Juice Bar,Fast-Casual,North,28-Oct-2024,89.7*,83,$6.89,FALSE,Walk-in temp logged at 41Â°F
+5240,Withers Kitchen,cafe,Vet School,02/20/2024,92.3,-999,-999,TRUE,No issues noted
+0418,Gardner Cafe,Fast-Casual,Central,"August 3, 2025",93.2,103,$14.06,yes,Follow up re: hood cleaning
+5599, Mann Juice Bar,cafe,North,"August 30, 2025",91.6,44,$14.05,1,Owner requested re-score â€” pending
+2761,Brickyard Deli Counter,CAFE,Off-Campus,"February 23, 2024",94.7,77,$15.26,N,No issues noted
+6857,Riddick Kitchen,food truck,Off-Campus,08/23/2025,98.0*,8,$26.64,0,CafÃ© side entrance blocked
+1118, Talley Deli Counter,CAFE,Centennial,7/31/24,97.5,85,$11.69,TRUE,
+4787,Clark Snack Shop,Fast-Casual,Centennial,17-Nov-2025,92.7*,117,$26.24,0,CafÃ© side entrance blocked
+9759,Daniels Pizza Window,Café,Centennial,"April 27, 2025",N/A,28,$23.61,yes,Follow up re: hood cleaning
+9994,Broughton Hall Market,Fast Casual,Off-Campus,6-Feb-2024,unknown,39,null,1,Follow up re: hood cleaning
+0596,Centennial Salad Bar,CAFE,Centennial,3/26/24,,58,  ,1,Walk-in temp logged at 41Â°F
+3010,Leazar Food Court,FoodTruck,Central,"November 3, 2024",91.1,7,$5.12,N,Walk-in temp logged at 41Â°F
+1668,Polk Noodle Station,convenience,Off-Campus,2025-12-09 15:30:00,92.0,8,$12.91,1,No issues noted
+3934,Page Salad Bar,convenience,Vet School,"July 25, 2024",90.7,4,$12.57,1,Walk-in temp logged at 41Â°F
+5666, Brickyard Coffee Bar,C-Store,Off-Campus,"February 27, 2024",88.3,NA,$6.34,N,CafÃ© side entrance blocked
+6885,PiÃ±ata Page Snack Shop,Coffee,North,09/04/2024,97.2,32,$6.23,FALSE,CafÃ© side entrance blocked
+9261,Page Food Court,dining hall,Central,11/29/2024,95.6,259,$23.83,TRUE,No issues noted
+8555, CLARK BAKERY COUNTER,foodtruck,Vet School,03/22/2025,89.5,6,$21.65,FALSE,
+0319,  Talley Juice Bar ,Food Truck,North,10/10/25,95.0,3,$18.45,0,Walk-in temp logged at 41Â°F
+6746,Weaver Bakery Counter,DINING HALL,Central,10/11/2024,97.5,633,null,N,Follow up re: hood cleaning
+1249, Jordan Cafe,Food Truck,Centennial,24-May-2024,89.8,3,$9.53,N,Follow up re: hood cleaning
+7383, JALAPEÃ±O WITHERS JUICE BAR ,food truck,Central,8-Nov-2025,87.8*,1,$10.60,0,Owner requested re-score â€” pending
+7508,Case Salad Bar,Food Truck,Vet School,4/4/24,88.5,8,$23.52,TRUE,Owner requested re-score â€” pending
+5129,JalapeÃ±o Primrose Coffee Bar,coffee,North,2024-07-05 19:15:00,87.7,24,$26.05,N,Owner requested re-score â€” pending
+3446, Nelson Food Court,fast casual,Off-Campus,"April 5, 2024",89.2,95,$19.98,TRUE,No issues noted
+7508, CASE SALAD BAR,food truck,Vet School,4/4/24,88.5,8,$23.52,TRUE,Owner requested re-score â€” pending
+7029,Mann Salad Bar,COFFEE,North,03/01/2024,94.6,32,$11.24,FALSE,CafÃ© side entrance blocked
+2996, CrÃ¨me Mann Snack Shop,Cafe,Vet School,2024-06-20,91.7,53,$24.47,1,No issues noted
+0517,Weaver Kitchen,convenience,Centennial,2024-09-20 09:45:00,97.8,9,$24.72,0,Follow up re: hood cleaning
+1249, Jordan Cafe,Food Truck,Centennial,24-May-2024,89.8,3,$9.53,N,Follow up re: hood cleaning
+4020,Page Deli Counter,DINING HALL,North,"November 9, 2024",99.3,427,$20.79,1,CafÃ© side entrance blocked
+7508,Case Salad Bar,Food Truck,Vet School,4/4/24,88.5,8,$23.52,TRUE,Owner requested re-score â€” pending
+3689,Daniels Juice Bar,Convenience,Centennial,2024-12-13 16:45:00,96.9,12,$11.36,0,
+0559,Fountain Noodle Station,food truck,Off-Campus,"February 19, 2024",96.3,2,$23.55,1,Follow up re: hood cleaning
+4872,Gardner Coffee Bar,dining hall,Off-Campus,12/04/2024,91.5,682,$16.43,1,Reinspection scheduled
+1524,Pullen Pizza Window,fast casual,Off-Campus,09/05/2024,91.7,54,$20.14,FALSE,No issues noted
+6270,JalapeÃ±o Jordan Pizza Window, Coffee,Vet School,03/25/2024, 86.1 ,NA,$17.35,Y,CafÃ© side entrance blocked
+6425,Poe Kitchen,Dining hall,Off-Campus,2025-12-10 09:15:00,97.9,360,$8.55,N,No issues noted
+3588,Case Dining Hall ,Fast-Casual,Central,2025-04-16 09:30:00,93.4,87,$9.86,no,Reinspection scheduled
+0453,CafÃ© Tompkins Cafe,Food truck,Vet School,21-Jul-2025,94.7,7,,FALSE,Follow up re: hood cleaning
+7796,Centennial Dining Hall,Food Truck,Centennial,2025-12-30 17:00:00,94.6,0,$23.62,TRUE,No issues noted
+7796, CENTENNIAL DINING HALL,food truck,Centennial,2025-12-30 17:00:00,94.6,0,$23.62,TRUE,No issues noted
+9917,Winston Dining Hall,CAFE,Vet School,2025-11-26 08:30:00,,81,$17.31,FALSE,Reinspection scheduled
+2855,CrÃ¨me Tompkins Food Court,C-Store,Vet School,10-Dec-2025,98.0,12,$6.03,Y,Walk-in temp logged at 41Â°F
+5712,Primrose Deli Counter,Coffee,Off-Campus,2024-10-10,89.7,40,$19.66,FALSE,Follow up re: hood cleaning
+6014,Nelson Grill ,Coffee Shop,Centennial,2024-02-24,94.0,29,$6.45,Y,Walk-in temp logged at 41Â°F
+5166,Daniels Noodle Station,coffee,Off-Campus,1/22/24,90.5,10,$26.20,no,
+5070,Pullen Noodle Station,Food truck,Off-Campus,1/28/25,89.3,4,$23.40,FALSE,CafÃ© side entrance blocked
+2325,Weaver Coffee Bar,Café,Central,2025-07-14,89.6,64,$21.62,yes,CafÃ© side entrance blocked
+2907,Case Grill,cafe,North,10/22/24,98.0,76,$21.28,TRUE,No issues noted
+4334,Polk Deli Counter ,fast casual,Centennial,11/12/2024,90.6,56,null,TRUE,Follow up re: hood cleaning
+3150,Jordan Market,Food truck,Central,12/27/24,88.5,7,$8.59,0,CafÃ© side entrance blocked
+4552,Tompkins Salad Bar,Cafe,Central,5/4/25,93.3,87,$10.95,TRUE,Walk-in temp logged at 41Â°F
+7599,Scott Grill ,Convenience Store,North,"December 12, 2025",94.0,3,$12.46,1,Reinspection scheduled
+5070,Pullen Noodle Station,Food truck,Off-Campus,1/28/25,89.3,4,$23.40,FALSE,CafÃ© side entrance blocked
+4703,Poe Grill,FoodTruck,Central,3-Jan-2025,93.7,2,$20.86,1,CafÃ© side entrance blocked
+8520,Fountain Dining Hall,Dining hall,Off-Campus,2024-11-07 11:15:00,100.0,413,$27.34,FALSE,CafÃ© side entrance blocked
+2731,Mann Deli Counter,Coffee,Central,10/13/2024,94.0,31,$26.49,yes,
+9834,CrÃ¨me Talley Snack Shop,Coffee Shop,Vet School,2025-03-23,96.7,16,$9.85,0,Walk-in temp logged at 41Â°F
+3977,Gardner Grill,Convenience Store,Centennial,"May 21, 2024",0,  ,$7.30,N,Owner requested re-score â€” pending
+9077,Brickyard Salad Bar,Convenience Store,Central,7/11/24,0,1,$25.57,Y,Reinspection scheduled
+4956,Winston Snack Shop,FoodTruck,North,"September 15, 2024",88.0,4,$24.59,yes,Reinspection scheduled
+0974,Tompkins Kitchen,Fast Casual,Central,"September 1, 2025",92.5,91,$4.91,no,Reinspection scheduled
+1287,Page Grill,Dining Hall,Off-Campus,21-Sep-2025,91.0*,564,$5.56,1,
+1588,Fountain Salad Bar,Food truck,Off-Campus,2024-06-30,90.4,2,$11.37,FALSE,Walk-in temp logged at 41Â°F
+8963,Jordan Kitchen,DINING HALL,North,2024-01-25,100.0*,538,$23.16,1,
+8476,CafÃ© Clark Cafe,Fast-Casual,Vet School,27-Sep-2025,97.8,117,$10.36,TRUE,Follow up re: hood cleaning
+7857,JalapeÃ±o Talley Coffee Bar,coffee,Central,"November 20, 2024",98.6,40,$5.89,0,Follow up re: hood cleaning
+1734,Nelson Coffee Bar,Food Truck,North,"July 25, 2024",85.8,3,$16.61,N,Owner requested re-score â€” pending
+4545,Centennial Snack Shop,Coffee,Off-Campus,5/3/25,100.0,7,NA,Y,No issues noted
+6163, Broughton Hall Dining Hall,Convenience,Centennial,2025-12-22,92.9,1,$5.03,FALSE,
+2117,BÃ¡nh Clark Grill,cafe,Vet School,22-Jun-2024,98.5,54,$11.85,no,CafÃ© side entrance blocked
+3992, PRIMROSE NOODLE STATION,food truck,Off-Campus,5/11/25,88.8,8,$9.03,N,Walk-in temp logged at 41Â°F
+8492,Daniels Salad Bar,Food truck,Off-Campus,2025-02-25 15:00:00,86.3,7,$9.87,FALSE,Follow up re: hood cleaning
+2401,Case Cafe,FastCasual,Off-Campus,"January 17, 2024",89.2,56,$20.63,Y,Owner requested re-score â€” pending
+4990,Hunt Library Grill ,Convenience,Centennial,2025-11-23 10:00:00,87.8,10,$6.20,0,No issues noted
+4991,Bostian Snack Shop,cafe,Central,05/29/2024,88.3,78,$6.17,1,CafÃ© side entrance blocked
+4278,Talley Kitchen,Food Truck,Off-Campus,2/11/24,87.3,0,$25.57,yes,Follow up re: hood cleaning
+4154,Winston Bakery Counter,Fast Casual,North,"October 2, 2024",100.0,32,$20.60,no,No issues noted
