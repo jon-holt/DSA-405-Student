@@ -1,3 +1,7 @@
 .DS_Store
 .ipynb_checkpoints/
 __pycache__/
+
+# The repo syllabus is instructor reference only — students get the official
+# NCSU syllabus (linked on Moodle), never this one. Guard against accidental adds.
+*Syllabus*
