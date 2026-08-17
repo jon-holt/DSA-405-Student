@@ -7,12 +7,10 @@
 | **Introduced** | Week 1 (Aug 21). Prep: post three project ideas to the Week 2 forum. |
 | **Due** | **Thursday, Sep 3, 11:59 PM** |
 | **Weight** | 5% of course grade · scored on the P1 rubric, 4 criteria |
-| **Submit** | Notebook to Moodle. Filename `DSA405_001_FA26_P1_[yourUnityID].ipynb` |
+| **Submit** | Notebook to Moodle. Filename `DSA405_002_FA26_P1_[yourUnityID].ipynb` |
 | **Time** | 2–3 hours across two weeks, most of it looking at candidate sources |
 
-**One grace token may be spent on this milestone.** P1, P2, and P3 share a single
-project token, so spending it here spends it for all three. Revision available once,
-within a week of feedback.
+**Revision available once**, within a week of feedback.
 
 ---
 
