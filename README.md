@@ -1,6 +1,6 @@
 # DSA 405: Data Wrangling and Web Scraping (Fall 2026)
 
-NC State Data Science and AI Academy · Section 001 · Fridays, Aug 21 – Nov 20
+NC State Data Science and AI Academy · Section 002 · Fridays, Aug 21 – Nov 20
 
 This repository holds the student materials for DSA 405: assignments, labs, project
 handouts, rubrics, and all course datasets. Materials are posted as the course
@@ -39,7 +39,7 @@ Weekly labs and later assignments appear here before the Friday they are used.
 ## Submissions
 
 All graded work is submitted through Moodle, named
-`DSA405_001_FA26_[A#|P#]_[yourUnityID]`. Nothing is submitted through GitHub except the
+`DSA405_002_FA26_[A#|P#]_[yourUnityID]`. Nothing is submitted through GitHub except the
 `dsa405-project` repo that P0 sets up.
 
 If anything here fails to load (a dead link, a notebook that will not open, a dataset

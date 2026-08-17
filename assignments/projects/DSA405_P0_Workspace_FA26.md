@@ -7,7 +7,7 @@
 | **Introduced** | Week 1 (Aug 21), in class |
 | **Due** | **Thursday, Aug 27, 11:59 PM** |
 | **Weight** | In-class credit, completion-graded. No rubric. |
-| **Submit** | Colab share link + repo URL to Moodle. Name the notebook `DSA405_001_FA26_P0_[yourUnityID]` |
+| **Submit** | Colab share link + repo URL to Moodle. Name the notebook `DSA405_002_FA26_P0_[yourUnityID]` |
 | **Time** | 30–45 minutes: smoke test ~10, Drive folder ~5, GitHub account and repo ~15–25 |
 
 ---
@@ -31,7 +31,7 @@ data over HTTPS.
 
 1. Go to [colab.research.google.com](https://colab.research.google.com) and sign in with a
    Google account.
-2. Open a new notebook and rename it `DSA405_001_FA26_P0_[yourUnityID]`.
+2. Open a new notebook and rename it `DSA405_002_FA26_P0_[yourUnityID]`.
 3. Run this cell:
 
 ```python
@@ -52,7 +52,7 @@ This is the dataset used throughout Weeks 2–4.
 
 Make a folder named `DSA405` in Drive and save the notebook into it (**File → Move**
 in Colab). Every notebook written this term goes in this folder, named by the course
-convention `DSA405_001_FA26_[assignment]_[yourUnityID]`.
+convention `DSA405_002_FA26_[assignment]_[yourUnityID]`.
 
 ## 3. A GitHub account and the project repo
 

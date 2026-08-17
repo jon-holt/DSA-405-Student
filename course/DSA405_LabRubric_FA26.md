@@ -23,7 +23,7 @@ started rather than starting over. If it routinely takes longer, report that to 
 instructor; the time budget is a design commitment, and overruns indicate a problem with
 the Lab, not with the student.
 
-Submission naming: `DSA405_001_FA26_A2_[yourUnityID]`, and so on.
+Submission naming: `DSA405_002_FA26_A2_[yourUnityID]`, and so on.
 
 ---
 
