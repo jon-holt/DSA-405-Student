@@ -14,13 +14,7 @@
 
 ## Purpose
 
-P0 confirms that the required tools work before anything depends on them.
-
-Week 2 (Aug 28) uses real data in class. A Colab sign-in problem or a browser that
-blocks Drive, discovered that day, consumes the 25-minute Explore block. This milestone
-moves that discovery a week earlier.
-
-Three parts, all completion-graded. Report any failure this week rather than waiting.
+P0 confirms that the required tools work before any coursework depends on them.
 
 ---
 

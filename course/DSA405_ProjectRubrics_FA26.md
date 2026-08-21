@@ -1,8 +1,6 @@
 # DSA 405: Project Rubrics & Checklists
 ### P1–P4, Bench Checks, Lightning Talk · Fall 2026
 
-> Published in Week 1, before any project work is due.
-
 ---
 
 ## How Scoring Works

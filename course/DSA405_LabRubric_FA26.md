@@ -1,9 +1,6 @@
 # DSA 405: Lab Rubric
 ### A1–A9, the take-home half of the weekly Lab · Fall 2026
 
-> Published in Week 1, alongside the Project Rubrics. The same four criteria apply every
-> week; use them to self-score before submitting.
-
 ---
 
 ## Scope
