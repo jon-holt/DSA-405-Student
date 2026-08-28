@@ -24,10 +24,6 @@ evidence that collection is permitted, and a tier declaration.
 sources that must be combined**, where **at least one comes off the web** by scrape or
 API. A pre-packaged Kaggle download does not satisfy the web-source requirement.
 
-P1 is the cheapest milestone to redo. Redirecting a project in Week 4 costs nothing;
-redirecting in Week 12 costs the grade. An hour spent examining candidate data now
-prevents discovering in October that a source has 40 usable rows.
-
 ---
 
 ## Deliverables
