@@ -16,16 +16,19 @@ Every criterion is scored on one four-level scale:
 
 Criteria carry weights of ×1, ×2, or ×3. The milestone score is the **weighted mean** of the criterion scores, converted with this table:
 
+The conversion is one linear formula: **percentage = 88 + (weighted mean − 3) × 12**,
+rounded to the nearest whole number. Reference points:
+
 | Weighted mean | Percentage | | Weighted mean | Percentage |
 |---|---|---|---|---|
-| 4.0 | 100 | | 2.4 | 79 |
-| 3.8 | 98 | | 2.2 | 76 |
-| 3.6 | 95 | | 2.0 | 73 |
-| 3.4 | 93 | | 1.8 | 69 |
-| 3.2 | 90 | | 1.6 | 66 |
-| 3.0 | 88 | | 1.4 | 62 |
-| 2.8 | 85 | | 1.2 | 59 |
-| 2.6 | 82 | | 1.0 | 55 |
+| 4.0 | 100 | | 2.4 | 81 |
+| 3.8 | 98 | | 2.2 | 78 |
+| 3.6 | 95 | | 2.0 | 76 |
+| 3.4 | 93 | | 1.8 | 74 |
+| 3.2 | 90 | | 1.6 | 71 |
+| 3.0 | 88 | | 1.4 | 69 |
+| 2.8 | 86 | | 1.2 | 66 |
+| 2.6 | 83 | | 1.0 | 64 |
 
 Proficient on every criterion converts to an 88, a B+. Correct and complete work earns that grade. The A range requires demonstrated judgment in addition to correctness.
 
