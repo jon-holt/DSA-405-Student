@@ -1,7 +1,6 @@
 # DSA 405: Lab Rubric
 ### A1–A9, the take-home half of the weekly Lab · Fall 2026
 
----
 
 ## Scope
 
@@ -16,9 +15,7 @@ after class at 11:59 PM, except A9, which is due **Thu Nov 12**; the extra week 
 for P3 being due Nov 5.
 
 Budget: finishing the Lab at home should take **45–60 minutes**, continuing what Explore
-started rather than starting over. If it routinely takes longer, report that to the
-instructor; the time budget is a design commitment, and overruns indicate a problem with
-the Lab, not with the student.
+started rather than starting over. If it routinely takes longer, report that to Dr. Holt.
 
 Submission naming: `DSA405_002_FA26_A2_[yourUnityID]`, and so on.
 
@@ -54,8 +51,8 @@ rounded to the nearest whole number. Reference points:
 
 As with the project rubrics: Proficient on every criterion converts to an 88, a B+.
 Correct and complete work earns that grade. The A range requires evidence of judgment,
-meaning a check that could have failed and a stated reason the chosen approach beat the
-alternatives.
+meaning a check that could have failed and a stated reason the chosen approach was
+better than the alternatives.
 
 ---
 
@@ -63,9 +60,9 @@ alternatives.
 
 | # | Criterion | Wt | 4 — Excellent | 3 — Proficient | 2 — Developing | 1 — Limited |
 |---|---|---|---|---|---|---|
-| 1 | **Correctness** | ×2 | Every answer right, and where the data allowed more than one defensible result, states which was chosen and why. | Answers match the data; nothing material missing. | Some answers wrong or missing, or right numbers from code that would not survive a rerun. | Answers missing, or unrelated to the data. |
+| 1 | **Correctness** | ×2 | Every answer right, and where the data allowed more than one defensible result, states which was chosen and why. | Answers match the data; nothing material missing. | Some answers wrong or missing, or correct numbers from code that would fail or give different numbers if run again. | Answers missing, or unrelated to the data. |
 | 2 | **Verification** | ×2 | Ran a check that could have failed (`value_counts(dropna=False)`, row counts before and after, an assertion) and shows the output. Also states what was checked for and *not* found. | At least one real check per major step, with the output shown. | Asserts correctness without evidence ("it looked right"), or runs checks that could not fail. | No checking visible anywhere. |
-| 3 | **Interpretation** | ×2 | Says what the result means, what it cannot support, and names something specific the data leaves out. Every claim carries a number. | States what the numbers show, in plain language, with counts. | Restates the output without saying what it means, or claims outrun the evidence. | No prose, or prose the output contradicts. |
+| 3 | **Interpretation** | ×2 | Says what the result means, what it cannot support, and names something specific the data leaves out. Every claim carries a number. | States what the numbers show, in plain language, with counts. | Restates the output without saying what it means, or makes claims that go beyond what the evidence supports. | No prose, or prose the output contradicts. |
 | 4 | **Documentation** | ×1 | A stranger could rerun and follow it: named steps, data source stated, AI note specific about what was used and what was changed. | Notebook runs top to bottom on a clean kernel; steps labeled; AI note present. | Runs only with manual intervention, or the AI note is missing or vague. | Does not run, or the saved outputs contradict the code. |
 
 **On Criterion 2.** "417 rows in, 392 out, 25 dropped as exact duplicates" is

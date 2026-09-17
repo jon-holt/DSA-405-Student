@@ -20,8 +20,8 @@ P2 covers one of the project's two data sources: audit it, fix what can be fixed
 
 That last clause is the assignment. The rubric puts its heaviest weight (×3) on the
 cleaning log, not on the cleaning. By November, the reason 43 rows were dropped in
-September will not be remembered by the author, the grader, or anyone who inherits the
-work. The log is that record.
+September will not be remembered by the author, the grader, or anyone who takes over the
+work later. The log is that record.
 
 **Only one source needs cleaning for P2.** The second source, the join, and the
 verification suite belong to P3.
@@ -38,7 +38,8 @@ A **systematic** pass over the raw data, with output that shows each check.
 
 At minimum, for every column the analysis will use:
 
-- dtype as loaded, and dtype as it should be
+- dtype as loaded, and dtype as it should be (the dtype is the data type pandas
+  assigned to the column)
 - count and rate of missing values, `dropna=False`
 - number of distinct values
 - min, max, and range for anything numeric
@@ -47,11 +48,13 @@ At minimum, for every column the analysis will use:
 Then the part most often skipped:
 
 **State which classes of defect were checked for and *not* found.** Sentinel values
-posing as data. Total or subtotal rows inside the observations. Leading zeros in
-identifiers. Encoding damage. Duplicate keys. Dates in more than one format. Numbers
+recorded as if they were real data (a sentinel is a special value, such as 999 or "N/A",
+written inside a data column to mean "no real value here"). Total or subtotal rows mixed
+in with the observations. Leading zeros in identifiers. Text garbled by reading the file
+with the wrong character encoding. Duplicate keys. Dates in more than one format. Numbers
 stored as text.
 
-Data that is genuinely clean is a legitimate finding and can score full marks on this
+Data that is genuinely clean is a legitimate finding and can earn the top score on this
 criterion.
 
 ### 2. The data dictionary
@@ -76,23 +79,24 @@ most valuable findings a dictionary can report.
 
 The heaviest-weighted criterion (×3). One row per **decision**, not per line of code.
 
-| # | Column | Change made | Rows/cells affected | Why | What this costs |
+| # | Column | Change made | Rows/cells affected | Why | What is lost |
 |---|---|---|---|---|---|
-| 1 | `score` | Stripped whitespace | 47 cells | Padding blocked numeric conversion | Nothing |
-| 2 | `score` | Removed trailing `*` | 12 cells | Footnote marker glued to the value | A reader can no longer see which values were revised |
+| 1 | `score` | Stripped whitespace | 47 cells | Extra spaces prevented numeric conversion | Nothing |
+| 2 | `score` | Removed trailing `*` | 12 cells | A footnote marker was attached to the end of the value | A reader can no longer see which values were revised |
 | 3 | `unit_code` | Re-read with `dtype=str` | 31 rows | Leading zeros were deleted by the default read | Nothing; the column was never numeric |
 | 4 | | | | | |
 
-Four rules, and they are the rubric:
+Four rules. The rubric scores the log on exactly these four:
 
-**Every row has a number.** "Some rows" is not a number. 
+**Every row has a number.** Write the exact count of rows or cells the change touched.
 
 **Every row has a reason, not a restatement.** "Converted to numeric" is *what*. "The
-column was text because footnote markers were glued to the values, and the analysis
+column was text because footnote markers were attached to the values, and the analysis
 needs a mean" is *why*.
 
-**Every row has a cost**, even when the cost is "nothing." Most cleaning discards
-information, and the cost column records which. It is the column most often left blank.
+**Every row records what information is lost**, even when the answer is "nothing." Most
+cleaning discards some information, and this column records which information is gone. It
+is the column most often left blank.
 
 **A reader can reverse any single decision** using only the log and the raw file.
 
@@ -119,7 +123,8 @@ A mismatch means something happened that was not logged.
 
 ### 5. The Provenance Brief
 
-**200 words maximum.** Written for a smart reader who does not work with data.
+**200 words maximum.** Provenance means the origin of the data: who made it, how, and
+why. The brief is written for a smart reader who does not work with data.
 
 Cover: what this dataset is, who produced it, why they produced it, what it contains,
 and what it can and cannot support.
@@ -150,13 +155,13 @@ re-explained in later handouts.
 |---|---|---|
 | Diagnosis & data dictionary | ×2 | Systematic audit, quantified problems, and what was checked for and not found |
 | Cleaning execution | ×2 | Correct, proportionate, alternatives considered |
-| **Cleaning log** | **×3** | Counts, reasons, costs, reversible |
+| **Cleaning log** | **×3** | Counts, reasons, what was lost, reversible |
 | Provenance Brief | ×1 | A non-specialist understands it |
-| Tidy structure & reproducibility | ×2 | Tidy, runs clean, README and requirements present |
+| Tidy structure & reproducibility | ×2 | Tidy, runs without errors, README and requirements present |
 
-Full descriptors in *DSA 405 Project Rubrics*. Proficient across the board is an 88.
+Full descriptors in *DSA 405 Project Rubrics*. Proficient on every criterion is an 88.
 
-**Submit a self-scored copy of the rubric.** It is ungraded and catches omissions before grading does.
+**Submit a self-scored copy of the rubric.** It is ungraded, and it helps you notice missing pieces before we grade.
 
 ---
 
@@ -166,7 +171,8 @@ Full descriptors in *DSA 405 Project Rubrics*. Proficient across the board is an
 single decision. Log while working; reconstructing the log afterward can miss decisions.
 
 **The log that lists operations.** Twenty rows, every one saying what a line of code
-did, none saying why. That is a changelog, not a cleaning log.
+did, none saying why. A log without reasons is a record of code changes, not a
+cleaning log.
 
 ## If the data turns out to be clean
 
@@ -174,8 +180,8 @@ Some well-curated sources leave little to fix. That is not a problem and not a r
 to switch datasets.
 
 Instead: document the audit thoroughly, report what was checked for and not found, and
-spend the effort on the **provenance** and the **limits** of the data. A well-curated
-dataset was curated by someone, for a purpose, and asking what they left out is a richer
-question than fixing typos.
+put the effort into the **provenance** and the **limits** of the data. A well-curated
+dataset was curated by someone, for a purpose, and asking what they left out is a more
+valuable question than fixing typos.
 
 If unsure whether this applies, ask Dr. Holt.

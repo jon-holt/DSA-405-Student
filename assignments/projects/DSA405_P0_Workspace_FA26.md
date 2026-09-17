@@ -8,7 +8,7 @@
 | **Due** | **Thursday, Aug 27, 11:59 PM** |
 | **Weight** | In-class credit, completion-graded. No rubric. |
 | **Submit** | Colab share link + repo URL to Moodle. Name the notebook `DSA405_002_FA26_P0_[yourUnityID]` |
-| **Time** | 30–45 minutes: smoke test ~10, Drive folder ~5, GitHub account and repo ~15–25 |
+| **Time** | 30–45 minutes: Colab test ~10, Drive folder ~5, GitHub account and repo ~15–25 |
 
 ---
 
@@ -36,9 +36,10 @@ dining = pd.read_csv(DATA + "wolfpack_dining_raw.csv")
 print(len(dining), "rows,", dining.shape[1], "columns")
 ```
 
-**Expected output: `366 rows, 10 columns`.** That exact line. On any error, or any other
-number, post the full error message to the Week 1 forum before Friday. Do not sit on a
-broken environment.
+**Expected output: `366 rows, 10 columns`.** You should see that exact line. If you see
+an error, or different numbers, post the full error message to the Week 1 forum before
+Friday. Do not wait with a setup that does not work; report the problem right away, so we
+can fix it before the Labs depend on it.
 
 This is the dataset used throughout Weeks 2–4.
 
@@ -50,8 +51,11 @@ convention `DSA405_002_FA26_[assignment]_[yourUnityID]`.
 
 ## 3. A GitHub account and the project repo
 
-The course project is submitted in Week 14 as a **public repository** containing a
-documented, reproducible pipeline. This milestone creates the empty repository.
+The course project is submitted in Week 14 as a **public repository** on GitHub. A
+repository (a "repo" for short) is a project folder that GitHub stores online. Yours
+will contain a documented, reproducible pipeline: the sequence of code steps that
+turns your raw data into finished results, written so that anyone can run it. This
+milestone creates the empty repository.
 
 1. Create a [GitHub](https://github.com) account if needed. Choose a professional
    username; the repository will be shared publicly.
@@ -59,7 +63,7 @@ documented, reproducible pipeline. This milestone creates the empty repository.
 3. Initialize it with a `README.md` (one sentence is sufficient for now) and the
    **Python** `.gitignore` template GitHub offers on the same screen.
 
-No further Git work is required this week. From P2 onward the repo holds the project:
+No further Git work is required this week. From P2 onward the repo contains the project files:
 raw data preserved untouched in `data/raw/`, cleaned data, notebooks, and a cleaning
 log. The P2 handout describes that structure.
 
@@ -76,6 +80,6 @@ Two links on Moodle, by Thursday, Aug 27, 11:59 PM:
       showing the `366 rows, 10 columns` output
 - [ ] The repo URL
 
-If either part failed, submit what exists plus a sentence describing what broke. A
-described failure receives full credit and gets fixed; an unreported one surfaces in
-Week 2.
+If either part failed, submit what you have, plus a sentence describing what went wrong.
+A reported failure receives full credit, and we fix it together. An unreported failure
+will cause problems in Week 2, when the first Lab depends on these tools.

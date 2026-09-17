@@ -1,7 +1,7 @@
 # DSA 405: Class Datasets
 
-Course datasets, used in class in the weeks listed below. Every file contains planted
-defects that the coursework requires finding.
+Course datasets, used in class in the weeks listed below. Every file contains defects
+that were placed there on purpose; the coursework asks you to find them.
 
 All data is **simulated**. No file describes a real restaurant, school, permit,
 inspection, or person. Anything built on these files can be published without privacy
@@ -19,20 +19,20 @@ or licensing concern.
 
 ## Before starting
 
-Inspect a file before trusting it. Open the raw text or the sheet directly before
+Look at a file before you trust it. Open the raw text or the sheet directly before
 opening it in `pandas`. Several of these files load without a single error message and
-still return wrong answers.
+are still read incorrectly, so the numbers you compute from them come out wrong.
 
 Three standing habits:
 
 1. **Count rows before and after every operation.** Write the number down.
 2. **Run `.value_counts(dropna=False)` on every column that will be used.** Missing
-   values appear under several encodings.
-3. **Stop at any surprising number.** The surprise is information; investigate it
-   before moving on.
+   values are written in several different ways in these files.
+3. **Stop at any surprising number.** A surprising number usually means the data
+   contains something you did not know about yet; investigate it before moving on.
 
 ## `read_csv` defaults
 
-`pd.read_csv("file.csv")` guesses a type for every column, and a wrong guess is silent.
-At least one column in these files loses information the instant it is read with
-defaults.
+`pd.read_csv("file.csv")` guesses a type for every column, and a wrong guess produces
+no error message. At least one column in these files loses information as soon as it is
+read with the defaults.

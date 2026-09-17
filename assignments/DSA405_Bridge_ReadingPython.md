@@ -2,19 +2,19 @@
 
 **DSA 405 · Week 0 · one page · for experienced coders**
 
-A phrasebook for readers already fluent in R, SQL, or spreadsheet formulas: it maps
-idioms from those languages onto the Python/`pandas` read all semester. Skim it during
-Week 0; keep it open during Weeks 2–5.
+A translation sheet for readers already fluent in R, SQL, or spreadsheet formulas: it
+maps each common operation in those languages onto the Python/`pandas` code you will
+read all semester. Skim it during Week 0; keep it open during Weeks 2–5.
 
 *(This is deliberately the only student document in the course that names other languages.
 All submissions are Python.)*
 
-## The phrasebook
+## The translation table
 
 | You want to… | R (dplyr) | SQL | Excel | Python / `pandas` |
 |---|---|---|---|---|
 | Load a CSV | `read_csv("f.csv")` | `COPY` / import wizard | File > Open | `pd.read_csv("f.csv")` |
-| Peek at it | `glimpse(df)` | `SELECT * … LIMIT 5` | scroll | `df.head()`, `df.info()` |
+| Look at a few rows | `glimpse(df)` | `SELECT * … LIMIT 5` | scroll | `df.head()`, `df.info()` |
 | Keep some rows | `filter(df, score < 90)` | `WHERE score < 90` | AutoFilter | `df[df.score < 90]` |
 | Keep some columns | `select(df, name, score)` | `SELECT name, score` | hide columns | `df[["name", "score"]]` |
 | New column from old | `mutate(df, z = x/y)` | `SELECT x/y AS z` | formula fill-down | `df["z"] = df.x / df.y` |
@@ -30,20 +30,21 @@ All submissions are Python.)*
 ## Six differences that cause bugs
 
 1. **Indexing starts at 0**, and slices *exclude* their endpoint: `x[0:3]` is the first
-   three items. R counts from 1 and includes both ends. This is the #1 source of
-   off-by-one bugs for R speakers.
+   three items. R counts from 1 and includes both ends. This is the most common source
+   of off-by-one bugs for R speakers.
 2. **`df[...]` is overloaded.** `df["score"]` is a column; `df[df.score < 90]` is rows.
    When confused, be explicit: `df.loc[rows, cols]` by label, `df.iloc[i, j]` by position.
 3. **`NaN` never equals anything, including itself**, matching SQL's `NULL`.
    `df.score == np.nan` is always `False`; use `df.score.isna()`. And unlike SQL,
-   `NaN` in a *grouping* column silently drops those rows from `groupby`, so count first.
+   `NaN` in a *grouping* column drops those rows from `groupby` with no warning, so
+   count your rows first.
 4. **Assignment doesn't copy.** `b = a` makes two names for one DataFrame; mutating `b`
    mutates `a`. Use `b = a.copy()` when you mean a copy. (R's copy-on-modify prevents
    this; Python's assignment does not.)
 5. **Method chaining is dplyr's pipe**, read left to right:
    `df.query("score < 90").groupby("city").score.mean()` ≈
    `df %>% filter(score < 90) %>% group_by(city) %>% summarise(mean(score))`.
-6. **Vectorize as in R**: `df.score * 2` beats a `for` loop over rows. A
+6. **Vectorize as in R**: `df.score * 2` is faster and clearer than a `for` loop over rows. A
    `for i in range(len(df))` loop can almost always be replaced by a column operation.
 
 ## Finding the pandas name for an R/SQL idiom
