@@ -139,12 +139,11 @@ where it came from. Any clarifying question they ask marks a sentence to rewrite
 
 ## Standing requirements, from P2 onward
 
-Every milestone from here needs all four. They are part of the rubric and are not
+Every milestone from here needs all of these. They are part of the rubric and are not
 re-explained in later handouts.
 
 - [ ] Notebook runs **top to bottom on a restarted kernel**
 - [ ] `README.md` states what the project is, where the data came from, and how to run it
-- [ ] `requirements.txt` complete and pinned
 - [ ] **Raw data preserved unmodified** in `data/raw/`, and project code never writes there
 
 ---
