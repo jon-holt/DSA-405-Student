@@ -148,6 +148,69 @@ re-explained in later handouts.
 
 ---
 
+## Moving files between Colab and GitHub
+
+You write your notebook in Google Colab. GitHub stores your project files. These are two
+separate websites. A change you make in one place does not appear in the other, so you
+move files between them yourself. This section explains how.
+
+One rule keeps this simple: **edit each file in only one of the two places.** You edit
+the notebook in Colab. You edit every other file on GitHub. No file is edited in both.
+
+### On GitHub: the data folder and the README
+
+GitHub has no button for making a new folder. You make a folder by typing its path into
+the name box when you create a file.
+
+1. Open your repository. Click **Add file**, then **Create new file**.
+2. In the name box, type `data/raw/SOURCES.md`. Each slash you type creates a folder.
+   This makes a folder named `data`, a folder named `raw` inside it, and a file named
+   `SOURCES.md` inside that.
+3. In that file, write one line for each data file you are about to add. Give the web
+   address you downloaded it from, and the date you downloaded it. Click **Commit
+   changes** (a commit is one saved set of changes, with a short message saying what
+   changed).
+4. Open the `data/raw/` folder. Click **Add file**, then **Upload files**, and add your
+   raw data files. Click **Commit changes**.
+5. Go back to the top of your repository and open `README.md`. Click the pencil icon to
+   edit it. Write what the project is, where the data came from, and how to run it. Click
+   **Commit changes**.
+
+After step 4, do not edit the files in `data/raw/` again, and do not let your notebook
+write to that folder. That is what "preserved unmodified" means in the standing
+requirements above.
+
+### In Colab: the notebook
+
+1. Write and run your notebook in Colab as usual.
+2. Choose **File**, then **Save a copy in GitHub**. The first time you do this, a window
+   opens asking you to let Colab use your GitHub account. Allow it. If nothing opens,
+   your browser blocked the window, so allow popups for Colab and try again.
+3. A box appears. Choose your repository. The file path is already filled in with your
+   notebook's name, and you keep it the same every time you save. Using the same path
+   means each save updates one file, instead of adding another copy of the notebook to
+   your repository.
+4. Check the box labeled **Include a link to Colab**. This puts a button at the top of
+   your notebook on GitHub. Anyone reading your repository can click that button and open
+   the notebook in Colab, ready to run.
+5. Write a short message saying what changed, then click **OK**.
+
+### Reading your data back from the repository
+
+Once your raw data files are in `data/raw/` in a public repository, your notebook can
+read them over the web, the same way every Lab in this course reads the class data:
+
+```python
+DATA = "https://raw.githubusercontent.com/YOUR-USERNAME/dsa405-project/main/data/raw/"
+df = pd.read_csv(DATA + "your_file.csv")
+```
+
+Written this way, your notebook runs for anyone who opens it, with nothing to download
+first. It also means your code cannot change your raw data, because reading from a web
+address cannot write to the file at the other end.
+
+---
+
 ## How this is graded
 
 | Criterion | Wt | The short version |
@@ -156,7 +219,7 @@ re-explained in later handouts.
 | Cleaning execution | ×2 | Correct, proportionate, alternatives considered |
 | **Cleaning log** | **×3** | Counts, reasons, what was lost, reversible |
 | Provenance Brief | ×1 | A non-specialist understands it |
-| Tidy structure & reproducibility | ×2 | Tidy, runs without errors, README and requirements present |
+| Tidy structure & reproducibility | ×2 | Tidy, runs without errors, README present |
 
 Full descriptors in *DSA 405 Project Rubrics*. Proficient on every criterion is an 88.
 

@@ -112,7 +112,7 @@ Each milestone builds on the previous one; errors left uncorrected in P2 carry f
 | 2 | **Cleaning execution** | ×2 | Cleaning is correct and proportionate. Where several approaches were defensible, states the alternatives and why this one. Nothing dropped that could have been repaired. | Cleaning is correct and addresses the problems found. | Cleaning is partial, or introduces new problems such as silent coercion or unintended row loss. | Data not meaningfully cleaned, or cleaning broke it. |
 | 3 | **Cleaning log** | ×3 | Every decision logged with what changed, how many rows or cells it touched, why, and what information is lost (even when the answer is "nothing"). Records the judgment calls as well as the operations. A reader could reverse any single decision. | Every decision logged with a stated reason. | Operations listed without reasons, or decisions visible in the code are absent from the log. | No log, or a log that contradicts the code. |
 | 4 | **Provenance Brief** (≤200 words) | ×1 | A non-specialist could read it and correctly describe what the data is, who made it, why, and what it can support. No unexplained technical terms. | Clearly states source, producer, purpose, and contents. | Explains the data but assumes technical knowledge, or omits producer or purpose. | Missing, over length, or unintelligible to a non-specialist. |
-| 5 | **Tidy structure & reproducibility** | ×2 | Result satisfies tidy principles and the student can name which rule the raw layout violated. Notebook runs top to bottom on a clean kernel. README states provenance; `requirements.txt` complete and pinned; raw data preserved unmodified. | Result is tidy. Notebook runs top to bottom. README and `requirements.txt` present and adequate. | Partially reshaped, or runs only with manual intervention, or documentation files are thin. | Not tidy, does not run, or files missing. |
+| 5 | **Tidy structure & reproducibility** | ×2 | Result satisfies tidy principles and the student can name which rule the raw layout violated. Notebook runs top to bottom on a clean kernel. README states provenance; raw data preserved unmodified. | Result is tidy. Notebook runs top to bottom. README present and adequate. | Partially reshaped, or runs only with manual intervention, or documentation files are thin. | Not tidy, does not run, or files missing. |
 
 ### P2 Student Checklist
 - [ ] Systematic audit output included, not only a prose summary of it
@@ -123,7 +123,7 @@ Each milestone builds on the previous one; errors left uncorrected in P2 carry f
 - [ ] Row and column counts before and after cleaning
 - [ ] Provenance Brief under 200 words, no jargon
 - [ ] Notebook restarted and run top to bottom, clean
-- [ ] `README.md` and `requirements.txt` present; raw data untouched
+- [ ] `README.md` present; raw data untouched
 - [ ] Bench Check scheduled
 - [ ] Self-scored rubric attached
 
@@ -167,7 +167,7 @@ P4 assesses the project as a whole; P2 and P3 work is not re-audited.
 | 3 | **Who is missing** | ×2 | Names specific people, places, or cases the data excludes and traces the consequence for the conclusions. Identifies at least one question this data cannot answer no matter how well it is cleaned. | Identifies real exclusions and limitations, with some consequence stated. | Generic caveats such as "the sample could be bigger." | No discussion of limits or exclusions. |
 | 4 | **AI use log & reflection** | ×2 | Specific account of tools, tasks, and outputs. Reports at least one thing a model got wrong, how it was caught, and what that changed about how they now use these tools. | Discloses tools and tasks, and notes how output was verified. | Vague disclosure such as "used ChatGPT for help." | No disclosure, or a disclosure the work contradicts. |
 | 5 | **Technical ambition** *(tier-gated)* | ×2 | **Tier 2–3 only.** The acquisition or integration work is demanding and executed well: robust multi-page scraping, a validated extraction, or a resolved many-to-many relationship. | Meets the declared tier's requirements competently. **Ceiling for Tier 1.** | Falls short of the declared tier, or the demanding component does not work. | No meaningful acquisition or integration work. |
-| 6 | **Repository & reproducibility** | ×2 | A stranger clones the repo, follows the README, and reproduces the result. No credentials committed. Raw data preserved or its retrieval scripted. | Repo runnable with README and `requirements.txt`. | Repo present; a stranger could not reproduce it without asking questions. | No repo, or it does not run. |
+| 6 | **Repository & reproducibility** | ×2 | A stranger clones the repo, follows the README, and reproduces the result. No credentials committed. Raw data preserved or its retrieval scripted. | Repo runnable with README. | Repo present; a stranger could not reproduce it without asking questions. | No repo, or it does not run. |
 | 7 | **Documentation carried forward** | ×1 | Dictionary, cleaning log, and provenance all present and **updated to the final state of the data**, including anything that changed after P3. | Present and consistent with the final data. | Present but stale relative to the final data. | Missing. |
 
 ### P4 Student Checklist
