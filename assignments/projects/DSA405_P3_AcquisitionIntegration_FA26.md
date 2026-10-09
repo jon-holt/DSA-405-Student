@@ -8,8 +8,7 @@
 | **Due** | **Thursday, Nov 5, 11:59 PM** |
 | **Weight** | 12% of course grade · scored on the P3 rubric, 5 criteria |
 | **Submit** | Notebook + repo link. `DSA405_002_FA26_P3_[yourUnityID].ipynb` |
-| **Also this window** | **Bench Check 2**, Weeks 10–12. This is the final Bench Check window. |
-| **Time** | 6–8 hours across four weeks. The acquisition usually takes longer than students expect. |
+| **Time** | 6–8 hours across four weeks. |
 
 **Revision available once.**
 
@@ -24,11 +23,6 @@ For most of you, the web source is the second source you named in P1, the one P2
 use. Some of you already collected your web source for P1 or P2. P3 still grades the code
 that collects it, and you do not need a new source. See "If you already collected your web
 source" under Deliverable 1.
-
-The rubric's heaviest weight (×3) is on the **verification suite** rather than the
-acquisition. Writing retrieval code now takes very little time. Checking whether the
-result is correct still takes real time and judgment, and that checking is the skill
-this milestone builds.
 
 ---
 
@@ -77,8 +71,7 @@ A short section, mostly a pointer back to A8.
 - Confirm the acquisition as built matches the plan written in A8.
 - **Where the built version differs from the plan, document why.** We call this
   difference drift. Sources change between planning and execution, so documented drift is
-  a normal part of the work. What the rubric cannot credit is drift with no explanation,
-  because your reader cannot tell it apart from a mistake.
+  a normal part of the work. 
 - Re-confirm: no login, no paywall, no personal data, no circumvention of any protection.
 
 ### 3. Join design
@@ -101,14 +94,11 @@ here means your stated understanding of the data was wrong, which is exactly the
 the `validate` option is designed to catch. An error now is much better than a wrong analysis later,
 because the error appears while there is still time to fix the join.
 
-Two failure modes, both covered this term: a join can **add** rows that should not exist
+There are two common failures that we discussed in class: a join can **add** rows that should not exist
 (Week 6's fan-out) and it can **remove** rows that should remain (Week 6's wreck, the
 inner join). State which one your design guards against, and how.
 
 ### 4. The verification suite
-
-The heaviest-weighted criterion (×3), and the subject of the Bench Check 2
-conversation.
 
 **At least five assertions**, each encoding a real assumption about the data, each with
 a comment stating **what it protects against**. If you cannot say what an assertion
@@ -125,7 +115,7 @@ Cover at least these five kinds:
 | Value range | every value falls inside what is possible, rather than what occurred |
 | Referential integrity | every key in the left table exists in the right |
 
-Write it as a function that returns a list of failures, so you can call it repeatedly:
+**Optional**: Write it as a *function* that returns a list of failures, so you can call it repeatedly:
 
 ```python
 def verify(df, n_expected):
@@ -147,6 +137,10 @@ Take a copy of the joined data, **break it three different ways**, and show the 
 catching each one. A mutation is a deliberate change that makes the data wrong. The three
 mutations must cause three *different* checks to fail. Print the output.
 
+The code below is an example of how to *intentionally mess up your data*, so you can show that your assertions catch the problem. 
+
+Then, after you mess up your data, apply your assertions. 
+
 ```python
 mutations = {}
 m1 = df.copy(); m1.loc[m1.index[0], "score"] = 9999
@@ -157,29 +151,13 @@ for label, mutated in mutations.items():
     print(f"{label:34} -> {verify(mutated, len(df))}")
 ```
 
-Then the required final step:
-
-**Design a mutation the suite would NOT catch.** A change that makes the data wrong
-while every check still passes. Show it passing. Then write the check that would catch
-it.
-
-A verification suite is not a proof of correctness. It is a list of the specific things
-someone thought to check. Knowing what yours does not check is part of the deliverable,
-because the gap you've named is the one you can watch for by other means.
-
 ---
 
 ## Report one thing that surprised you
 
-Somewhere in this milestone, a number will come out different from what you expected: a
-row count, a match rate, a duplicate you did not know about, a date range that cannot be right.
+Over the course of this exercise, did you learn something new about your data? Was there a row count, a match rate, a duplicate you did nto know about? A date range that cannot be right?
 
-**Write it down: what you expected, what appeared, and what it turned out to be.**
-
-If nothing surprised you, there are two possibilities: either the data is unusually
-clean, in which case say so and describe what you checked, or you have not yet examined
-the data closely enough. The mutation exercise above is a good way to tell which of the
-two is true.
+Write down one thing you learned or one thing that surprised you. If nothing surprised you, described what you checked. 
 
 ---
 
@@ -200,40 +178,13 @@ untouched.
 
 ---
 
-## If a source becomes unavailable
+## Practical advice
 
-Websites change their structure, APIs are shut down or changed, and terms of service
-change. If this happens to you, it will most likely happen in October, because that is
-when you are building P3.
-
-If a source documented in A8 becomes unavailable through no fault of yours:
-
-1. **Email me within 48 hours.**
-2. Bring the evidence: the old plan, the new response, what changed.
-3. We agree on a substitute or a reduced scope from there.
-
-**Documented adaptation counts as a strength on the rubric.** Showing that an endpoint
-was shut down, and finding a substitute within a week, demonstrates exactly the judgment
-this course is about. The harmful choice is saying nothing: a pipeline that broke weeks
-earlier and is submitted in November with no message in between, because by then there
-is no time left to adapt the plan.
-
----
-
-## Practical advice, in order of how much time it saves
-
-**Cache from the first request**, not later. Save every raw response to `data/raw/` and
-read from disk during development. Your parsing code will run fifty times; the site
-should receive only one request for each page.
+**Cache your data** Save every raw response to `data/raw/` and
+read from disk during development. Don't scrape your data more than once.
 
 **Get one record working end to end before looping.** One page, one record, one join, one
-assertion, then scale up. Debugging code inside a loop over 400 pages is slow and
-frustrating. Debugging one page first is much faster.
+assertion, then scale up. 
 
 **Write the assertion before the code it checks.** State the expected row count, then
-write the merge. The reverse order produces an assertion that describes whatever
-happened to come out.
-
-**Do not scale up on the last day.** A scraper that needs 40 minutes to run will use up
-40 minutes of Thursday night, plus however long it takes you to notice that page 31
-failed to load.
+write the merge. 
