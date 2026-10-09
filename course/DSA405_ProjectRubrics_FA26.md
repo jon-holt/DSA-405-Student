@@ -41,7 +41,7 @@ Proficient on every criterion converts to an 88, a B+. Correct and complete work
 | Lightning talk & peer feedback | 6 | 10% |
 | **Project total** | | **55%** |
 
-Remaining 45%: in-class activities and participation 15%, Labs take-home half A1–A9 30%.
+Remaining 45%: in-class activities and participation 15%, Labs take-home half A1–A11 30%.
 
 ### P4 Scope
 
@@ -135,12 +135,15 @@ Each milestone builds on the previous one; errors left uncorrected in P2 carry f
 | # | Criterion | Wt | 4 — Excellent | 3 — Proficient | 2 — Developing | 1 — Limited |
 |---|---|---|---|---|---|---|
 | 1 | **Acquisition code** | ×2 | Retrieves reliably and handles the problems real sites cause: pagination, timeouts, non-200 responses, empty selector matches. Rate-limited, honest user-agent, cached so no resource is fetched twice. Raises an error or logs a message on any condition that would otherwise produce wrong output with no error message, and demonstrates one such condition being caught. | Retrieves the intended data correctly, with rate limiting and caching, and includes checks that would surface an empty or malformed response. | Retrieves some data but fails on pagination, or lacks rate limiting, or has a bare `except` that hides errors. | Does not retrieve the data, or data obtained by hand and presented as code. |
-| 2 | **Ethics & legality in practice** | ×2 | Acquisition matches the A7 plan and every guardrail. Where terms or robots.txt forced a change of approach, documents it. No personal data, no authenticated access. | Complies with guardrails and terms. | Complies but cannot demonstrate it, or drifted from the A7 plan without documenting why. | Violates a guardrail, scrapes behind a login, or collects personal data. |
+| 2 | **Ethics & legality in practice** | ×2 | Acquisition matches the A8 plan and every guardrail. Where terms or robots.txt forced a change of approach, documents it. No personal data, no authenticated access. | Complies with guardrails and terms. | Complies but cannot demonstrate it, or drifted from the A8 plan without documenting why. | Violates a guardrail, scrapes behind a login, or collects personal data. |
 | 3 | **Join design** | ×2 | Correct join type, with keys and expected cardinality stated **before** the merge. Explains why the alternatives were wrong here. Unmatched rows handled deliberately. | Correct join type; keys identified; unmatched rows handled. | Join runs but the type is wrong for the relationship, or keys were not examined first. | No join, or a join producing data the student cannot explain. |
 | 4 | **Verification suite** | ×3 | At least **five** assertions encoding real assumptions: row counts, key uniqueness, cardinality, value ranges, no unexpected nulls. **Demonstrates the suite catching a defect on a deliberately mutated copy of their own data**, with the failure output shown. Explains what mistake each assertion would catch. | At least five working assertions covering row counts, key uniqueness, and cardinality, with a demonstrated catch on mutated data. | Fewer than five assertions, or assertions present but never demonstrated catching anything. | No verification, or "the result looked right." |
 | 5 | **Reproducibility & readability** | ×1 | Runs clean end to end. Readable by a peer without narration: named steps, no unexplained constants, comments explaining intent. README updated with new sources. | Runs clean, readable, README updated. | Runs with intervention, or code is hard to follow. | Does not run, or the pipeline is absent. |
 
+**Which source Criterion 1 grades.** Criterion 1 grades the code that collects the project's web source, whichever milestone first collected it. A student who collected the web source for P1 or P2 puts that collection code in the P3 notebook and brings it up to this standard; no new source is needed. A cell that only loads a saved file is not acquisition code.
+
 ### P3 Student Checklist
+- [ ] Collection code for your web source is in this notebook, even if you first collected it for P1 or P2
 - [ ] Acquisition code runs from scratch on a clean cache
 - [ ] Rate limiting present; user-agent gives an honest identification
 - [ ] At least one deliberate failure demonstrated being caught
@@ -148,7 +151,7 @@ Each milestone builds on the previous one; errors left uncorrected in P2 carry f
 - [ ] Row counts before and after the join
 - [ ] Five or more assertions, each with a comment saying what mistake it would catch
 - [ ] Suite demonstrated catching a defect on a mutated copy of the data
-- [ ] Acquisition matches the A7 plan, or the drift is documented
+- [ ] Acquisition matches the A8 plan, or the drift is documented
 - [ ] README updated
 - [ ] Bench Check scheduled
 - [ ] Self-scored rubric attached

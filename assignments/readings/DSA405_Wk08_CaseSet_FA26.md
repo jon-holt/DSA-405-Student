@@ -20,7 +20,7 @@ browser.
 The single question is really **four separate questions under four different bodies of
 law**, and most of the confusion around scraping comes from mixing them together. In this
 course we call these four categories **buckets**. Sorting a situation into its buckets is
-usually enough to see it clearly, and the in-class scenarios and assignment A7 both ask
+usually enough to see it clearly, and the in-class scenarios and assignment A8 both ask
 you to do exactly that.
 
 | Bucket | The question | The law | The key point |

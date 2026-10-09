@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Introduced** | Week 8 (Oct 9), as A7. Built across Weeks 9–11. |
+| **Introduced** | Week 8 (Oct 9), as A8. Built across Weeks 9–11. |
 | **Due** | **Thursday, Nov 5, 11:59 PM** |
 | **Weight** | 12% of course grade · scored on the P3 rubric, 5 criteria |
 | **Submit** | Notebook + repo link. `DSA405_002_FA26_P3_[yourUnityID].ipynb` |
@@ -17,8 +17,13 @@
 
 ## Purpose
 
-P3 executes the plan you wrote in **A7**: acquire data from the web, join it to the
-source you cleaned in P2, and **prove the join is correct.**
+P3 executes the plan you wrote in **A8**. It has three parts: code that collects your web
+source, a join between your two sources, and **proof that the join is correct.**
+
+For most of you, the web source is the second source you named in P1, the one P2 did not
+use. Some of you already collected your web source for P1 or P2. P3 still grades the code
+that collects it, and you do not need a new source. See "If you already collected your web
+source" under Deliverable 1.
 
 The rubric's heaviest weight (×3) is on the **verification suite** rather than the
 acquisition. Writing retrieval code now takes very little time. Checking whether the
@@ -57,11 +62,19 @@ For an API source, read the rate limit **from the response headers**, not from t
 documentation, and show that code in the notebook. The documentation can be out of date;
 the headers state the limit that actually applies to your requests right now.
 
+**If you already collected your web source.** Some of you collected your web source for P1
+or P2, by scraping a site, by calling an API, or with `read_html`. Deliverable 1 still
+applies to you, and it grades the code that collects that source. Put that code in this
+notebook, and bring it up to every requirement in the list above. Most collection code
+written before now has no cache, no pause between requests, and no demonstrated failure,
+so expect to add those three things. A cell that only loads a file you saved earlier does
+not count as acquisition code, because it does not show how the data was collected.
+
 ### 2. Ethics and legality in practice
 
-A short section, mostly a pointer back to A7.
+A short section, mostly a pointer back to A8.
 
-- Confirm the acquisition as built matches the plan written in A7.
+- Confirm the acquisition as built matches the plan written in A8.
 - **Where the built version differs from the plan, document why.** We call this
   difference drift. Sources change between planning and execution, so documented drift is
   a normal part of the work. What the rubric cannot credit is drift with no explanation,
@@ -175,7 +188,7 @@ two is true.
 | Criterion | Wt | The short version |
 |---|---|---|
 | Acquisition code | ×2 | Retrieves reliably, rate-limited, cached, and fails loudly, with one demonstrated catch |
-| Ethics & legality in practice | ×2 | Matches the A7 plan; drift documented |
+| Ethics & legality in practice | ×2 | Matches the A8 plan; drift documented |
 | Join design | ×2 | Keys and cardinality stated **before** the merge; alternatives ruled out |
 | **Verification suite** | **×3** | Five-plus real assertions, demonstrated catching mutated data |
 | Reproducibility & readability | ×1 | Runs without errors, readable by a peer, README updated |
@@ -193,7 +206,7 @@ Websites change their structure, APIs are shut down or changed, and terms of ser
 change. If this happens to you, it will most likely happen in October, because that is
 when you are building P3.
 
-If a source documented in A7 becomes unavailable through no fault of yours:
+If a source documented in A8 becomes unavailable through no fault of yours:
 
 1. **Email me within 48 hours.**
 2. Bring the evidence: the old plan, the new response, what changed.

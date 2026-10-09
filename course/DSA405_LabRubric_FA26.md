@@ -1,18 +1,22 @@
 # DSA 405: Lab Rubric
-### A1–A9, the take-home half of the weekly Lab · Fall 2026
+### A1–A11, the take-home half of the weekly Lab · Fall 2026
 
 
 ## Scope
 
 Each week has **one Lab**. The half worked during Explore is in-class credit, scored on
-engagement. The half finished at home is the take-home, **A1 through A9**; together the
+engagement. The half finished at home is the take-home, **A1 through A11**; together the
 take-homes are **30% of the course grade**. This rubric scores the take-home half.
 
 Nine take-homes across fourteen weeks: A1 (Wk 1), A2 (Wk 2), A3 (Wk 3), A4 (Wk 4),
-A5 (Wk 5), A6 (Wk 7), A7 (Wk 8), A8 (Wk 9), and A9 (Wk 11). Weeks 6, 10, and 12 have no
+A5 (Wk 5), A6 (Wk 7), A8 (Wk 8), A9 (Wk 9), and A11 (Wk 11). Weeks 6, 10, and 12 have no
 take-home; a project milestone or work session takes its place. Each is due the Thursday
-after class at 11:59 PM, except A9, which is due **Thu Nov 12**; the extra week accounts
+after class at 11:59 PM, except A11, which is due **Thu Nov 12**; the extra week accounts
 for P3 being due Nov 5.
+
+From Week 8 on, each take-home carries the number of its week, so A8 belongs to Week 8
+and Lab 8. Week 7's take-home kept the name A6, because it was assigned before this change.
+That is why there is no A7, A10, or A12.
 
 Budget: finishing the Lab at home should take **45–60 minutes**, continuing what Explore
 started rather than starting over. If it routinely takes longer, report that to Dr. Holt.
