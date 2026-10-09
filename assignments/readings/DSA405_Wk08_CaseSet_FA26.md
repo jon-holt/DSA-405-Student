@@ -1,15 +1,16 @@
 # Week 8 Reading: Law, Ethics, and the Closing Web
-### DSA 405 · Read before class on Friday, Oct 9
+### DSA 405 · Week 8 · Friday, Oct 9
 
 **This document is educational material, not legal advice, and I am not a lawyer.** The
 law in this area is not settled and differs by country and state, and a project with real
 legal consequences requires advice from a lawyer.
 
-Read this once before class. You do not need to memorize any of it: we will spend
-the class period working through six scenarios in teams, and the vocabulary becomes
-familiar quickly.
-Bring the `robots.txt` of a site you'd consider scraping for your project. A
-`robots.txt` is a text file in which a site's owner states which pages automated
+We go through the four buckets and the five cases together in class on Friday, so you
+do not need to read this before class. Keep it open during the team activity: the six
+scenarios you work on are at the end. Read it in full before you write A8, because the
+bucket analysis in A8 uses all of it. You do not need to memorize any of it.
+
+A `robots.txt` is a text file in which a site's owner states which pages automated
 programs may fetch; you can see any site's by opening `site.com/robots.txt` in a
 browser.
 
