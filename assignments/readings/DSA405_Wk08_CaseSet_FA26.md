@@ -1,7 +1,7 @@
 # Week 8 Reading: Law, Ethics, and the Closing Web
 ### DSA 405 · Week 8 · Friday, Oct 9
 
-**This document is educational material, not legal advice, and I am not a lawyer.** The
+**This document is educational material, not legal advice.** The
 law in this area is not settled and differs by country and state, and a project with real
 legal consequences requires advice from a lawyer.
 
@@ -203,6 +203,4 @@ residential proxy service and continues collecting public product prices.
 **F.** A state open-data CSV released under CC BY 4.0 is downloaded, analyzed, and published
 without naming the source.
 
-Come with an opinion on each; we will spend most of the class period arguing about them,
-and the argument is the point. One of the six carries more legal risk than it first
-appears to.
+Come with an opinion on each; we will spend time in class discussing. One of the six carries more legal risk than the others. 
