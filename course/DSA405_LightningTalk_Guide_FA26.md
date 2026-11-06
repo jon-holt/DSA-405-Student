@@ -1,6 +1,6 @@
 # Lightning Talk Guide
 
-**DSA 405 · Fall 2026 · Nov 13 and Nov 20 
+**DSA 405 · Fall 2026 · Nov 13 and Nov 20** 
 
 You each get to design your own slides, but the layout is fixed so that we can stay on schedule: 
 
